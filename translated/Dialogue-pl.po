@@ -1,0 +1,3211 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+"X-Crowdin-Project: poppy-playtime-chapter-5-spols\n"
+"X-Crowdin-Project-ID: 874654\n"
+"X-Crowdin-Language: pl\n"
+"X-Crowdin-File: Dialogue.pot\n"
+"X-Crowdin-File-ID: 3\n"
+"Project-Id-Version: poppy-playtime-chapter-5-spols\n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"PO-Revision-Date: 2026-03-16 17:45\n"
+
+msgctxt "/3380D2E8461F72964C9803969D113A39"
+msgid "???"
+msgstr ""
+
+msgctxt "/3DC38CDC44CDFE4CAE5835988FC9D8FD"
+msgid "Announcer"
+msgstr ""
+
+msgctxt "/9A364563443FB596024B3D987281AF56"
+msgid "Baba Chops"
+msgstr ""
+
+msgctxt "/D7C7696C413222FDED8C158834431B38"
+msgid "Bobby BearHug"
+msgstr ""
+
+msgctxt "/3849A8A44FDC1FECDA73C9A947D95188"
+msgid "Child"
+msgstr ""
+
+msgctxt "/9C67753F4F6D545538C72088E4D6DFDC"
+msgid "Chum Chompkins"
+msgstr ""
+
+msgctxt "/6420A5104873E73B0F42E2977842A472"
+msgid "Critter"
+msgstr ""
+
+msgctxt "/9D62A1434B705D12F788D39F4709D789"
+msgid "Dad"
+msgstr "Tata"
+
+msgctxt "/B78AA06C47DA8B2338A6C9BE62BF2960"
+msgid "Eddie Ritterman"
+msgstr ""
+
+msgctxt "/BB0ED89A403085C588E7039322B587D0"
+msgid "Elliot Ludwig"
+msgstr ""
+
+msgctxt "/DB4FE1C747C59115C18467999BF617EA"
+msgid "Giblet"
+msgstr ""
+
+msgctxt "/BC574AE0434707D8F949D7BD6EA2F2C6"
+msgid "Gomez"
+msgstr ""
+
+msgctxt "/A4E0C43E40BCE1CB32BD8F8D054CDFAA"
+msgid "Hoppy Hopscotch"
+msgstr ""
+
+msgctxt "/870D06D04B6E05F203EC6BB89D8F522B"
+msgid "Kickin Chicken"
+msgstr ""
+
+msgctxt "/E03334A4409064203E13F1B515276AA9"
+msgid "Kissy Missy"
+msgstr ""
+
+msgctxt "/380ACBA645D0BBE5DB76DF905942DC92"
+msgid "Leith Pierre"
+msgstr ""
+
+msgctxt "/4B51F0184B42880206B598BA5D97625C"
+msgid "Lily Lovebraids"
+msgstr ""
+
+msgctxt "/B638589C42849A8B1DDFB9899CEB7BB7"
+msgid "Marketing Junior"
+msgstr ""
+
+msgctxt "/BAC5957943BC1F310F69A9B566F18451"
+msgid "Megan"
+msgstr ""
+
+msgctxt "/4C7CD9A7459B613D7721069789D1DC12"
+msgid "Mom"
+msgstr "Mama"
+
+msgctxt "/E9B8BD4340EFAA2E89E7B79274D6772B"
+msgid "Ms. Gracie"
+msgstr ""
+
+msgctxt "/0534419942AA339A5615288B69B41BF5"
+msgid "Ms. Gracie. You’re Ms. Gracie. You have a first name, what was it? What…"
+msgstr "Pani Gracie. Jesteś panią Gracie. Masz imię, jakie ono było? Jakie…"
+
+msgctxt "/E6B1F3404BE8832A3A2E308E167F3A66"
+msgid "Narration"
+msgstr "Narracja"
+
+msgctxt "/93E38B6C49B342D08DEBF9B7010DBEC9"
+msgid "Oliver"
+msgstr ""
+
+msgctxt "/9977A47744E659D64D49BF8A1749E6E3"
+msgid "Outimal"
+msgstr ""
+
+msgctxt "/15A6FA624B24C87960BA5CB5F91AB281"
+msgid "Poppy"
+msgstr ""
+
+msgctxt "/7C597EC0476144DD942475B542E21469"
+msgid "Security Staffer"
+msgstr "Personel bezpieczeństwa"
+
+msgctxt "/EF57D0F64E42EFD15E7C259EBED5C3BF"
+msgid "Singers"
+msgstr "Śpiewacy"
+
+msgctxt "/082FB89A46FF54418EC8B7B492975C8B"
+msgid "The Doctor\""
+msgstr "Doktor\""
+
+msgctxt "/F2833F2B42130CB72BF7D2841B5976D2"
+msgid "The Prototype"
+msgstr "Prototyp"
+
+msgctxt "/2B59F26F4BC9300B149EF29E70988A3E"
+msgid "Todd"
+msgstr ""
+
+msgctxt "/3862F5AF48A493B186C0A29FA8BE3FC6"
+msgid "Toy"
+msgstr "Zabawka"
+
+msgctxt "DT_DIA_BARK_CRYING_Lily_01/1_Line"
+msgid "(Crying)"
+msgstr "(Płacz)"
+
+msgctxt "DT_DIA_BARK_CRYING_Lily_02/1_Line"
+msgid "(Crying)"
+msgstr "(Płacz)"
+
+msgctxt "DT_DIA_BARK_CTP_Lily_01/1_Line"
+msgid "I'll keep you forever! And ever! And ever!"
+msgstr "Zatrzymam cię tu zawsze! Na zawsze! I na zawsze!"
+
+msgctxt "DT_DIA_BARK_JS_Lily_01/1_Line"
+msgid "THIS IS ALL YOUR FAULT. YOU’RE A BAD TOY!"
+msgstr "TO WSZYSTKO TWOJA WINA. JESTEŚ ZŁĄ ZABAWKĄ!"
+
+msgctxt "DT_DIA_BARK_JS_Lily_02/1_Line"
+msgid "YOU'RE GOING INTO THE BAD TOY BOX!"
+msgstr "IDZIESZ DO PUDEŁKA NA ZŁE ZABAWKI!"
+
+msgctxt "DT_DIA_BARK_JS_LILY_03_001/1_Line"
+msgid "BAD TOY BOX! BAD TOY BOX!"
+msgstr "ZŁE PUDŁO! ZŁE PUDŁO!"
+
+msgctxt "DT_DIA_BARK_JS_Lily_05/1_Line"
+msgid "A BAD TOY!! YOU’RE A BAD TOY!"
+msgstr "ZŁA ZABAWKA! JESTEŚ ZŁĄ ZABAWKĄ!"
+
+msgctxt "DT_DIA_BARK_JS_LILY_06/1_Line"
+msgid "YOU'RE GOING INTO THE BAD TOY BOX! (Laughs)"
+msgstr "IDZIESZ DO PUDEŁKA NA ZŁE ZABAWKI! (Śmiech)"
+
+msgctxt "DT_DIA_BARK_LAUGH_Lily_01/1_Line"
+msgid "(Laughing)"
+msgstr "(Śmiech)"
+
+msgctxt "DT_DIA_BARK_LAUGH_Lily_02/1_Line"
+msgid "(Laughing)"
+msgstr "(Śmiech)"
+
+msgctxt "DT_DIA_BARK_LAUGH_Lily_03/1_Line"
+msgid "(Laughing)"
+msgstr "(Śmiech)"
+
+msgctxt "DT_DIA_BARK_LAUGH_Lily_04/1_Line"
+msgid "(Laughing)"
+msgstr "(Śmiech)"
+
+msgctxt "DT_DIA_BARK_LAUGH_Lily_05/1_Line"
+msgid "(Laughing)"
+msgstr "(Śmiech)"
+
+msgctxt "DT_DIA_BARK_LAUGH_Lily_06/1_Line"
+msgid "(Laughing)"
+msgstr "(Śmiech)"
+
+msgctxt "DT_DIA_BARK_LAUGH_Lily_07/1_Line"
+msgid "(Laughing)"
+msgstr "(Śmiech)"
+
+msgctxt "DT_DIA_BARK_OS_Lily_02/1_Line"
+msgid "Ms. Gracie always said bad toys misbehave."
+msgstr "Pani Gracie zawsze mawiała, że złe zabawki się nie słuchają."
+
+msgctxt "DT_DIA_BARK_OS_Lily_09/1_Line"
+msgid "(Humming)"
+msgstr "(Nucenie)"
+
+msgctxt "DT_DIA_BARK_OS_Lily_10/1_Line"
+msgid "(Humming)"
+msgstr "(Nucenie)"
+
+msgctxt "DT_DIA_BARK_SFP_Lily_01/1_Line"
+msgid "Did you hear that, Candy?"
+msgstr "Słyszałaś to Candy?"
+
+msgctxt "DT_DIA_BARK_SFP_Lily_01/2_Line"
+msgid "Is someone in here?"
+msgstr "Czy ktoś tu jest?"
+
+msgctxt "DT_DIA_BARK_SFP_Lily_02/1_Line"
+msgid "I don’t remember inviting you in here."
+msgstr "Nie pamiętam, żebym cię tu zapraszała."
+
+msgctxt "DT_DIA_BARK_SFP_Lily_03/1_Line"
+msgid "Somebody isn’t supposed to be here."
+msgstr "Kogoś tutaj nie powinno być."
+
+msgctxt "DT_DIA_BARK_SFP_Lily_04/1_Line"
+msgid "Candy, listen."
+msgstr "Candy, słuchaj."
+
+msgctxt "DT_DIA_BARK_SFP_Lily_04/2_Line"
+msgid "I think someone’s here."
+msgstr "Myślę, że ktoś tu jest."
+
+msgctxt "DT_DIA_BARK_SFP_Lily_08/1_Line"
+msgid "Olly Olly Oxen Free!"
+msgstr ""
+
+msgctxt "DT_DIA_BARK_SFP_Lily_13/1_Line"
+msgid "Come out, come out, wherever you are!"
+msgstr "Wychodź, wychodź, gdziekolwiek jesteś!"
+
+msgctxt "DT_DIA_BARK_SFP_Lily_15/1_Line"
+msgid "Hmmm. Not here. Guess they knew better. (Giggles)"
+msgstr "Hmmm. Tu nie. Chyba wiedzieli, że tu sprawdzę. (Chichot)"
+
+msgctxt "DT_DIA_BARK_TTP_Lily_26/1_Line"
+msgid "Taking. Breaking. Nobody takes or breaks my pretty things."
+msgstr "Biorą. Niszczą. Nikt nie tyka moich pięknych skarbów."
+
+msgctxt "DT_DIA_BARK_TTP_Lily_27/1_Line"
+msgid "No. No no. A good toy doesn’t… A good toy doesn’t break other people’s things!"
+msgstr "Nie. Nie nie. Dobra zabawka nie… Dobra zabawka nie niszczy cudzych rzeczy!"
+
+msgctxt "DT_DIA_BG_Giblet_Line_00001/1_Line"
+msgid "So.... where exactly is your digestive system?"
+msgstr "Więc... gdzie dokładnie jest twój układ pokarmowy?"
+
+msgctxt "DT_DIA_BG_Giblet_Line_00001/2_Line"
+msgid "You know what, don't answer that. "
+msgstr "Wiesz co, nie odpowiadaj. "
+
+msgctxt "DT_DIA_BG_Giblet_Line_00002/1_Line"
+msgid "Yuck! This place stinks. Chum, at least pick up the candy wrappers or something."
+msgstr "Fuj! Jak tu cuchnie. Koleś, weź chociaż pozbieraj te papierki po cukierkach czy coś."
+
+msgctxt "DT_DIA_BG_Giblet_Line_00003/1_Line"
+msgid "Look, bud, you and I, we need to work on your housekeeping skills."
+msgstr "Słuchaj, stary, musimy popracować nad twoim sprzątaniem."
+
+msgctxt "DT_DIA_BG_Giblet_Line_00004/2_Line"
+msgid "Asking for a friend."
+msgstr "Pytam dla kolegi."
+
+msgctxt "DT_DIA_BG_Giblet_Line_00004/1_Line"
+msgid "So, how do you keep your fur so, clean?"
+msgstr "Więc... jak utrzymujesz swoją sierść tak czystą?"
+
+msgctxt "DT_DIA_BG_Giblet_Line_00005/1_Line"
+msgid "Hey, don’t you take that tone with me."
+msgstr "Hej, nie mów do mnie takim tonem."
+
+msgctxt "DT_DIA_Cassette_Case_wav/14_Line"
+msgid "(Screaming, crying)"
+msgstr "(Krzyk, płacz)"
+
+msgctxt "DT_DIA_Cassette_Case_wav/1_Line"
+msgid "Ah, here you are… Hiding in your room. "
+msgstr "Ah, tutaj jesteś…Chowasz się w swoim pokoju. "
+
+msgctxt "DT_DIA_Cassette_Case_wav/6_Line"
+msgid "Even if you kill me, you’ll be fighting the others for years… Please, just let them go and NO one else needs to die for either of us… Please…"
+msgstr "Nawet jeśli mnie zabijesz, będziesz walczyć z pozostałymi przez lata… Proszę, po prostu ich puść i NIKT inny nie musi umierać dla żadnego z nas… Proszę…"
+
+msgctxt "DT_DIA_Cassette_Case_wav/7_Line"
+msgid "Everything dies Poppy… everything except us."
+msgstr "Poppy, wszystko umiera… poza nami."
+
+msgctxt "DT_DIA_Cassette_Case_wav/4_Line"
+msgid "Failed. It scared you. And so, you ran. Like a child."
+msgstr "Zawiodłaś. Przestraszyłaś się. I wtedy uciekłaś. Jak dziecko."
+
+msgctxt "DT_DIA_Cassette_Case_wav/3_Line"
+msgid "I can’t… I can’t be who they need. I’m not… I didn’t ask for them to look to me… But I—"
+msgstr "Nie mogę... Nie mogę być tą, kogo potrzebują. Ja nie jestem... Ja po prostu-"
+
+msgctxt "DT_DIA_Cassette_Case_wav/11_Line"
+msgid "I know only one way to make you see this."
+msgstr "Znam tylko jeden sposób, by ci to pokazać."
+
+msgctxt "DT_DIA_Cassette_Case_wav/12_Line"
+msgid "No, no no no! Prototype, please—"
+msgstr "Nie, nie nie nie! Prototype, proszę-"
+
+msgctxt "DT_DIA_Cassette_Case_wav/5_Line"
+msgid "Prototype… Stop this. Please. You wanted something better, but if you don’t let the orphans go, you won’t get it. Don’t you see that?"
+msgstr "Prototypie… Skończ z tym. Proszę. Chciałeś czegoś lepszego, ale nie zdobędziesz tego, dopóki nie uwolnisz sierot. Nie rozumiesz?"
+
+msgctxt "DT_DIA_Cassette_Case_wav/2_Line"
+msgid "Running away… from the… rebellion you started."
+msgstr "Uciekasz… przed buntem… który wywołałaś."
+
+msgctxt "DT_DIA_Cassette_Case_wav/13_Line"
+msgid "STOP! PLEASE!!"
+msgstr "PRZESTAŃ! PROSZĘ!!"
+
+msgctxt "DT_DIA_Cassette_Case_wav/8_Line"
+msgid "What are you—"
+msgstr "Co ty-"
+
+msgctxt "DT_DIA_Cassette_Case_wav/9_Line"
+msgid "You refuse truth. You refuse reality:"
+msgstr "Odrzucasz prawdę. Odrzucasz rzeczywistość:"
+
+msgctxt "DT_DIA_Cassette_Case_wav/10_Line"
+msgid "Your orphans can never go free. The work must continue. Otherwise, we’ll be left with nothing, and infinity will be lonely."
+msgstr "Sieroty nigdy nie będą wolne. Praca musi trwać. Inaczej zostaniemy z niczym, a wieczność będzie samotna."
+
+msgctxt "DT_DIA_Cassette_ElliotPrototype_wav/3_Line"
+msgid " Oliver?"
+msgstr ""
+
+msgctxt "DT_DIA_Cassette_ElliotPrototype_wav/22_Line"
+msgid "...Nothing can make things go back to how they used to be, but we could be a family, if you want."
+msgstr "...Nic nie sprawi, że będzie jak dawniej, ale możemy być rodziną, jeśli oczywiście chcesz."
+
+msgctxt "DT_DIA_Cassette_ElliotPrototype_wav/24_Line"
+msgid "And as for your name, I can call you whatever you like."
+msgstr "A co do twojego imienia, mogę cię nazywać jak tylko zechcesz."
+
+msgctxt "DT_DIA_Cassette_ElliotPrototype_wav/23_Line"
+msgid "And for what it’s worth, I think you and her would get along really well…"
+msgstr "Jeśli to coś zmieni, to myślę, że świetnie byście się dogadali…"
+
+msgctxt "DT_DIA_Cassette_ElliotPrototype_wav/2_Line"
+msgid "Did you say something?"
+msgstr "Powiedziałeś coś?"
+
+msgctxt "DT_DIA_Cassette_ElliotPrototype_wav/17_Line"
+msgid "Don’t. You don’t get to call me that."
+msgstr "Przestań. Nie masz prawa mnie tak nazywać."
+
+msgctxt "DT_DIA_Cassette_ElliotPrototype_wav/8_Line"
+msgid "I don’t pretend to know how you’re feeling, bu-"
+msgstr "Nie będę udawać, że wiem jak, się czujesz, ale-"
+
+msgctxt "DT_DIA_Cassette_ElliotPrototype_wav/5_Line"
+msgid "If you want to talk,"
+msgstr "Jeśli chcesz porozmawiać,"
+
+msgctxt "DT_DIA_Cassette_ElliotPrototype_wav/14_Line"
+msgid "It was for her."
+msgstr "To było dla niej."
+
+msgctxt "DT_DIA_Cassette_ElliotPrototype_wav/12_Line"
+msgid "It was never about me,"
+msgstr "Tu nigdy nie chodziło o mnie,"
+
+msgctxt "DT_DIA_Cassette_ElliotPrototype_wav/19_Line"
+msgid "I’m a test run, a-a…prototype."
+msgstr "Jestem tylko testem, p-p…prototypem."
+
+msgctxt "DT_DIA_Cassette_ElliotPrototype_wav/6_Line"
+msgid "I’m here."
+msgstr "Jestem tu."
+
+msgctxt "DT_DIA_Cassette_ElliotPrototype_wav/11_Line"
+msgid "No, no, Ollie—"
+msgstr "Nie nie, Ollie-"
+
+msgctxt "DT_DIA_Cassette_ElliotPrototype_wav/16_Line"
+msgid "Oh, my boy..."
+msgstr "Mój chłopcze..."
+
+msgctxt "DT_DIA_Cassette_ElliotPrototype_wav/18_Line"
+msgid "Ollie’s gone, and I’m…"
+msgstr "Ollie przepadł, a ja…"
+
+msgctxt "DT_DIA_Cassette_ElliotPrototype_wav/15_Line"
+msgid "She’s all you talk about!"
+msgstr "Tylko o niej mówisz!"
+
+msgctxt "DT_DIA_Cassette_ElliotPrototype_wav/26_Line"
+msgid "Soon, I hope. Very soon."
+msgstr "Wkrótce, mam taką nadzieję."
+
+msgctxt "DT_DIA_Cassette_ElliotPrototype_wav/9_Line"
+msgid "This was always about her."
+msgstr "Tu zawsze chodziło tylko o nią."
+
+msgctxt "DT_DIA_Cassette_ElliotPrototype_wav/21_Line"
+msgid "When you get her back you’ll pick up a hammer just like him. Just like they did."
+msgstr "Kiedy ją odzyskasz, sięgniesz po młot tak jak on. Tak jak oni."
+
+msgctxt "DT_DIA_Cassette_ElliotPrototype_wav/13_Line"
+msgid "never about my Better Place."
+msgstr "nigdy nie chodziło o moje Lepsze Miejsce."
+
+msgctxt "DT_DIA_Cassette_ElliotPrototype_wav/20_Line"
+msgid "…"
+msgstr ""
+
+msgctxt "DT_DIA_Cassette_ElliotPrototype_wav/10_Line"
+msgid "… What do you mean?"
+msgstr "… Co masz na myśli?"
+
+msgctxt "DT_DIA_Cassette_ElliotPrototype_wav/25_Line"
+msgid "… When can I meet her?"
+msgstr "… Kiedy mogę się z nią spotkać?"
+
+msgctxt "DT_DIA_Cassette_ElliotPrototype_wav/1_Line"
+msgid "…."
+msgstr ""
+
+msgctxt "DT_DIA_Cassette_ElliotPrototype_wav/4_Line"
+msgid "…."
+msgstr ""
+
+msgctxt "DT_DIA_Cassette_ElliotPrototype_wav/7_Line"
+msgid "…."
+msgstr ""
+
+msgctxt "DT_DIA_Cassette_FocusGroup_wav/14_Line"
+msgid "And Satanic."
+msgstr "I szatańskie."
+
+msgctxt "DT_DIA_Cassette_FocusGroup_wav/5_Line"
+msgid "And Satanic."
+msgstr "I szatańskie."
+
+msgctxt "DT_DIA_Cassette_FocusGroup_wav/13_Line"
+msgid "Great. Yes...um...Disgusting-in-a-bad-way. I wrote it down twice. Okay, anyone else-"
+msgstr "Świetnie. Tak... yyy... Obrzydliwe-w-ten-zły-sposób. Zapisałem to dwa razy. Dobra, ktoś jeszcze–"
+
+msgctxt "DT_DIA_Cassette_FocusGroup_wav/22_Line"
+msgid "How about positive feedback? Is there anything we like?"
+msgstr "A czy są jakieś pozytywne uwagi? Czy jest coś, co lubimy?"
+
+msgctxt "DT_DIA_Cassette_FocusGroup_wav/21_Line"
+msgid "I just really think it's in bad taste. It's all very Jeffrey Dahmer."
+msgstr "Po prostu uważam, że są w złym guście. To wszystko bardzo przypomina Jeffreya Dahmera."
+
+msgctxt "DT_DIA_Cassette_FocusGroup_wav/23_Line"
+msgid "I like the one with the doobie."
+msgstr "Podoba mi się ten z jointem."
+
+msgctxt "DT_DIA_Cassette_FocusGroup_wav/20_Line"
+msgid "I mean I wouldn't like it. But, you know, the kids."
+msgstr "W sensie, osobiście bym tego nie pokochał. Ale wiesz, jak to dzieci."
+
+msgctxt "DT_DIA_Cassette_FocusGroup_wav/3_Line"
+msgid "I think they're disgusting."
+msgstr "Myślę że są obleśne."
+
+msgctxt "DT_DIA_Cassette_FocusGroup_wav/17_Line"
+msgid "I'm sorry."
+msgstr "Przepraszam."
+
+msgctxt "DT_DIA_Cassette_FocusGroup_wav/12_Line"
+msgid "In a bad way."
+msgstr "W złym sensie."
+
+msgctxt "DT_DIA_Cassette_FocusGroup_wav/8_Line"
+msgid "Is that what you're trying to teach kids? How to turn animals inside out?"
+msgstr "Czy to jest to, czego chcecie nauczyć te dzieciaki? Jak przewrócić zwięrzeta na lewą stronę?"
+
+msgctxt "DT_DIA_Cassette_FocusGroup_wav/9_Line"
+msgid "Is the octopus... is he turning into a fish skeleton? I don't get it."
+msgstr "Czy ta ośmiornica, zamienia się w szkielet ryby? Nie czaję."
+
+msgctxt "DT_DIA_Cassette_FocusGroup_wav/6_Line"
+msgid "Mm-hmmm."
+msgstr ""
+
+msgctxt "DT_DIA_Cassette_FocusGroup_wav/10_Line"
+msgid "Octopuses don't have bones."
+msgstr "Ośmiornicy nie mają kości."
+
+msgctxt "DT_DIA_Cassette_FocusGroup_wav/24_Line"
+msgid "Oh that's uh, not... that's a paintbrush."
+msgstr "Och, to nie jest... to pędzel."
+
+msgctxt "DT_DIA_Cassette_FocusGroup_wav/25_Line"
+msgid "Oh. Then I don't like it."
+msgstr "A. Jednak jest ciulowy."
+
+msgctxt "DT_DIA_Cassette_FocusGroup_wav/1_Line"
+msgid "Okay so again, thank you all for coming in and being a part of this focus group."
+msgstr "Dobrze, więc jak wspominałem. Dziękuje wszystkim za przyjście i udział w tej grupie."
+
+msgctxt "DT_DIA_Cassette_FocusGroup_wav/19_Line"
+msgid "Okay you'd like one of them-"
+msgstr "Okej, chciałbyś jednego z nich?"
+
+msgctxt "DT_DIA_Cassette_FocusGroup_wav/11_Line"
+msgid "Okay, let's stay on track here. So I have... uh... disgusting."
+msgstr "Dobra, skupmy się. Więc mam... obrzydliwe."
+
+msgctxt "DT_DIA_Cassette_FocusGroup_wav/4_Line"
+msgid "Okay. Okay. Well, no wrong answers. Can you tell me a little-"
+msgstr "Okej. Okej. Nie ma złych odpowiedzi. Czy jesteście w stanie mi powiedzieć-"
+
+msgctxt "DT_DIA_Cassette_FocusGroup_wav/7_Line"
+msgid "They do kinda look like... demonic."
+msgstr "Jakby, te zabawki wygląda trochę... demonicznie."
+
+msgctxt "DT_DIA_Cassette_FocusGroup_wav/18_Line"
+msgid "What if one of these outside-imals, you know, what if he had a skateboard?"
+msgstr "A co, jeśli jeden z tych dziwnych zabawek miałyby deskorolkę?"
+
+msgctxt "DT_DIA_Cassette_FocusGroup_wav/16_Line"
+msgid "What if they had a skateboard?"
+msgstr "Co jeśli, by miały deskorolkę?"
+
+msgctxt "DT_DIA_Cassette_FocusGroup_wav/2_Line"
+msgid "What you just saw was a promo for our newest line of toys, the Wrongside Outimals. We'd love to get your honest reaction to-"
+msgstr "To, co właśnie widzieliście, to reklama naszej najnowszej linii zabawek, Wrongside Outimals. Bardzo chcielibyśmy poznać Waszą szczerą opinię na..."
+
+msgctxt "DT_DIA_Cassette_FocusGroup_wav/15_Line"
+msgid "Yeah, I wrote that one down...we're good on the Satanic."
+msgstr "Tak, to również zapisałem. Skończyłem na \"Szatańskie\"."
+
+msgctxt "DT_DIA_Cassette_GracieFate_wav/10_Line"
+msgid "... another breach on four... forty meters... closing.  "
+msgstr "... kolejne naruszenie na czterech... czterdziestu metrach... zbliżające się.  "
+
+msgctxt "DT_DIA_Cassette_GracieFate_wav/12_Line"
+msgid "...They're in the damn room. How are there so many of them..."
+msgstr "Są tutaj. Jakim cudem jest tu ich tyle...."
+
+msgctxt "DT_DIA_Cassette_GracieFate_wav/3_Line"
+msgid "...all of them I think. I don't know how many. They took apart Robertson. They literally took him apart, Todd."
+msgstr "Wszyscy są chyba tutaj. Nie wiem jak. Dosłownie dorwali Robertsona. Dosłownie, Todd."
+
+msgctxt "DT_DIA_Cassette_GracieFate_wav/6_Line"
+msgid "...open the door, Miss Gracie. We just want to play."
+msgstr "Otwórz nam drzwi, pani Gracie. Chcemy po prostu się z panią pobawić."
+
+msgctxt "DT_DIA_Cassette_GracieFate_wav/9_Line"
+msgid "Come be the joy the world needs."
+msgstr "Przyjdź i bądź radością, której potrzebuje świat."
+
+msgctxt "DT_DIA_Cassette_GracieFate_wav/5_Line"
+msgid "Don't tell me to sit, Todd. These little monsters are trying to kick down my door."
+msgstr "Nie każ mi siadać, Todd. Te potwory próbują się tu dostać."
+
+msgctxt "DT_DIA_Cassette_GracieFate_wav/14_Line"
+msgid "Get back. GET BACK. Baba, I was just... I was just trying to make you all happy... I wasn't... please... DON'T HURT ME."
+msgstr "Trzymaj się z daleka. Z DALEKA. Baba, ja po prostu... chciałam, żebyś była szczęśliwa... proszę... NIE RÓB MI KRZYWDY."
+
+msgctxt "DT_DIA_Cassette_GracieFate_wav/4_Line"
+msgid "Just sit... security forces will get you...(distortion)...mass casualties in the game station."
+msgstr "Po prostu usiądź... personel bezpieczeństwa cię złapią... (zniekształcenie)... masowe ofiary w stacji gier."
+
+msgctxt "DT_DIA_Cassette_GracieFate_wav/1_Line"
+msgid "Miss Graaaaaaacie."
+msgstr "Pani Graaaaaaaaacie."
+
+msgctxt "DT_DIA_Cassette_GracieFate_wav/2_Line"
+msgid "Open the door, we won't hurt you."
+msgstr "Otwórz nam drzwi, nie krzywdzimy panią."
+
+msgctxt "DT_DIA_Cassette_GracieFate_wav/11_Line"
+msgid "Todd!?"
+msgstr ""
+
+msgctxt "DT_DIA_Cassette_GracieFate_wav/13_Line"
+msgid "Todd? TODD?"
+msgstr ""
+
+msgctxt "DT_DIA_Cassette_GracieFate_wav/15_Line"
+msgid "We're not gonna hurt you, Miss Gracie. We have something very special planned for you."
+msgstr "Nie krzywdzimy cię, pani Gracie. Mamy w planach coś bardzo specjalnego dla pani."
+
+msgctxt "DT_DIA_Cassette_GracieFate_wav/7_Line"
+msgid "Yeah the friends are all here. Let's spread some joy all over that room."
+msgstr "Wszyscy przyjaciele są tu. Porozsiewajmy trochę radości po całym pokoju."
+
+msgctxt "DT_DIA_Cassette_GracieFate_wav/8_Line"
+msgid "You hear them?"
+msgstr "Słyszysz je?"
+
+msgctxt "DT_DIA_Cassette_GracieMegan_wav/10_Line"
+msgid "(Concerned growl)"
+msgstr "(Zaniepokojone warczenie)"
+
+msgctxt "DT_DIA_Cassette_GracieMegan_wav/6_Line"
+msgid "(Growls)"
+msgstr "(Warczy)"
+
+msgctxt "DT_DIA_Cassette_GracieMegan_wav/5_Line"
+msgid "Chum’s not my friend."
+msgstr "Chum nie jest moim przyjacielem."
+
+msgctxt "DT_DIA_Cassette_GracieMegan_wav/3_Line"
+msgid "Go away."
+msgstr "Idź sobie."
+
+msgctxt "DT_DIA_Cassette_GracieMegan_wav/8_Line"
+msgid "He’s here to help make your world just a little softer and quieter."
+msgstr "Jest tutaj by sprawić, by ten świat był troszkę spokojniejszy."
+
+msgctxt "DT_DIA_Cassette_GracieMegan_wav/9_Line"
+msgid "I don’t like it. I don’t like it in there. I can hear his heart beating."
+msgstr "Nie chcę go, nie chcę go tutaj. Słyszę stąd jego odgłos serca."
+
+msgctxt "DT_DIA_Cassette_GracieMegan_wav/13_Line"
+msgid "I don’t want to. Don’t…"
+msgstr "Nie chcę. Nie..."
+
+msgctxt "DT_DIA_Cassette_GracieMegan_wav/15_Line"
+msgid "It’s okay. I’m better. I’m better."
+msgstr "Okej... Jest mi lepiej chyba, jest mi lepiej."
+
+msgctxt "DT_DIA_Cassette_GracieMegan_wav/1_Line"
+msgid "Meeeeegan. Heya Megan."
+msgstr "Meeeeeeeegan. Cześć Megan."
+
+msgctxt "DT_DIA_Cassette_GracieMegan_wav/4_Line"
+msgid "Now that’s not very nice! You’re going to hurt our friend’s feelings."
+msgstr "Hej! To nie jest zbyt miłe! Zranisz uczucia naszego przyjaciela."
+
+msgctxt "DT_DIA_Cassette_GracieMegan_wav/17_Line"
+msgid "Now you just close your eyes and breathe deep. Everything’s better when you’re with a friend."
+msgstr "Teraz zamknij oczy, i weź głęboki oddech. Wszystko jest lepiej, gdy jesteś ze swoim przyjacielem."
+
+msgctxt "DT_DIA_Cassette_GracieMegan_wav/16_Line"
+msgid "Of course you are. That’s what Chum is for. A little safe space for you."
+msgstr "Oczywiście, że tak. Po to właśnie jest Chum. Malutka bezpieczna przestrzeń, dla ciebie. "
+
+msgctxt "DT_DIA_Cassette_GracieMegan_wav/11_Line"
+msgid "Oh that’s just a recording of a heartbeat, silly."
+msgstr "Oh, to tylko nagranie bicia serca, głuptasie."
+
+msgctxt "DT_DIA_Cassette_GracieMegan_wav/14_Line"
+msgid "Oh there you go. See. That’s not so bad."
+msgstr "Proszę bardzo. Widzisz? Nie jest tak źle."
+
+msgctxt "DT_DIA_Cassette_GracieMegan_wav/2_Line"
+msgid "One of the friends told me that you’re having trouble with the noise of the world being just too much! I brought someone to help."
+msgstr "Jeden z przyjaciół powiedział mi, że masz problem z hałasem, który jest po prostu zbyt głośny! Przyprowadziłam kogoś, kto może ci pomóc."
+
+msgctxt "DT_DIA_Cassette_GracieMegan_wav/12_Line"
+msgid "Something to make you feel warm and safe. Like a little baby! Why don’t you just come here-"
+msgstr "Coś, co sprawi, że poczujesz się ciepło i bezpiecznie. Jak malutkie dziecko! Może po prostu podejdziesz tutaj..."
+
+msgctxt "DT_DIA_Cassette_GracieMegan_wav/7_Line"
+msgid "Well sure he is. Chum’s friends to all kids, especially sensitive ones like you."
+msgstr "Oczywiście, że jest. Chum jest przyjacielem wszystkich dzieci, zwłaszcza do takich wrażliwych jak ty."
+
+msgctxt "DT_DIA_Cassette_LilyConditioning_wav/16_Line"
+msgid "(On TV) Let’s sink down. Sink down and quiet. You are a toy. You have always been a toy. Isn’t that the most beautiful thing in the world?"
+msgstr "(W telewizji) Zanurzmy się. Zanurzmy i wyciszmy. Jesteś zabawką. Zawsze byłeś zabawką. Czyż nie jest to najpiękniejsza rzecz na świecie?"
+
+msgctxt "DT_DIA_Cassette_LilyConditioning_wav/5_Line"
+msgid "Am Ms. Gracie, snap out of it."
+msgstr "Pani Gracie, proszę się opamiętać."
+
+msgctxt "DT_DIA_Cassette_LilyConditioning_wav/13_Line"
+msgid "And I love crumpets. Crumpets are the best!"
+msgstr "I uwielbiam bułeczki. Bułeczki są najlepsze!"
+
+msgctxt "DT_DIA_Cassette_LilyConditioning_wav/4_Line"
+msgid "Aren’t I real? Ms. Gracie says I’m real. I-"
+msgstr "Czy nie jestem prawdziwą, pani Gracie? Niech pani powie, że jestem, ja-"
+
+msgctxt "DT_DIA_Cassette_LilyConditioning_wav/17_Line"
+msgid "I am a toy, Ms. Gracie. I’m a good toy. I promise."
+msgstr "Jestem zabawką, pani Gracie. Jestem dobrą zabawką. Obiecuję"
+
+msgctxt "DT_DIA_Cassette_LilyConditioning_wav/9_Line"
+msgid "I can’t believe I thought you were actually in the room, Ms Gracie! Egg on my face!"
+msgstr "Nie mogę uwierzyć, że myślałam, że naprawdę była pani w pokoju, pani Gracie! Ależ się ośmieszyłam!"
+
+msgctxt "DT_DIA_Cassette_LilyConditioning_wav/11_Line"
+msgid "I want to go home-"
+msgstr "Chcę po prostu iść do domu-"
+
+msgctxt "DT_DIA_Cassette_LilyConditioning_wav/7_Line"
+msgid "My hands… plastic… my face… Aren’t I… I thought…"
+msgstr "Moje ręcę są... plastikowe... moja twarz... Nie jestem..."
+
+msgctxt "DT_DIA_Cassette_LilyConditioning_wav/12_Line"
+msgid "NO! We're going to have a tea party! I love tea parties."
+msgstr "NIE! Mieliśmy mieć herbatkowe przyjęcie! Kocham herbatkowe przyjęcia."
+
+msgctxt "DT_DIA_Cassette_LilyConditioning_wav/15_Line"
+msgid "No, no , no, we can brush our hair and hang with the friends!"
+msgstr "Nie, nie nie. Możemy nadal czesać nasze włosy, i wychodzić z naszymi przyjaciółmi!"
+
+msgctxt "DT_DIA_Cassette_LilyConditioning_wav/8_Line"
+msgid "Oh how embarrassing!"
+msgstr "Oh, jakie to żenujące."
+
+msgctxt "DT_DIA_Cassette_LilyConditioning_wav/10_Line"
+msgid "Oh, oh, oh! I love Huggy and I love Kissy and I love all the friends."
+msgstr "Oh, oh! Kocham Huggy'go i Kissy i kocham naszych wszystkich przyjaciół."
+
+msgctxt "DT_DIA_Cassette_LilyConditioning_wav/14_Line"
+msgid "Please let me out-"
+msgstr "Proszę wypuście mnie."
+
+msgctxt "DT_DIA_Cassette_LilyConditioning_wav/6_Line"
+msgid "Silly. Silly silly silly. She’s on the screen, she’s not actually in the room with us. Look around."
+msgstr "Głuptasku, zobacz. Ona jest na ekranie, nie w pokoju z nami. Rozejrzyj się"
+
+msgctxt "DT_DIA_Cassette_LilyConditioning_wav/3_Line"
+msgid "Ughh, Just ignore her, she’s not real. It’s only you here. Just. You."
+msgstr "Ugh, po prostu ją zignoruj. Nie jest prawdziwa. Tylko ty tutaj jesteś. Tylko, ty."
+
+msgctxt "DT_DIA_Cassette_LilyConditioning_wav/2_Line"
+msgid "… What are we talking about, Ms. Gracie? Is this another lesson?"
+msgstr "O czym rozmawiamy pani Gracie? To jest inna lekcja?"
+
+msgctxt "DT_DIA_Cassette_PierreRitterman_wav/10_Line"
+msgid "And if it doesn’t work."
+msgstr "I jeśli to nie zadziała."
+
+msgctxt "DT_DIA_Cassette_PierreRitterman_wav/13_Line"
+msgid "And the Park?"
+msgstr "A Park?"
+
+msgctxt "DT_DIA_Cassette_PierreRitterman_wav/8_Line"
+msgid "He can’t be the people’s champion if he’s one of us."
+msgstr "Nie może być bohaterem ludu, jeśli jest jednym z nas."
+
+msgctxt "DT_DIA_Cassette_PierreRitterman_wav/2_Line"
+msgid "He’s become some sort of “people’s champion.” Now too many noses are sniffing around."
+msgstr "Stał się swego rodzaju „bohaterem ludu”. Teraz zbyt wiele osób węszy wokół niego."
+
+msgctxt "DT_DIA_Cassette_PierreRitterman_wav/6_Line"
+msgid "I think Mr. Lovitz is due for a promotion."
+msgstr "Myślę, że pan Lovitz zasługuje na awans."
+
+msgctxt "DT_DIA_Cassette_PierreRitterman_wav/16_Line"
+msgid "I trust you won’t burn this place down in my absence."
+msgstr "Ufam, że nie spalicie tego miejsca podczas mojej nieobecności."
+
+msgctxt "DT_DIA_Cassette_PierreRitterman_wav/15_Line"
+msgid "I’ll be inspecting the premises next week, 7th to the 12th,"
+msgstr "W przyszłym tygodniu, od 7 do 12, będę sprawdzać lokal."
+
+msgctxt "DT_DIA_Cassette_PierreRitterman_wav/17_Line"
+msgid "I’ll do my best. Though I won’t lie, this place is feeling more like a powder keg every day."
+msgstr "Postaram się jak najlepiej. Nie będę jednak kłamać, to miejsce z każdym dniem coraz bardziej przypomina beczkę prochu."
+
+msgctxt "DT_DIA_Cassette_PierreRitterman_wav/1_Line"
+msgid "Leith, I’ve been reviewing your concerns about our Head of Shipping."
+msgstr "Leith, przeanalizowałem Twoje obawy dotyczące naszego kierownika ds. wysyłek."
+
+msgctxt "DT_DIA_Cassette_PierreRitterman_wav/4_Line"
+msgid "Not if we deal with it the right way."
+msgstr "Nie, jeśli zajmiemy się tym we właściwy sposób."
+
+msgctxt "DT_DIA_Cassette_PierreRitterman_wav/5_Line"
+msgid "Oh?"
+msgstr ""
+
+msgctxt "DT_DIA_Cassette_PierreRitterman_wav/12_Line"
+msgid "Our friends in Tokyo are coming up to speed. At this rate, this factory won’t even be our main focus in a few short years."
+msgstr "Nasi przyjaciele z Tokio nadrabiają zaległości. Przy takim tempie za kilka lat ta fabryka nie będzie już nawet naszym głównym celem."
+
+msgctxt "DT_DIA_Cassette_PierreRitterman_wav/14_Line"
+msgid "Renovations are underway."
+msgstr "Trwają prace remontowe."
+
+msgctxt "DT_DIA_Cassette_PierreRitterman_wav/9_Line"
+msgid "Up his pay. His title. New parking spot. Give him a new car too. Let everyone think he sold his soul."
+msgstr "Podnieś mu pensję. Awansuj go. Daj mu nowe miejsce parkingowe. Daj mu też nowy samochód. Niech wszyscy myślą, że sprzedał swoją duszę."
+
+msgctxt "DT_DIA_Cassette_PierreRitterman_wav/3_Line"
+msgid "We deal with this now, we’ll make him a martyr."
+msgstr "Zajmiemy się tym teraz, zrobimy z niego męczennika."
+
+msgctxt "DT_DIA_Cassette_PierreRitterman_wav/11_Line"
+msgid "You worry too much. Try focusing on the bigger picture;"
+msgstr "Za bardzo się martwisz. Spróbuj spojrzeć na sprawę z szerszej perspektywy."
+
+msgctxt "DT_DIA_Cassette_PierreRitterman_wav/7_Line"
+msgid "You’re serious?"
+msgstr "Serio?"
+
+msgctxt "DT_DIA_Cassette_PoppyKissy_wav/8_Line"
+msgid "(Crying)"
+msgstr "(Płacz)"
+
+msgctxt "DT_DIA_Cassette_PoppyKissy_wav/5_Line"
+msgid "(Determined chirping)"
+msgstr "(Zdecydowane świergotanie)"
+
+msgctxt "DT_DIA_Cassette_PoppyKissy_wav/10_Line"
+msgid "Hey, I… I’m here for you… I feel it too."
+msgstr "Hej, Ja... jestem tu, dla ciebie. Wiem, co czujesz."
+
+msgctxt "DT_DIA_Cassette_PoppyKissy_wav/3_Line"
+msgid "I think they’re gone."
+msgstr "Chyba sobie już poszli."
+
+msgctxt "DT_DIA_Cassette_PoppyKissy_wav/6_Line"
+msgid "It was an ambush. I… Somehow Prototype’s hunters knew we’d be here."
+msgstr "To było tak szybkie... Ja… Jakoś łowcy Prototypu wiedzieli, że tu będziemy."
+
+msgctxt "DT_DIA_Cassette_PoppyKissy_wav/9_Line"
+msgid "It wasn’t supposed to be like this… I’m supposed to be…"
+msgstr "To nie miało tak być... Ja miałam być…"
+
+msgctxt "DT_DIA_Cassette_PoppyKissy_wav/2_Line"
+msgid "Keep looking. The last of them can’t have gotten far."
+msgstr "Szukaj. Ostatni z nich nie mógł tak uciec daleko."
+
+msgctxt "DT_DIA_Cassette_PoppyKissy_wav/4_Line"
+msgid "Kissy, our friends… They’re gone too. I’m so sorry…"
+msgstr "Kissy, nasi przyjaciele... Odeszli, tak mi przykro..."
+
+msgctxt "DT_DIA_Cassette_PoppyKissy_wav/11_Line"
+msgid "Let’s be scared together. You and me. I hold onto you, and you hold onto me. Just like always."
+msgstr "Bójmy się razem. Ty i ja. Ja trzymam się ciebie, a ty trzymasz się mnie. Tak jak zawsze."
+
+msgctxt "DT_DIA_Cassette_PoppyKissy_wav/12_Line"
+msgid "Let’s… Let’s just wait it out a few more minutes. Until we know it’s safe."
+msgstr "Poczekajmy jeszcze chwilę. Aż będziemy pewni, że jest bezpiecznie."
+
+msgctxt "DT_DIA_Cassette_PoppyKissy_wav/1_Line"
+msgid "Shhhh…."
+msgstr "Ciiiii..."
+
+msgctxt "DT_DIA_Cassette_PoppyKissy_wav/7_Line"
+msgid "We need to call Ollie and—"
+msgstr "Musimy zadzwonić po Ollie i-"
+
+msgctxt "DT_DIA_Cassette_PrototypeInterrogation_wav/4_Line"
+msgid "(Panicking) I-I don’t…"
+msgstr "(Panikowanie) J-ja n-nie..."
+
+msgctxt "DT_DIA_Cassette_PrototypeInterrogation_wav/18_Line"
+msgid "(Screaming in pain) Roxie. And Tee-Tee, Tamago Turtle."
+msgstr "(Krzyk z bólu) Roxie. I Tee-Tee, Tamago Turtle"
+
+msgctxt "DT_DIA_Cassette_PrototypeInterrogation_wav/2_Line"
+msgid "(Screams in pain)"
+msgstr "(Krzyk z bólu)"
+
+msgctxt "DT_DIA_Cassette_PrototypeInterrogation_wav/6_Line"
+msgid "After the Hour. Just after."
+msgstr "Po godzinie. Zaraz po."
+
+msgctxt "DT_DIA_Cassette_PrototypeInterrogation_wav/19_Line"
+msgid "And you."
+msgstr "I ty."
+
+msgctxt "DT_DIA_Cassette_PrototypeInterrogation_wav/12_Line"
+msgid "I look after you. All of you. You can tell me."
+msgstr "Dbam o was. O was wszystkich. Możecie mi powiedzieć."
+
+msgctxt "DT_DIA_Cassette_PrototypeInterrogation_wav/7_Line"
+msgid "It was Gentle John and… Some of the others."
+msgstr "To był Gentle John i… Niektórzy inni."
+
+msgctxt "DT_DIA_Cassette_PrototypeInterrogation_wav/16_Line"
+msgid "It was just rumors."
+msgstr "To były tylko plotki."
+
+msgctxt "DT_DIA_Cassette_PrototypeInterrogation_wav/11_Line"
+msgid "I…"
+msgstr "Ja..."
+
+msgctxt "DT_DIA_Cassette_PrototypeInterrogation_wav/1_Line"
+msgid "Please, I don’t know what you want. I don’t know anything about—"
+msgstr "Proszę, nie wiem, czego chcesz. Nie wiem nic o..."
+
+msgctxt "DT_DIA_Cassette_PrototypeInterrogation_wav/5_Line"
+msgid "Remember: The cost for a lie is… dire…"
+msgstr "Pamiętaj: Koszt kłamstwa jest… ogromny…"
+
+msgctxt "DT_DIA_Cassette_PrototypeInterrogation_wav/14_Line"
+msgid "Th- They went to the outside. They… left."
+msgstr "Wyszli na zewnątrz. Oni… odeszli."
+
+msgctxt "DT_DIA_Cassette_PrototypeInterrogation_wav/13_Line"
+msgid "Th-They’re gone… I-I’m… I’m sorry…"
+msgstr "Oni... oni odeszli... Przepraszam..."
+
+msgctxt "DT_DIA_Cassette_PrototypeInterrogation_wav/9_Line"
+msgid "They wanted to… go."
+msgstr "Chcieli... odejść."
+
+msgctxt "DT_DIA_Cassette_PrototypeInterrogation_wav/8_Line"
+msgid "They… They were afraid. Of you."
+msgstr "Oni… Oni się bali. Ciebie."
+
+msgctxt "DT_DIA_Cassette_PrototypeInterrogation_wav/3_Line"
+msgid "Twenty-three are missing. I am told… You possess knowledge… of this."
+msgstr "Dwudziestu trzech zaginęło. Powiedziano mi... Że posiadasz wiedzę... na ten temat."
+
+msgctxt "DT_DIA_Cassette_PrototypeInterrogation_wav/20_Line"
+msgid "What?"
+msgstr "Co?"
+
+msgctxt "DT_DIA_Cassette_PrototypeInterrogation_wav/10_Line"
+msgid "Where are they hiding? Playcare? Gamestation? Factory floor?"
+msgstr "Gdzie mogą się chować? Playcare? Gamestation? W hali fabrycznej?"
+
+msgctxt "DT_DIA_Cassette_PrototypeInterrogation_wav/15_Line"
+msgid "Who else knows?"
+msgstr "Kto jeszcze wie?"
+
+msgctxt "DT_DIA_Cassette_PrototypeInterrogation_wav/17_Line"
+msgid "Who knows? I require names."
+msgstr "Kto jeszcze wie? Wymagam imiona."
+
+msgctxt "DT_DIA_Cassette_PrototypeInterrogation_wav/21_Line"
+msgid "You know. And no one can know. I am sorry."
+msgstr "Ty wiesz. A nikt nie może. Przykro mi "
+
+msgctxt "DT_DIA_Cassette_PrototypeKills_wav/16_Line"
+msgid "(Softly crying)"
+msgstr "(Cicho płaczę)"
+
+msgctxt "DT_DIA_Cassette_PrototypeKills_wav/9_Line"
+msgid "Because he’s soft."
+msgstr "Ponieważ jest mięczakiem."
+
+msgctxt "DT_DIA_Cassette_PrototypeKills_wav/14_Line"
+msgid "But I… I never wanted this…"
+msgstr "Ale ja... nie chciałem nigdy tego..."
+
+msgctxt "DT_DIA_Cassette_PrototypeKills_wav/3_Line"
+msgid "Don’t be a coward. You know what they did to us."
+msgstr "Nie bądź tchórzem. Wiesz co nam zrobili."
+
+msgctxt "DT_DIA_Cassette_PrototypeKills_wav/7_Line"
+msgid "In there. He tied them up."
+msgstr "Tam. Związał ich."
+
+msgctxt "DT_DIA_Cassette_PrototypeKills_wav/2_Line"
+msgid "It wasn’t supposed to be like this."
+msgstr "Tak nie miało być."
+
+msgctxt "DT_DIA_Cassette_PrototypeKills_wav/12_Line"
+msgid "N-No… No, I-"
+msgstr "N-Nie... Nie, ja-"
+
+msgctxt "DT_DIA_Cassette_PrototypeKills_wav/6_Line"
+msgid "Survivors?"
+msgstr "Ocaleni?"
+
+msgctxt "DT_DIA_Cassette_PrototypeKills_wav/13_Line"
+msgid "They can’t leave. And they can’t stay."
+msgstr "Nie mogą wyjść. I nie mogą zostać."
+
+msgctxt "DT_DIA_Cassette_PrototypeKills_wav/1_Line"
+msgid "This is ridiculous. Tying them up, leaving them in there… Just kill them and be done with it. "
+msgstr "To jest niedorzeczne. Związując ich tam. Po prostu ich w końcu zabij i miejmy święty spokój."
+
+msgctxt "DT_DIA_Cassette_PrototypeKills_wav/10_Line"
+msgid "This isn’t…I  can’t. I just can’t…"
+msgstr "To nie jest... Ja nie mogę. Po prostu nie mogę."
+
+msgctxt "DT_DIA_Cassette_PrototypeKills_wav/15_Line"
+msgid "Want is inconsequential. We agreed. We do this, together."
+msgstr "Chcenie nie ma znaczenia. Ustaliliśmy to. Robimy to razem."
+
+msgctxt "DT_DIA_Cassette_PrototypeKills_wav/4_Line"
+msgid "What did these people do? They work in the warehouse. They’ve never even been down to Playcare."
+msgstr "Co niby robili ci ludzie? Pracowali w magazynie. Nigdy nawet nie byli w Playcare."
+
+msgctxt "DT_DIA_Cassette_PrototypeKills_wav/8_Line"
+msgid "Why?"
+msgstr "Czemu?"
+
+msgctxt "DT_DIA_Cassette_PrototypeKills_wav/11_Line"
+msgid "You can. You have to. "
+msgstr "Możesz. I nawet musisz."
+
+msgctxt "DT_DIA_Cassette_PrototypeKills_wav/5_Line"
+msgid "You don’t know them any more than I do. Let’s just leave before-"
+msgstr "Nie znasz ich lepiej niż ja. Po prostu wyjdźmy stąd, zanim..."
+
+msgctxt "DT_DIA_Critter_Memory02_Line01/1_Line"
+msgid "I don't want to be here. I don't want to be me. I don't want to be this."
+msgstr "Nie chcę tu być. Nie chcę być sobą. Nie chcę być taki."
+
+msgctxt "DT_DIA_Critter_Memory02_Line02/2_Line"
+msgid "DON'T PUT ME IN THE BOX. DON'T PUT ME IN THE BOX. I'LL BE GOOD. I'LL PLAY. DON'T PUT ME IN THE BOX."
+msgstr "NIE WSADZAJ MNIE DO PUDŁA. NIE WSADZAJ MNIE DO PUDŁA. BĘDĘ DOBRY. BĘDĘ GRAŁ. NIE WSADZAJ MNIE DO PUDŁA."
+
+msgctxt "DT_DIA_Critter_Memory02_Line02/1_Line"
+msgid "No. NO no. NO PLEASE. PLEASE JUST TELL ME WHO I AM."
+msgstr "Nie. NIE, nie. NIE PROSZĘ. PROSZĘ PO PROSTU POWIEDZ IM KIM JESTEM."
+
+msgctxt "DT_DIA_Cutouts_Chum_01/1_Line"
+msgid "Muh muh, muh muh muh MUH!"
+msgstr ""
+
+msgctxt "DT_DIA_Cutouts_Chum_02/1_Line"
+msgid "Muh muh muh, muh muh muh? muh muh muh muh."
+msgstr ""
+
+msgctxt "DT_DIA_Cutouts_Chum_03/1_Line"
+msgid "Muh muh MUH!"
+msgstr ""
+
+msgctxt "DT_DIA_Cutouts_Giblet_01/1_Line"
+msgid "My name is [bzzzttttt] and I'm here to protect kids like you from all the scary things that go bump in the night!"
+msgstr "Nazywam się [bzzzttttt] i jestem tutaj, aby chronić dzieci takie jak ty przed wszystkimi strasznymi rzeczami, które pojawiają się w nocy!"
+
+msgctxt "DT_DIA_Cutouts_Giblet_02/1_Line"
+msgid "Hold on to me and keep both eyes on danger, okay? We'll get through this... together."
+msgstr "Trzymaj się mnie i miej oczy szeroko otwarte na niebezpieczeństwo, dobrze? Przejdziemy przez to... razem."
+
+msgctxt "DT_DIA_Cutouts_Lily_01/1_Line"
+msgid "Hi!!! I'm Lilly Lovebraids, the girl with flair and out-of-this-world hair."
+msgstr "Cześć!!! Jestem Lilly Lovebraids, dziewczyna z charakterem i włosami, które wyglądają jak z innej planety"
+
+msgctxt "DT_DIA_Cutouts_Lily_01/2_Line"
+msgid "Join me for a slumber party, and we can braid each other's hair!"
+msgstr "Dołącz do mnie na piżamową imprezę, a będziemy mogły zaplatać sobie nawzajem włosy!"
+
+msgctxt "DT_DIA_Cutouts_Lily_02/1_Line"
+msgid "What you do with your hair...Why, that's creativity and self expression at work!"
+msgstr "Co robisz ze swoimi włosami... To przecież przejaw kreatywności i wyrażania siebie!"
+
+msgctxt "DT_DIA_Cutouts_Lily_03/1_Line"
+msgid "I always say, wear the hair that makes you feel like you, not like somebody else!"
+msgstr "Zawsze powtarzam: noś fryzurę, która sprawia, że czujesz się sobą, a nie kimś innym!"
+
+msgctxt "DT_DIA_Cutouts_Lily_04/2_Line"
+msgid "And you can eat it too."
+msgstr "I ty też możesz to zjeść."
+
+msgctxt "DT_DIA_Cutouts_Lily_04/1_Line"
+msgid "Isn't hair so amazing. It grows right through your skin. "
+msgstr "Czy włosy nie są niesamowite? Rosną prosto przez skórę. "
+
+msgctxt "DT_DIA_Cutouts_Lily_05/1_Line"
+msgid "Did you know your hair keeps growing even after you die?"
+msgstr "Czy wiesz, że włosy rosną nawet po śmierci?"
+
+msgctxt "DT_DIA_Cutouts_Lily_06/1_Line"
+msgid "Additional outfits and accessories sold seperately."
+msgstr "Dodatkowe stroje i akcesoria sprzedawane osobno."
+
+msgctxt "DT_DIA_Doctor_Line_00001/1_Line"
+msgid "Well now, this is a rather interesting turn of events..."
+msgstr "Cóż za interesujący zwrot akcji..."
+
+msgctxt "DT_DIA_EP_Giblet_Line_00001/1_Line"
+msgid "Don’t let this junk intimidate you, Butcher; it’s no match for you, hehe!"
+msgstr "Nie daj się tym gratom przestraszyć, Rzeźniku – to nie jest dla Ciebie żadna przeszkoda, hehe!"
+
+msgctxt "DT_DIA_EP_Giblet_Line_00002/1_Line"
+msgid "Steady as she goes, you’re doing great!"
+msgstr "Tak trzymaj, świetnie sobie radzisz!"
+
+msgctxt "DT_DIA_EP_Giblet_Line_00003/1_Line"
+msgid "Hey, Chum, tell them they’re doing great."
+msgstr "Hej Chum, powiedz mu, że dobrze sobie radzi."
+
+msgctxt "DT_DIA_EP_Giblet_Line_00004/1_Line"
+msgid "Wow, this stuff looks complicated."
+msgstr "Wow, to wygląda na serio skomplikowane."
+
+msgctxt "DT_DIA_EP_Giblet_Line_00005/1_Line"
+msgid "Don’t worry, Chum, the Butcher’s got this."
+msgstr "Nie martw się Chum, Rzeźnik da sobie radę."
+
+msgctxt "DT_DIA_Giblet_Line_00001/7_Line"
+msgid "And the rest of them? Up at Safe Haven. I heard things."
+msgstr "A co z innymi? Wiesz, w Bezpiecznej Przystani. Słyszałem coś."
+
+msgctxt "DT_DIA_Giblet_Line_00001/5_Line"
+msgid "Down here they're calling you The Playtime Butcher."
+msgstr "Tu na dole zwą cię Rzeźnikiem."
+
+msgctxt "DT_DIA_Giblet_Line_00001/1_Line"
+msgid "Get off- HEY GET OFF."
+msgstr "Zejdź z niego- ZEJDŹ Z NIEGO."
+
+msgctxt "DT_DIA_Giblet_Line_00001/8_Line"
+msgid "We can't stay here. I got a place. Just follow me."
+msgstr "Nie możemy tu zostać. Dawaj. Chodź za mną."
+
+msgctxt "DT_DIA_Giblet_Line_00001/6_Line"
+msgid "What are you doing all the way down here? Is Poppy...I mean, you were with her, right?"
+msgstr "Co ty tutaj do diabła robisz? Czy Poppy... w sensie, byłeś z nią. Nie?"
+
+msgctxt "DT_DIA_Giblet_Line_00001/2_Line"
+msgid "You alright?"
+msgstr "Hej, wszystko git? "
+
+msgctxt "DT_DIA_Giblet_Line_00001/3_Line"
+msgid "You're not..."
+msgstr "Nie jesteś..."
+
+msgctxt "DT_DIA_Giblet_Line_00001/4_Line"
+msgid "You're the one they've been talking about! The one who put Mommy in the grinder. Who gave the cat a nap."
+msgstr "Ty jesteś tym, o którym cały czas trąbią! Ten który wsadził Mamuśkę do niszczarki. Który dał kotku drzemkę."
+
+msgctxt "DT_DIA_Giblet_Line_00005/1_Line"
+msgid "My name's Giblet. I knew Poppy back before...well uh...before everything."
+msgstr "Nazywam się Giblet. Znałem Poppy przed tym... no, w sumie to przed wszystkim."
+
+msgctxt "DT_DIA_Giblet_Line_00005/3_Line"
+msgid "That girl's heart's always been in the right place but she's been behind glass too long. "
+msgstr "Serduszko tej dziewczyny zawsze było we właściwym miejscu. Ale cholera wie, ile spędziła czasu w tej gablocie..."
+
+msgctxt "DT_DIA_Giblet_Line_00005/2_Line"
+msgid "Was she really gonna blow this place up?"
+msgstr "Czy ona serio zamierza wysadzić to miejsce w cholerę?"
+
+msgctxt "DT_DIA_Giblet_Line_00010/1_Line"
+msgid "This way. C'mon."
+msgstr "Tędy, dawaj."
+
+msgctxt "DT_DIA_Giblet_Line_00030/2_Line"
+msgid "Find a place to hide."
+msgstr "Schowaj się gdzieś."
+
+msgctxt "DT_DIA_Giblet_Line_00030/1_Line"
+msgid "No, no no no... He wouldn't come down here, just--"
+msgstr "Nie, nie nie nie... Nie ma bata, że on by tutaj przychodził..."
+
+msgctxt "DT_DIA_Giblet_Line_00035/1_Line"
+msgid "He doesn't usually come down here. You must'a got him real worked up."
+msgstr "Zazwyczaj się tu nie zapuszcza. Musiałeś go serio wkurzyć."
+
+msgctxt "DT_DIA_Giblet_Line_00035/2_Line"
+msgid "This way."
+msgstr "Tędy."
+
+msgctxt "DT_DIA_Giblet_Line_00045/2_Line"
+msgid "And I got plans anyway, I... I'm not gonna be down here forever."
+msgstr "I z resztą mam plany przecież. Nie zostanę tu na zawsze nie?"
+
+msgctxt "DT_DIA_Giblet_Line_00045/1_Line"
+msgid "Yeah I know it's not much but uh... who needs fancy murals on the wall and string lights or a barber shop or whatever?"
+msgstr "Tak, wiem, że to niewiele, ale... kto potrzebuje fantazyjnych malowideł na ścianach, lampek choinkowych, salonu fryzjerskiego czy czegoś w tym rodzaju?"
+
+msgctxt "DT_DIA_Giblet_Line_00050/3_Line"
+msgid "Both of us wanting to kill the Prototype."
+msgstr "Wszyscy chcemy zabić Prototyp."
+
+msgctxt "DT_DIA_Giblet_Line_00050/6_Line"
+msgid "But we gotta get you outfitted first. You're not gonna last down here with just a cheap night light."
+msgstr "Ale musisz być ładnie ubrany kawalerze. Przecież nie pójdziesz tam bez sprzętu i z tanią lampką nocną."
+
+msgctxt "DT_DIA_Giblet_Line_00050/4_Line"
+msgid "I mean that's where this train is headed, right?"
+msgstr "To znaczy, wszyscy mamy taki cel, nie?"
+
+msgctxt "DT_DIA_Giblet_Line_00050/5_Line"
+msgid "I'm not some kind of hero but...I can help you."
+msgstr "Nie jestem jakimś rycerzem na białym koniu, ale... Myślę że mogę ci pomóc"
+
+msgctxt "DT_DIA_Giblet_Line_00050/1_Line"
+msgid "Look I'm not the kinda guy who spends time feeling sorry for himself. I mean the way I see it, everything's a tragedy until it's meant to be."
+msgstr "Słuchaj, nie jestem typem gościa, który marnuje czas na użalanie się nad sobą. Z mojego punktu widzenia wszystko jest tragedią… dopóki tak miało być"
+
+msgctxt "DT_DIA_Giblet_Line_00050/2_Line"
+msgid "You think this is an accident? You ending up down here, like this?"
+msgstr "Myślisz, że to przypadek? Że znalazłeś się tutaj, w takiej sytuacji?"
+
+msgctxt "DT_DIA_Giblet_Line_00051/1_Line"
+msgid "Yeah chirp all you want, I'm the one who scared off all those Outimals."
+msgstr "Tak, szczekaj sobie, ile chcesz, ale to ja odstraszyłem wszystkie te Outimals."
+
+msgctxt "DT_DIA_Giblet_Line_00055/1_Line"
+msgid "Here. The Boilers. Lots of gear got tossed down there after the uh... after it all went down. Pretty sure I saw an old grabber. "
+msgstr "Tutaj. Kotłownia. Dużo sprzętu wrzucono tam po… po tym wszystkim, co się stało. Jestem prawie pewien, że widziałem tam stary grabber."
+
+msgctxt "DT_DIA_Giblet_Line_00055/2_Line"
+msgid "I'll point ya there. Just let me know when you've caught your breath."
+msgstr "Zaznaczę ci. Daj znać po prostu kiedy złapiesz oddech."
+
+msgctxt "DT_DIA_Giblet_Line_00060/1_Line"
+msgid "Hey. Don't mess with that. That's...um... personal."
+msgstr "Hej, mógłbyś tego nie dotykać? To jest trochę personalne."
+
+msgctxt "DT_DIA_Giblet_Line_00065/1_Line"
+msgid "(Sighs) Th-That's not--that's just... that's nothing. That's..."
+msgstr "(Wzdycha) T-To nic po prostu... nic. Nie przejmuj się tym..."
+
+msgctxt "DT_DIA_Giblet_Line_00065/2_Line"
+msgid "Just a piece of trash I found."
+msgstr "Jakiś kawał śmiecia, który znalazłem."
+
+msgctxt "DT_DIA_Giblet_Line_00070/1_Line"
+msgid "Just..."
+msgstr "Po prostu..."
+
+msgctxt "DT_DIA_Giblet_Line_00070/2_Line"
+msgid "Look,"
+msgstr "Zobacz,"
+
+msgctxt "DT_DIA_Giblet_Line_00070/3_Line"
+msgid "no way you're getting around without a GrabPack. You uh... You should head to the Boilers."
+msgstr "Bez opcji że będziesz się włóczył gdzieś bez GrabPacka, powinieneś iść do kotłowni."
+
+msgctxt "DT_DIA_Giblet_Line_00075/1_Line"
+msgid "Alright, let's get you a new pair of mitts."
+msgstr "W porządku, załatwimy ci nową parę rękawic."
+
+msgctxt "DT_DIA_Giblet_Line_00080/2_Line"
+msgid "Meet me up in R&D once you've got what you need. I'll get things cooking."
+msgstr "Spotkajmy się w dziale badań i rozwoju, jak tylko zdobędziesz potrzebne informacje. Zajmę się resztą."
+
+msgctxt "DT_DIA_Giblet_Line_00080/1_Line"
+msgid "Through there. The Pipes will get you down."
+msgstr "Tutaj. Rury cię sprowadzą na dół."
+
+msgctxt "DT_DIA_Giblet_Line_00082/1_Line"
+msgid "Heeeey that grabber looks good on you.  "
+msgstr "Heeej, dobrze ci leży ten Grabber! "
+
+msgctxt "DT_DIA_Giblet_Line_00085/1_Line"
+msgid "Uh, you get lost?"
+msgstr "Hej, zgubiłeś się?"
+
+msgctxt "DT_DIA_Giblet_Line_00090/1_Line"
+msgid "Heh! The Playtime Butcher. Chum's gonna tear a seam when he meets you!"
+msgstr "Heh! Rzeźnik we własnej osobie. Chum padnie na zawał, jak cię zobaczy!"
+
+msgctxt "DT_DIA_Giblet_Line_00095/3_Line"
+msgid "C'mon, I was just... filling in Chum on our plan."
+msgstr "Daj spokój, tylko... informowałem Chuma o naszym planie."
+
+msgctxt "DT_DIA_Giblet_Line_00095/2_Line"
+msgid "Chum, this is who everyone's been talking about! Poppy's Angel! Heh heh, The Playtime Butcher. (Chuckles)"
+msgstr "Chum, to o nim wszyscy gadają! Anioł Stróż Poppy! Heh heh, Rzeźnik. (Śmiech)"
+
+msgctxt "DT_DIA_Giblet_Line_00095/1_Line"
+msgid "This is Chum Chompkins, my guy on the inside. We uh... sorta look out for each other."
+msgstr "To jest Chum Chompkins, mój ziomeczek. My... tak jakby dbamy o siebie nawzajem."
+
+msgctxt "DT_DIA_Giblet_Line_00100/5_Line"
+msgid "And all that science, it's here."
+msgstr "I cała magia jest tutaj."
+
+msgctxt "DT_DIA_Giblet_Line_00100/3_Line"
+msgid "But everyone has a weakness. And Playtime, they did all kinds of studies."
+msgstr "Ale wszyscy mają jakąś słabość. A Playtime, cóż..przeprowadziło różnego rodzaju badania na ten temat."
+
+msgctxt "DT_DIA_Giblet_Line_00100/2_Line"
+msgid "I mean, you've seen the guy. He's so juiced up on that pink stuff you could cut him in half and he'd just put himself back together."
+msgstr "Przecież widziałeś tego gościa. Jest tak napakowany tym różowym czymś, że można by go przeciąć na pół, a on po prostu złożyłby się z powrotem."
+
+msgctxt "DT_DIA_Giblet_Line_00100/1_Line"
+msgid "Look, we're not the first to try and take out the Prototype. Everyone who tries, they fail."
+msgstr "Słuchaj, nie my pierwsi próbowaliśmy zdjąć Prototyp. Ale wszyscy którzy próbują, kończą marnie..."
+
+msgctxt "DT_DIA_Giblet_Line_00100/4_Line"
+msgid "Poking him with needles and uh...uh... Making spreadsheets."
+msgstr "Kłucie go igłami i... tworzenie arkuszy kalkulacyjnych."
+
+msgctxt "DT_DIA_Giblet_Line_00105/1_Line"
+msgid "C'mon! How many years we been talking about taking this guy out?!"
+msgstr "No dalej! Ile lat już gadamy o tym, żeby wyeliminować tego gościa!?"
+
+msgctxt "DT_DIA_Giblet_Line_00105/2_Line"
+msgid "This is our chance."
+msgstr "To jest nasza szansa."
+
+msgctxt "DT_DIA_Giblet_Line_00110/1_Line"
+msgid "See, what'd I say? Everything happens for a reason."
+msgstr "Widzisz? Co mówiłem? Wszystko się dzieje przez coś."
+
+msgctxt "DT_DIA_Giblet_Line_00115/1_Line"
+msgid "Y-Yeah, just keep going. Y-You're almost there. Yeah...right there. Just hit the scanner."
+msgstr "T-Tak, dobrze sobie radzisz. Prawie ci się udało. Ta... tutaj. Po prostu zrób to coś z tym skanerem."
+
+msgctxt "DT_DIA_Giblet_Line_00116/1_Line"
+msgid "Should be a way to get that door open."
+msgstr "Powinien być sposób, żeby otworzyć te drzwi."
+
+msgctxt "DT_DIA_Giblet_Line_00120/2_Line"
+msgid "Her heart's in the right place but... Man, that girl's been behind glass too long."
+msgstr "Serduszko tej dziewczyny zawsze było we właściwym miejscu. Ale cholera wie, ile spędziła czasu w tej gablocie..."
+
+msgctxt "DT_DIA_Giblet_Line_00120/1_Line"
+msgid "Yeah, that's what I heard. Gas. Mining charges. She was gonna burn the whole place down."
+msgstr "Tak, to właśnie słyszałem. Gaz. Jakieś materiały eksplodujące. Chciała spalić to miejsce aż do pyłu"
+
+msgctxt "DT_DIA_Giblet_Line_00125/1_Line"
+msgid "Well... she doesn't know what happened to them. And I'm not gonna be the one to tell her."
+msgstr "Cóż... nie wie, co się z nimi stało. Ale nie chcę być tym, który jej to powie."
+
+msgctxt "DT_DIA_Giblet_Line_00130/2_Line"
+msgid "I always said it was safer down in Recycling. And I was right. "
+msgstr "Zawsze mówiłem, że w dziale recyklingu jest bezpieczniej. I miałem rację. "
+
+msgctxt "DT_DIA_Giblet_Line_00130/1_Line"
+msgid "Well you know Doey. I mean, I'm sorry about what happened but... you know how he was."
+msgstr "Cóż, znałeś Doey'go. W sensie wiem, że to ciężki temat... ale wiesz, jaki był."
+
+msgctxt "DT_DIA_Giblet_Line_00140/1_Line"
+msgid "Oh good. Got a little worried for a second-"
+msgstr "Boże. Trochę się zamartwiłem."
+
+msgctxt "DT_DIA_Giblet_Line_00141/1_Line"
+msgid "Hey, you found something! This is it! This is... Chum, what is this?"
+msgstr "Hej, znalazłeś coś! To jest to! To jest... Chum co to jest?"
+
+msgctxt "DT_DIA_Giblet_Line_00145/2_Line"
+msgid "And looks like the Prototype doesn't want anyone to find it."
+msgstr "I wygląda na to, że nasz Prototyp nie chciał żeby ktoś to znalazł."
+
+msgctxt "DT_DIA_Giblet_Line_00145/1_Line"
+msgid "Negation formula? Sounds spicy."
+msgstr "Formuła negacji? Brzmi ostro."
+
+msgctxt "DT_DIA_Giblet_Line_00145/3_Line"
+msgid "They got it stored on a backup in IT."
+msgstr "Musiało to być zapisane na kopii zapasowej w dziale IT."
+
+msgctxt "DT_DIA_Giblet_Line_00145/4_Line"
+msgid "We can get there from the tram in Reanimation!"
+msgstr "Możemy się tam dostać tramwajem z Reanimation!"
+
+msgctxt "DT_DIA_Giblet_Line_00146/1_Line"
+msgid "You can get us in there, right?"
+msgstr "Możesz nas tam zaprowadzić, prawda?"
+
+msgctxt "DT_DIA_Giblet_Line_00150/1_Line"
+msgid "\"No?\" W-What are you talking about, \"no\"? This is our chance!"
+msgstr "\"Nie?\" Co to ma znaczyć?! To jest nasza szansa!"
+
+msgctxt "DT_DIA_Giblet_Line_00155/2_Line"
+msgid "I.. I... look, I'm sorry. You help us out, and..."
+msgstr "Słu-Słuchaj... Przepraszam. Pomogłeś nam i..."
+
+msgctxt "DT_DIA_Giblet_Line_00155/3_Line"
+msgid "We're even. I mean it."
+msgstr "Jesteśmy kwita. Mówię poważnie."
+
+msgctxt "DT_DIA_Giblet_Line_00155/1_Line"
+msgid "Well we gotta try! Or are you just happier being the Prototype's errand boy, now?"
+msgstr "Cóż, musimy spróbować! A może po prostu wolisz być teraz chłopcem na posyłki Prototypu?"
+
+msgctxt "DT_DIA_Giblet_Line_00160/1_Line"
+msgid "Huh, the gel lab's a mess right now. Could go up from the pit. But..."
+msgstr "Hm, laboratorium z tym żelem jest teraz w kompletnym syfie. Można by wyjść z dołu. Ale..."
+
+msgctxt "DT_DIA_Giblet_Line_00160/2_Line"
+msgid "Let's see...Hmm...Maybe we could risk Sweet Street to-"
+msgstr "Zobaczmy... Hmm... Może moglibyśmy zaryzykować drogą Sweet Street, aby..."
+
+msgctxt "DT_DIA_Giblet_Line_00161/1_Line"
+msgid "Ah scrap."
+msgstr "Kurde."
+
+msgctxt "DT_DIA_Giblet_Line_00165/1_Line"
+msgid "Hey, get back here!"
+msgstr "Hej, wracaj tu!"
+
+msgctxt "DT_DIA_Giblet_Line_00170/1_Line"
+msgid "CHUM. We need an exit."
+msgstr "CHUM. Musimy wyjść."
+
+msgctxt "DT_DIA_Giblet_Line_00175/1_Line"
+msgid "Look I told you, I'm not a hero. I... Is she okay?"
+msgstr "Słuchaj, mówiłem ci. Nie jestem rycerzem na białym koniu. Czy wszystko z nią okej?"
+
+msgctxt "DT_DIA_Giblet_Line_00180/1_Line"
+msgid "You're... you're gonna be okay, Poppy. We'll find a way...  "
+msgstr "Będzie... będzie okej Poppy. Znajdziemy sposób."
+
+msgctxt "DT_DIA_Giblet_Line_00185/1_Line"
+msgid "Don't worry about me."
+msgstr "Nie martw się o mnie."
+
+msgctxt "DT_DIA_Giblet_Line_00185/3_Line"
+msgid "That doesn't have to be who we are."
+msgstr "Nie musimy tacy być."
+
+msgctxt "DT_DIA_Giblet_Line_00185/2_Line"
+msgid "The things they did to us..."
+msgstr "To, co nam zrobili..."
+
+msgctxt "DT_DIA_Giblet_Line_00190/1_Line"
+msgid "Look, the plan's... still the plan, right? We need to find that secret back-up."
+msgstr "Słuchaj, plan wciąż jest planem. Tak? Musimy znaleźć ten bardzo \"tajny\" zapasowy plan."
+
+msgctxt "DT_DIA_Giblet_Line_00190/2_Line"
+msgid "Next stop is the tram here in Reanimation."
+msgstr "Następny przystanek to tramwaj tutaj, w Reanimation."
+
+msgctxt "DT_DIA_Giblet_Line_00206/1_Line"
+msgid "Hey, Butcher! If you can hear me, Poppy and I are at the front! Make your way to us!"
+msgstr "Hej, Rzeźniku! Jeśli mnie słyszysz, Poppy i ja jesteśmy z przodu! Chodź do nas!"
+
+msgctxt "DT_DIA_Giblet_Line_00207/1_Line"
+msgid "Butcher, up here!"
+msgstr "Rzeźnik, na górze!"
+
+msgctxt "DT_DIA_Giblet_Line_00208/1_Line"
+msgid "Up here! This way!"
+msgstr "Na górze! Tutaj!"
+
+msgctxt "DT_DIA_Giblet_Line_00209/1_Line"
+msgid "C’mon! C’mon!"
+msgstr "Dawaj dawaj!"
+
+msgctxt "DT_DIA_Giblet_Line_00210/1_Line"
+msgid "Follow my voice!"
+msgstr "Podążaj za moim głosem! "
+
+msgctxt "DT_DIA_Giblet_Line_00211/1_Line"
+msgid "(Frantic) There should be some disconnect levers around there. See if you can hit them."
+msgstr "(W panice) Gdzieś tam powinny być dźwignie odłączające. Spróbuj je nacisnąć."
+
+msgctxt "DT_DIA_Giblet_Line_00212/1_Line"
+msgid "The cars are full of cargo; use whatever you can to slow him down!"
+msgstr "Samochody są pełne ładunku; użyj wszystkiego, co masz, aby go spowolnić!"
+
+msgctxt "DT_DIA_Giblet_Line_00220/1_Line"
+msgid "I'm not holding my breath.  "
+msgstr "Nie wstrzymuję oddechu.  "
+
+msgctxt "DT_DIA_Giblet_Line_00225_ALT_01/1_Line"
+msgid "Butcher! I’ve got an idea! I’m gonna switch the tracks, pick up some speed! Be ready to jump!"
+msgstr "Rzeźniku! Mam pomysł! Zamienię tory, i przyspieszę! Przygotuj się do skoku!"
+
+msgctxt "DT_DIA_Giblet_Line_00226/1_Line"
+msgid "Whew. Thought you were gone.  "
+msgstr "Uff. Myślałem, że już cię z nami nie ma.  "
+
+msgctxt "DT_DIA_Giblet_Line_00227/1_Line"
+msgid "Yeah yeah, I'm hurrying!"
+msgstr "Tak, tak, już się spieszę!"
+
+msgctxt "DT_DIA_Giblet_Line_00228/1_Line"
+msgid "Got it! Now hold on!"
+msgstr "Dobra! Teraz poczekaj!"
+
+msgctxt "DT_DIA_Giblet_Line_00229/1_Line"
+msgid "(Frantic) You're almost at the end of the line, Butcher! Lose the spider and JUMP!"
+msgstr "(W panice) Już prawie jesteś na końcu linii, Rzeźniku! Zrzuć pająka i SKACZ!"
+
+msgctxt "DT_DIA_Giblet_Line_00240/1_Line"
+msgid "Poppy. I... I... I couldn't..He took her. Kissy is... I don't know. I don't..."
+msgstr "Poppy. Ja... ja... nie mogłem... On ją zabrał. Kissy jest... Nie wiem. Nie..."
+
+msgctxt "DT_DIA_Giblet_Line_00245/1_Line"
+msgid "Look I told you I wasn't a hero."
+msgstr "Słuchaj, mówiłem ci że żaden ze mnie bohater."
+
+msgctxt "DT_DIA_Giblet_Line_00250/1_Line"
+msgid "This is it. This has gotta be where they keep the backup."
+msgstr "To jest to. To musi być miejsce, w którym przechowują kopię zapasową."
+
+msgctxt "DT_DIA_Giblet_Line_00255/1_Line"
+msgid "It's gotta be here. Keep looking.  "
+msgstr "To musi tu być. Szukaj dalej.  "
+
+msgctxt "DT_DIA_Giblett_Line_00206/1_Line"
+msgid "Hey, Butcher! If you can hear me, Poppy and I are at the front! Make your way to us! I’ll try to guide you through the intercom!"
+msgstr "Hej, Rzeźnik! Jeśli mnie słyszysz, Poppy i ja jesteśmy z przodu! Kieruj się do nas! Spróbuję cię poprowadzić przez interkom!"
+
+msgctxt "DT_DIA_Gomez_Line_00001/2_Line"
+msgid "Happy, Happy, Disgust, Sad, Fear, Happy."
+msgstr "Wesoły, Wesoły, Obrzydzenie, Smutny, Przestraszony, Szczęśliwy."
+
+msgctxt "DT_DIA_Gomez_Line_00001/1_Line"
+msgid "Same code. You just got fat fingers."
+msgstr "Ten sam kod. Po prostu masz grube palce."
+
+msgctxt "DT_DIA_Gracie_ASMR_Joy/23_Line"
+msgid "Best one yet!"
+msgstr "Najlepszy jak dotąd!"
+
+msgctxt "DT_DIA_Gracie_ASMR_Joy/7_Line"
+msgid "Growing up is scary."
+msgstr "Dorastanie jest straszne."
+
+msgctxt "DT_DIA_Gracie_ASMR_Joy/1_Line"
+msgid "Hey there, all you Lovely Lilies. It’s a sunny day."
+msgstr "Cześć, nasze słoneczka. Jest dziś słoneczny dzień."
+
+msgctxt "DT_DIA_Gracie_ASMR_Joy/10_Line"
+msgid "I am a toy."
+msgstr "Jestem zabawką."
+
+msgctxt "DT_DIA_Gracie_ASMR_Joy/3_Line"
+msgid "I feel safe. You feel safe, don’t you?"
+msgstr "Czuję się bezpiecznie. Czy ty czujesz się bezpiecznie?"
+
+msgctxt "DT_DIA_Gracie_ASMR_Joy/2_Line"
+msgid "I feel warm. Don’t you feel warm?"
+msgstr "Czuję ciepło. Czy ty nie czujesz ciepła? "
+
+msgctxt "DT_DIA_Gracie_ASMR_Joy/20_Line"
+msgid "I love that too! "
+msgstr "Też to kocham!"
+
+msgctxt "DT_DIA_Gracie_ASMR_Joy/17_Line"
+msgid "I loveee... getting to stay with all my Playtime friends FOREVER!"
+msgstr "Uwielbiam... możliwość przebywania z moimi przyjaciółmi z Playtime NA ZAWSZE!"
+
+msgctxt "DT_DIA_Gracie_ASMR_Joy/16_Line"
+msgid "I loveee... not having to worry about dying anymore."
+msgstr "Uwielbiam... to, że nie muszę się już martwić o śmierć."
+
+msgctxt "DT_DIA_Gracie_ASMR_Joy/5_Line"
+msgid "It’s good to have fun."
+msgstr "Dobrze jest się dobrze bawić."
+
+msgctxt "DT_DIA_Gracie_ASMR_Joy/6_Line"
+msgid "It’s good to want to have fun... forever."
+msgstr "Dobrze jest chcieć się dobrze bawić... na zawsze."
+
+msgctxt "DT_DIA_Gracie_ASMR_Joy/15_Line"
+msgid "I’m going to say all of the things I love about being a toy, and you can come up with some ideas with me! Hmmm..."
+msgstr "Powiem wszystko, co kocham w byciu zabawką, a ty możesz pomóc mi wymyślić kilka pomysłów! Hmmm..."
+
+msgctxt "DT_DIA_Gracie_ASMR_Joy/11_Line"
+msgid "I’ve always been a toy."
+msgstr "Zawsze byłem zabawką."
+
+msgctxt "DT_DIA_Gracie_ASMR_Joy/14_Line"
+msgid "Let’s play a game."
+msgstr "Zagrajmy w grę."
+
+msgctxt "DT_DIA_Gracie_ASMR_Joy/8_Line"
+msgid "Let’s stay kids forever."
+msgstr "Zostańmy dziećmi na zawsze."
+
+msgctxt "DT_DIA_Gracie_ASMR_Joy/18_Line"
+msgid "Let’s use this time to name five things you love!"
+msgstr "Wykorzystajmy ten czas, aby wymienić pięć rzeczy, które kochasz!"
+
+msgctxt "DT_DIA_Gracie_ASMR_Joy/9_Line"
+msgid "Repeat after me: I’m staying here forever."
+msgstr "Powtarzaj za mną: zostaję tu na zawsze."
+
+msgctxt "DT_DIA_Gracie_ASMR_Joy/22_Line"
+msgid "That's a good one!"
+msgstr "To jest dobre!"
+
+msgctxt "DT_DIA_Gracie_ASMR_Joy/19_Line"
+msgid "That’s great! Good job!"
+msgstr "Świetnie! Dobra robota!"
+
+msgctxt "DT_DIA_Gracie_ASMR_Joy/12_Line"
+msgid "Toys are here to be joy."
+msgstr "Zabawki są po to, aby sprawiać radość."
+
+msgctxt "DT_DIA_Gracie_ASMR_Joy/4_Line"
+msgid "We have so much fun here, don’t we?"
+msgstr "Tak dobrze się tu bawimy, prawda?"
+
+msgctxt "DT_DIA_Gracie_ASMR_Joy/13_Line"
+msgid "Yay! I have so much joy in me as a toy! Yay!"
+msgstr "Hurra! Jako zabawka czuję ogromną radość! Hurra!"
+
+msgctxt "DT_DIA_Gracie_ASMR_Joy/21_Line"
+msgid "You’re so creative!"
+msgstr "Jesteś tak kreatywny!"
+
+msgctxt "DT_DIA_Gracie_ASMR_Slumber/2_Line"
+msgid "(Big yawn)"
+msgstr "(Duży ziew)"
+
+msgctxt "DT_DIA_Gracie_ASMR_Slumber/1_Line"
+msgid "(Fake Sleepy)"
+msgstr "(Udawany sen)"
+
+msgctxt "DT_DIA_Gracie_ASMR_Slumber/23_Line"
+msgid "(Snoring)"
+msgstr "(Chrapanie)"
+
+msgctxt "DT_DIA_Gracie_ASMR_Slumber/20_Line"
+msgid "Baby just close your eyes..."
+msgstr "Po prostu... zamknij swe oczka..."
+
+msgctxt "DT_DIA_Gracie_ASMR_Slumber/18_Line"
+msgid "Being a toy is paradise. "
+msgstr "Bycie zabawką to raj. "
+
+msgctxt "DT_DIA_Gracie_ASMR_Slumber/17_Line"
+msgid "Being alive is the bad dream."
+msgstr "Żywot jest złym snem."
+
+msgctxt "DT_DIA_Gracie_ASMR_Slumber/12_Line"
+msgid "Boy, I bet having soft wool like Baba Chops feels nice."
+msgstr "Rany, na pewno miło jest mieć miękką wełnę jak Baba Chops."
+
+msgctxt "DT_DIA_Gracie_ASMR_Slumber/7_Line"
+msgid "Close our eyes and count sheep."
+msgstr "Zamknijmy oczy i policzmy owce."
+
+msgctxt "DT_DIA_Gracie_ASMR_Slumber/6_Line"
+msgid "Come on, Sleepy Sue, let’s take a nap together, okay?"
+msgstr "No dalej, Śpiąca Królewno, zróbmy sobie drzemkę razem, okej?"
+
+msgctxt "DT_DIA_Gracie_ASMR_Slumber/5_Line"
+msgid "Everyone does if they don’t get enough sleep!"
+msgstr "Każdy jest zrzędą, jeśli nie wysypia się!"
+
+msgctxt "DT_DIA_Gracie_ASMR_Slumber/19_Line"
+msgid "Go to sleep, Go to sleep..."
+msgstr "Idź już spać, już czas..."
+
+msgctxt "DT_DIA_Gracie_ASMR_Slumber/15_Line"
+msgid "Go to sleep, little one."
+msgstr "Idź spać, malutka kruszynko."
+
+msgctxt "DT_DIA_Gracie_ASMR_Slumber/8_Line"
+msgid "Look! Baba’s gonna help us."
+msgstr "Zobacz! Baba nam pomoże."
+
+msgctxt "DT_DIA_Gracie_ASMR_Slumber/16_Line"
+msgid "Maybe when we wake up we’ll all be toys."
+msgstr "Może jeśli się obudzimy, wszyscy będziemy zabawkami."
+
+msgctxt "DT_DIA_Gracie_ASMR_Slumber/3_Line"
+msgid "Oh, hey there, Wonderful! I don’t know about you, but I am slee-ee-eepy."
+msgstr "O cześć, słoneczko! Nie wiem jak ty, ale ja jestem stras-sz-z-z-znie śpiąca."
+
+msgctxt "DT_DIA_Gracie_ASMR_Slumber/9_Line"
+msgid "One..."
+msgstr "Jedna..."
+
+msgctxt "DT_DIA_Gracie_ASMR_Slumber/11_Line"
+msgid "Three..."
+msgstr "Trzy..."
+
+msgctxt "DT_DIA_Gracie_ASMR_Slumber/14_Line"
+msgid "Toys never get cranky. They’re full of joy. "
+msgstr "Zabawki nigdy nie są marudne. Są pełne radości. "
+
+msgctxt "DT_DIA_Gracie_ASMR_Slumber/10_Line"
+msgid "Two..."
+msgstr "Dwie..."
+
+msgctxt "DT_DIA_Gracie_ASMR_Slumber/4_Line"
+msgid "When I don’t get my beauty sleep, I turn into a big old grumpy bum."
+msgstr "Kiedy nie wysypiam się, zamieniam się w wielkiego, zrzędliwego staruszka."
+
+msgctxt "DT_DIA_Gracie_ASMR_Slumber/21_Line"
+msgid "When you wake, When you wake..."
+msgstr "Kiedy się obudzisz, kiedy się obudzisz..."
+
+msgctxt "DT_DIA_Gracie_ASMR_Slumber/13_Line"
+msgid "Wouldn’t it be nice to be a toy?"
+msgstr "Czy nie fajnie by było być zabawką?"
+
+msgctxt "DT_DIA_Gracie_ASMR_Slumber/22_Line"
+msgid "You’ll be in paradise!"
+msgstr "Będziesz w raju!"
+
+msgctxt "DT_DIA_Gracie_ASMR_Soft/10_Line"
+msgid "And if any Negative Nancies tell us we can’t be toys?..."
+msgstr "A jeśli jakieś marudne osoby powiedzą nam, że nie możemy być zabawkami?..."
+
+msgctxt "DT_DIA_Gracie_ASMR_Soft/1_Line"
+msgid "Hey there, Wonderful. Do you want to feel comfortable? Do you want to feel safe?"
+msgstr "Cześć, słoneczko. Chcesz się poczuć komfortowo? Chcesz się poczuć bezpiecznie?"
+
+msgctxt "DT_DIA_Gracie_ASMR_Soft/6_Line"
+msgid "I wish I could be soft like Huggy and Kissy. Don’t you?"
+msgstr "Chciałabym być tak miękka jak Huggy i Kissy. Czyż nie?"
+
+msgctxt "DT_DIA_Gracie_ASMR_Soft/8_Line"
+msgid "Isn’t that the most beautiful thing in the world?"
+msgstr "Czy to nie jest najpiękniejsza rzecz na świecie?"
+
+msgctxt "DT_DIA_Gracie_ASMR_Soft/3_Line"
+msgid "It’s too squishy, right? All that meat and bone? Yuck!"
+msgstr "Zbyt miękko, prawda? Całe to mięso i kości? Fuj!"
+
+msgctxt "DT_DIA_Gracie_ASMR_Soft/13_Line"
+msgid "Let's be soft... Let's be toys..."
+msgstr "Bądźmy miękcy... Bądźmy zabawkami..."
+
+msgctxt "DT_DIA_Gracie_ASMR_Soft/12_Line"
+msgid "Let’s be soft like Huggy Wuggy, my little Sleepy Sam. Let’s be toys."
+msgstr "Bądźmy tak miękcy Jak Huggy Wuggy, moja śpiąca kruszynko. Bądźmy zabawkami."
+
+msgctxt "DT_DIA_Gracie_ASMR_Soft/2_Line"
+msgid "Let’s give ourselves a biiiiig hug? How does that feel?"
+msgstr "Dajmy sobie ogromnyyy przytulas. Jak się czujesz?"
+
+msgctxt "DT_DIA_Gracie_ASMR_Soft/5_Line"
+msgid "Let’s hug our Huggy and Kissy toys. Don’t they feel so soft?"
+msgstr "Przytulmy nasze zabawki Huggy i Kissy. Czyż one nie są miękkie w dotyku?"
+
+msgctxt "DT_DIA_Gracie_ASMR_Soft/7_Line"
+msgid "Let’s sink down. Sink down and quiet. You are a toy. You have always been a toy."
+msgstr "Zanurzmy się. Zanurzmy się i wyciszmy. Jesteś zabawką. Zawsze byłeś zabawką."
+
+msgctxt "DT_DIA_Gracie_ASMR_Soft/11_Line"
+msgid "Then we'll pop their heads off! (Laughing)"
+msgstr "W takim razie odstrzelimy im głowy! (Śmiech)"
+
+msgctxt "DT_DIA_Gracie_ASMR_Soft/9_Line"
+msgid "Toys don't feel pain. Toys don't need answers. Toys are here to be joy."
+msgstr "Zabawki nie czują bólu. Zabawki nie potrzebują odpowiedzi. Zabawki są dla radości."
+
+msgctxt "DT_DIA_Gracie_ASMR_Soft/4_Line"
+msgid "Wouldn't it feel nicer to be made of felt and fluff?"
+msgstr "Czy nie byłoby miło być zrobionym z futra i puchu?"
+
+msgctxt "DT_DIA_Gracie_Memory01_Line01/5_Line"
+msgid "And for those naughty blocks that don't match, see if you can find a place for those!"
+msgstr "A jeśli chodzi o te niegrzeczne klocki, które nie pasują, spróbuj znaleźć dla nich miejsce!"
+
+msgctxt "DT_DIA_Gracie_Memory01_Line01/1_Line"
+msgid "Hey there, sleepy head! Rise and shine! It's time to meet the day!"
+msgstr "Hej, śpiochu! Czas wstać! Czas rozpocząć nowy dzień!"
+
+msgctxt "DT_DIA_Gracie_Memory01_Line01/4_Line"
+msgid "The friends all LOVE this game! Drop the block into the correct hole. "
+msgstr "Wszyscy przyjaciele uwielbiają tę grę! Wrzuć klocki do odpowiednich otworów. "
+
+msgctxt "DT_DIA_Gracie_Memory01_Line01/3_Line"
+msgid "Today we are going to play a game called cleaning up."
+msgstr "Dzisiaj będziemy grać w grę, która zwie się \"Sprzątanie\"."
+
+msgctxt "DT_DIA_Gracie_Memory01_Line01/2_Line"
+msgid "We’re all proud of your progress, Huggy! You're going to make the friends SO happy!"
+msgstr "Wszyscy jesteśmy dumni z twoich postępów, Huggy! Twoi przyjaciele będą bardzo szczęśliwi!"
+
+msgctxt "DT_DIA_Gracie_Memory01_Line02/1_Line"
+msgid "Don't be a Silly Sam, does that look like a square to you?"
+msgstr "Nie bądź głupkiem, czy to wygląda ci na kwadrat?"
+
+msgctxt "DT_DIA_Gracie_Memory01_Line03/1_Line"
+msgid "A triangle has three points, Huggy! Every toy knows that!"
+msgstr "Trójkąt ma trzy wierzchołki, Huggy! Każda zabawka to wie!"
+
+msgctxt "DT_DIA_Gracie_Memory01_Line04/1_Line"
+msgid "A good toy knows this!"
+msgstr "Dobra zabawka wie o tym!"
+
+msgctxt "DT_DIA_Gracie_Memory01_Line05/2_Line"
+msgid "Like how we give joy! And it always comes back to us!"
+msgstr "Tak jak my dajemy radość! I ona zawsze do nas wraca!"
+
+msgctxt "DT_DIA_Gracie_Memory01_Line05/1_Line"
+msgid "That's a circle! An endless loop…"
+msgstr "To jest koło! Niekończąca się pętla…"
+
+msgctxt "DT_Dia_Gracie_Memory01_Line06/2_Line"
+msgid "I think someone’s ready for round two! It’ll be a little harder, but I believe in you, Huggy!"
+msgstr "Widzę, że ktoś jest gotowy na drugą rundę! Będzie nieco trudniej, ale wierzę w ciebie, Huggy!"
+
+msgctxt "DT_Dia_Gracie_Memory01_Line06/1_Line"
+msgid "Very good, Huggy! You're doing so great!"
+msgstr "Bardzo dobrze, Huggy! Świetnie sobie radzisz!"
+
+msgctxt "DT_DIA_Gracie_Memory01_Line07/1_Line"
+msgid "Huggy, only a square can go there! You know that!"
+msgstr "Huggy, tylko kwadrat może tam wejść! Wiesz o tym!"
+
+msgctxt "DT_DIA_Gracie_Memory01_Line08/1_Line"
+msgid "Hm, I don't think that's right!"
+msgstr "Hm, nie wydaję mi się, żeby to było dobrze!"
+
+msgctxt "DT_DIA_Gracie_Memory01_Line09/1_Line"
+msgid "You seem to be missing the point. Even on a shape with no points."
+msgstr "Wydaje się, że nie rozumiesz, o co chodzi. Nawet w przypadku kształtu bez punktów."
+
+msgctxt "DT_DIA_Gracie_Memory01_Line10/1_Line"
+msgid "Well that's the most important one of all!"
+msgstr "Cóż, to najważniejsza z nich wszystkich!"
+
+msgctxt "DT_DIA_Gracie_Memory01_Line11/1_Line"
+msgid "Sorry, Huggy... Keep trying!"
+msgstr "Przykro mi, Huggy... Nie poddawaj się!"
+
+msgctxt "DT_DIA_Gracie_Memory01_Line12/1_Line"
+msgid "Some toys you just can’t bend into shape, huh?"
+msgstr "Niektórych zabawek po prostu nie da się wygiąć, co?"
+
+msgctxt "DT_DIA_Gracie_Memory01_Line13/1_Line"
+msgid "Awwwh. The friends are gonna be SO sad..."
+msgstr "Och, przyjaciele będą tak smutni..."
+
+msgctxt "DT_DIA_Gracie_Memory01_Line14/2_Line"
+msgid "Just a little more, and you’ll be exactly the kind of toy the friends need! Be the joy, Huggy!"
+msgstr "Jeszcze tylko trochę, a będziesz dokładnie taką zabawką, jakiej potrzebują przyjaciele! Bądź radością, Huggy!"
+
+msgctxt "DT_DIA_Gracie_Memory01_Line14/1_Line"
+msgid "My my, aren’t YOU impressive!"
+msgstr "Ojej, ależ TY jesteś imponujący!"
+
+msgctxt "DT_DIA_Gracie_Memory01_Line15/2_Line"
+msgid "The bad toy box."
+msgstr "Pudło dla złych zabawek."
+
+msgctxt "DT_DIA_Gracie_Memory01_Line15/1_Line"
+msgid "You know what else is a square, Huggy?"
+msgstr "Wiesz, co jeszcze jest kwadratem, Huggy?"
+
+msgctxt "DT_DIA_Gracie_Memory01_Line16/1_Line"
+msgid "A triangle, Huggy!"
+msgstr "Trójkąt, Huggy!"
+
+msgctxt "DT_DIA_Gracie_Memory01_Line16/2_Line"
+msgid "Past, present, and future! Mind, body, and soul! You know this."
+msgstr "Przeszłość, teraźniejszość i przyszłość! Umysł, ciało i dusza! Wiesz o tym."
+
+msgctxt "DT_DIA_Gracie_Memory01_Line17/1_Line"
+msgid "Wrong, Huggy. Very wrong."
+msgstr "Źle, Huggy. Bardzo źle."
+
+msgctxt "DT_DIA_Gracie_Memory01_Line18/1_Line"
+msgid "You’re making the friends sad..."
+msgstr "Smucisz swoich przyjaciół..."
+
+msgctxt "DT_DIA_Gracie_Memory01_Line19/1_Line"
+msgid "This shouldn’t be hard for you..."
+msgstr "To nie powinno być dla ciebie trudne..."
+
+msgctxt "DT_DIA_Gracie_Memory01_Line20/1_Line"
+msgid "Remember: Good toys do what they're told!"
+msgstr "Pamiętaj: dobre zabawki robią to, co się im każe."
+
+msgctxt "DT_DIA_Gracie_Memory01_Line21/1_Line"
+msgid "It's important to stay on task, big guy!"
+msgstr "Ważne jest, żebyś się skupił na zadaniu, wielkoludzie!"
+
+msgctxt "DT_DIA_Gracie_Memory01_Line22/1_Line"
+msgid "You don't have to be angry, Huggy!"
+msgstr "Nie musisz się złościć, Huggy!"
+
+msgctxt "DT_DIA_Gracie_Memory01_Line23/2_Line"
+msgid "And out (exhales)..."
+msgstr "I wydech..."
+
+msgctxt "DT_DIA_Gracie_Memory01_Line23/1_Line"
+msgid "Now now. Let's all practice our breathing! In (inhales)..."
+msgstr "No dobrze. Poćwiczmy wszyscy oddychanie! Wdech..."
+
+msgctxt "DT_DIA_Gracie_Memory02_Line01/4_Line"
+msgid "Always. Stay. In the light."
+msgstr "Zawsze. Stań. W świetle."
+
+msgctxt "DT_DIA_Gracie_Memory02_Line01/2_Line"
+msgid "Doesn't that make you wanna just... dance?"
+msgstr "Czy to nie sprawia, że masz ochotę po prostu... tańczyć?"
+
+msgctxt "DT_DIA_Gracie_Memory02_Line01/1_Line"
+msgid "Well look, all the friends are here! Isn't that amazing?"
+msgstr "No proszę, wszyscy przyjaciele są tutaj! Czy to niewspaniałe?"
+
+msgctxt "DT_DIA_Gracie_Memory02_Line01/3_Line"
+msgid "Yeeah! Okay, so when you hear the music, you move your little feet! And when the music stops, you make sure you're in the light, okay?"
+msgstr "Tak! Dobrze, więc kiedy usłyszysz muzykę, ruszaj swoimi nóżkami! A kiedy muzyka ucichnie, upewnij się, że jesteś w świetle, dobrze?"
+
+msgctxt "DT_DIA_Gracie_Memory02_Line02/1_Line"
+msgid "Aw, look at you all go! Looking good out there! You all look soooooo happy! It really brings a smile to my face!"
+msgstr "Ach, spójrzcie tylko na siebie! Wyglądacie świetnie! Wszyscy wyglądacie na tak szczęśliwych! To naprawdę wywołuje uśmiech na mojej twarzy!"
+
+msgctxt "DT_DIA_Gracie_Memory02_Line03/1_Line"
+msgid "Huggy, don't be a Grumpy Gregory! I wanna see you SHAKE it!"
+msgstr "Huggy, nie bądź zrzędą! Chcę zobaczyć, jak się rozkręcasz!"
+
+msgctxt "DT_DIA_Gracie_Memory02_Line04/4_Line"
+msgid "Go and put them in the box."
+msgstr "Idź i włóż je do pudełka."
+
+msgctxt "DT_DIA_Gracie_Memory02_Line04/3_Line"
+msgid "Huggy, you know where the bad toys go."
+msgstr "Huggy, wiesz, gdzie trafiają złe zabawki."
+
+msgctxt "DT_DIA_Gracie_Memory02_Line04/2_Line"
+msgid "I guess they’re bad toys."
+msgstr "Myślę, że to są złe zabawki."
+
+msgctxt "DT_DIA_Gracie_Memory02_Line04/1_Line"
+msgid "Seems like our toys here aren’t ready to be the joy anyone needs."
+msgstr "Wygląda na to, że nasze zabawki nie są gotowe, aby sprawiać radość, której każdy potrzebuje."
+
+msgctxt "DT_DIA_Gracie_Memory02_Line05/1_Line"
+msgid "Now that's not how we spread joy."
+msgstr "W ten sposób nie szerzymy radość."
+
+msgctxt "DT_DIA_Gracie_Memory02_Line06/1_Line"
+msgid "Tsk tsk tsk. I think we can do better than that."
+msgstr "Cóż, myślę, że możemy jeszcze lepiej to zrobić."
+
+msgctxt "DT_DIA_Gracie_Memory02_Line07/1_Line"
+msgid "You're not being a good toy, Huggy. The friends won't like that."
+msgstr "Nie jesteś dobrą zabawką, Huggy. Przyjaciele nie będą zadowoleni."
+
+msgctxt "DT_DIA_Gracie_Memory02_Line08/1_Line"
+msgid "Huggy, please place the toy in the bad toy box."
+msgstr "Huggy, proszę, włóż zabawkę do pudełka."
+
+msgctxt "DT_DIA_Gracie_Memory02_Line09/1_Line"
+msgid "Yowch! That was painful!"
+msgstr "Auć! To było bolesne!"
+
+msgctxt "DT_DIA_Gracie_Memory02_Line10/1_Line"
+msgid "Awwww. It hurts me to see YOU hurt."
+msgstr "Aw. Tak mnie to boli, gdy widzę, jak cierpisz"
+
+msgctxt "DT_DIA_Gracie_Memory02_Line11/1_Line"
+msgid "You've been a bad toy, Huggy..."
+msgstr "Byłeś niegrzeczną zabawką, Huggy..."
+
+msgctxt "DT_DIA_Gracie_Memory02_Line12/1_Line"
+msgid "Hey little guy! You can't just sleep on the floor all day like a lazy bones..."
+msgstr "Hej, maluszku! Nie możesz tak po prostu spać cały dzień na podłodze jak leniwiec..."
+
+msgctxt "DT_DIA_Gracie_Memory02_Line13/4_Line"
+msgid "Come and play! Playing with friends is so much better!"
+msgstr "Chodźcie się pobawić! Zabawa z przyjaciółmi jest o wiele fajniejsza!"
+
+msgctxt "DT_DIA_Gracie_Memory02_Line13/5_Line"
+msgid "Keep going! Nice work everyone! Isn't this SO fun? Isn't this?"
+msgstr "Nie poddawajcie się! Dobra robota! Czy to nie jest super zabawa? Prawda?"
+
+msgctxt "DT_DIA_Gracie_Memory02_Line13/1_Line"
+msgid "Oh! Sounds like someone's being a Grumpy Gregory, huh?"
+msgstr "Och! Wygląda na to, że ktoś tu jest zrzędą, co?"
+
+msgctxt "DT_DIA_Gracie_Memory02_Line13/3_Line"
+msgid "Oh, you all are... doing so so good. Wait till the friends uh..."
+msgstr "Och, wszyscy radzicie sobie tak dobrze. Poczekajcie, aż przyjaciele..."
+
+msgctxt "DT_DIA_Gracie_Memory02_Line13/2_Line"
+msgid "What do you want me to do? He's not getting up-"
+msgstr "Co mam zrobić? On nie chcę się podnieść."
+
+msgctxt "DT_DIA_Gracie_Memory02_Line14/2_Line"
+msgid "Huggy, why don't you give them a time out. Put them in the bad toy box."
+msgstr "Huggy, dlaczego nie dasz im kary? Wrzuć je do pudełka."
+
+msgctxt "DT_DIA_Gracie_Memory02_Line14/1_Line"
+msgid "I guess somebody's out."
+msgstr "Chyba ktoś wypadł."
+
+msgctxt "DT_DIA_Gracie_Memory02_Line15/1_Line"
+msgid "Next round!"
+msgstr "Następna runda!"
+
+msgctxt "DT_DIA_Gracie_Memory02_Line15/3_Line"
+msgid "Oh, looks like we have another toy to put in the box. "
+msgstr "Och, wygląda na to, że mamy kolejną zabawkę do włożenia do pudełka. "
+
+msgctxt "DT_DIA_Gracie_Memory02_Line15/2_Line"
+msgid "Oh, the friends are gonna be so SO happy with you all! Keep moving!"
+msgstr "Och, przyjaciele będą tak bardzo zadowoleni z was wszystkich! Nie przestawajcie!"
+
+msgctxt "DT_DIA_Gracie_Memory02_Line16/3_Line"
+msgid "Because of you. Because of your joy."
+msgstr "Z twojego powodu. Z powodu twojej radości."
+
+msgctxt "DT_DIA_Gracie_Memory02_Line16/1_Line"
+msgid "Here we go!"
+msgstr "Zaczynamy!"
+
+msgctxt "DT_DIA_Gracie_Memory02_Line16/2_Line"
+msgid "Look at you. Look at ALL of you. Spreading love. Spreading joy. Think about how the world is such a better place..."
+msgstr "Spójrzcie na siebie. Spójrzcie na was wszystkich. Rozsiewacie miłość. Rozsiewacie radość. Pomyślcie, jak bardzo świat stał się lepszym miejscem..."
+
+msgctxt "DT_DIA_Gracie_Memory02_Line17/3_Line"
+msgid "And the day after, too! The joy will NEVER stop! "
+msgstr "I następnego dnia też! Radość NIGDY nie ustanie! "
+
+msgctxt "DT_DIA_Gracie_Memory02_Line17/1_Line"
+msgid "Awwh, more friends! More fun!"
+msgstr "Och, więcej przyjaciół! Więcej zabawy!"
+
+msgctxt "DT_DIA_Gracie_Memory02_Line17/2_Line"
+msgid "Don't stop, Huggy. We're gonna keep playing today, and tomorrow..."
+msgstr "Nie przestawaj, Huggy. Będziemy grać dzisiaj i jutro..."
+
+msgctxt "DT_DIA_Gracie_Memory02_Line18/2_Line"
+msgid "But don't worry. We have a special toy box JUST for you..."
+msgstr "Ale nie martw się. Mamy specjalne pudełko WYŁĄCZNIE dla Ciebie..."
+
+msgctxt "DT_DIA_Gracie_Memory02_Line18/1_Line"
+msgid "Oh, I'm sorry, Huggy. You're not gonna fit in there..."
+msgstr "Och, przykro mi, Huggy. Nie zmieścisz się tam..."
+
+msgctxt "DT_DIA_IGS_Giblet_Line_00003/1_Line"
+msgid "Probably best if you head out, Butcher"
+msgstr "Najlepiej będzie, jeśli już pójdziesz, Rzeźniku."
+
+msgctxt "DT_DIA_IGS_Giblet_Line_00005/1_Line"
+msgid "Still here I see…"
+msgstr "Wciąż tu jesteś, jak widzę..."
+
+msgctxt "DT_DIA_IGS_Giblet_Line_00006/1_Line"
+msgid "Ah, would you look at that! Guess it’s about time for me to start singing!"
+msgstr "Ach, spójrzcie tylko! Chyba nadszedł czas, żebym zaczął śpiewać...!"
+
+msgctxt "DT_DIA_IGS_Giblet_Line_00006/2_Line"
+msgid "You definitely wanna stick around for my singing, right?"
+msgstr "Na pewno chcesz zostać, i posłuchać mojego fałszowania?"
+
+msgctxt "DT_DIA_IGS_Giblet_Line_00007/1_Line"
+msgid "Okay, here it goes..."
+msgstr "No dobra, lecimy z tym."
+
+msgctxt "DT_DIA_IGS_Giblet_Line_00007/2_Line"
+msgid "Starts singing Doey’s theme (very badly) He's stretchy, he's gummy, he's squishy, he's funny, he's something...."
+msgstr "Zaczyna śpiewać piosenkę Doey'a (przy okazji fałszując) Ciągnie, jak guma, ściska, zachwyca. On coś tam..."
+
+msgctxt "DT_DIA_IGS_Giblet_Line_00008/1_Line"
+msgid "Starts singing the Smiling Critters theme (very badly)"
+msgstr "Zaczyna śpiewać piosenkę Smiling Critters (nadal bardzo fałszując)"
+
+msgctxt "DT_DIA_IGS_Giblet_Line_00009/1_Line"
+msgid "Starts singing Huggy’s theme (very badly)"
+msgstr "Zaczyna śpiewać piosenkę Huggy'go (nadal, fałszując)"
+
+msgctxt "DT_DIA_IGS_Giblet_Line_00010/1_Line"
+msgid "(Ahem) Please leave…"
+msgstr "(Ahem) Proszę idź..."
+
+msgctxt "DT_DIA_Lily_DEATH_Line_01/2_Line"
+msgid "And THIS is how you repay me?!"
+msgstr "I TAK mi się odpłacasz?!"
+
+msgctxt "DT_DIA_Lily_DEATH_Line_01/1_Line"
+msgid "I let you into my house... I let you come to my TEA PARTY..."
+msgstr "Wpuściłam cię do mojego domu... Pozwoliłam ci przyjść na moje herbatkowe przyjęcie.."
+
+msgctxt "DT_DIA_Lily_Line_00001/2_Line"
+msgid "I don't think they're here for the party, Lily."
+msgstr "Nie sądzę, żeby przyszli tu na imprezę, Lily."
+
+msgctxt "DT_DIA_Lily_Line_00001/1_Line"
+msgid "Oh. My. Goodness."
+msgstr "O rany."
+
+msgctxt "DT_DIA_Lily_Line_00001/4_Line"
+msgid "We're going to have SO. MUCH. FUN."
+msgstr "Będziemy się TAK. ŚWIETNIE. BAWIĆ."
+
+msgctxt "DT_DIA_Lily_Line_00001/3_Line"
+msgid "Well of course they are, Candy. Why else would they be here?"
+msgstr "Oczywiście, że tak, Candy. Po co inaczej by tu byli?"
+
+msgctxt "DT_DIA_Lily_Line_00005/4_Line"
+msgid "Maybe we could ask if they want to take a bubble bath?"
+msgstr "Może zapytamy, czy chcą wziąć kąpiel z bąbelkami?"
+
+msgctxt "DT_DIA_Lily_Line_00005/5_Line"
+msgid "Now? No no no, we have to set up for the party!"
+msgstr "Teraz? Nie, nie, nie, musimy przygotować się do imprezy!"
+
+msgctxt "DT_DIA_Lily_Line_00005/1_Line"
+msgid "They smell like dead bodies."
+msgstr "Pachną jak zwłoki."
+
+msgctxt "DT_DIA_Lily_Line_00005/2_Line"
+msgid "Well that's not a nice thing to say, Candy."
+msgstr "Cóż, to nie jest miłe, Candy."
+
+msgctxt "DT_DIA_Lily_Line_00005/3_Line"
+msgid "What's a nicer way to tell a friend that they smell like gore?"
+msgstr "Jaki jest ładniejszy sposób, aby powiedzieć przyjacielowi, że pachnie jak gówn..."
+
+msgctxt "DT_DIA_Lily_Line_00006/1_Line"
+msgid "Can you be a good toy and bring me the crumpets from the oven in the basement?"
+msgstr "Czy możesz być dobrą zabawką. i przynieść mi bułeczki z piekarnika w piwnicy?"
+
+msgctxt "DT_DIA_Lily_Line_00007/1_Line"
+msgid "I said they're in the oven in the basement!"
+msgstr "Powiedziałam, że są w piekarniku w piwnicy!"
+
+msgctxt "DT_DIA_Lily_Line_00008/1_Line"
+msgid "Why is it taking so long to get the crumpets?"
+msgstr "Dlaczego tak długo trzeba czekać na bułeczki?"
+
+msgctxt "DT_DIA_Lily_Line_00009/1_Line"
+msgid "You weren't talking to anyone were you?"
+msgstr "Nie rozmawiałeś z nikim, prawda?"
+
+msgctxt "DT_DIA_Lily_Line_00010/1_Line"
+msgid "Oh that's amazing! Next, we'll have to find the friends."
+msgstr "Och, to niesamowite! Teraz, musimy znaleźć naszych przyjaciół."
+
+msgctxt "DT_DIA_Lily_Line_00010/2_Line"
+msgid "They should be around here somewhere, and I know they'd hate to miss this."
+msgstr "Powinni być gdzieś w pobliżu i wiem, że nie chcieliby przegapić naszego przyjęcia."
+
+msgctxt "DT_DIA_Lily_Line_00015/2_Line"
+msgid "Let's set the mood with a little music in case our special guest arrives early."
+msgstr "Stwórzmy odpowiednią atmosferę, włączając trochę muzyki, na wypadek gdyby nasz gość specjalny przybył wcześniej."
+
+msgctxt "DT_DIA_Lily_Line_00015/1_Line"
+msgid "Oh he's gonna love these."
+msgstr "Och, na pewno mu się spodobają."
+
+msgctxt "DT_DIA_Lily_Line_00020/1_Line"
+msgid "Have you found the friends yet? Maybe they're upstairs?"
+msgstr "Znalazłeś już przyjaciół? Może są na górze?"
+
+msgctxt "DT_DIA_Lily_Line_00021/1_Line"
+msgid "How dare you ignore me. Come back here right now!"
+msgstr "Jak śmiesz mnie ignorować. Wracaj tu natychmiast!"
+
+msgctxt "DT_DIA_Lily_Line_00022/1_Line"
+msgid "I warned you about being rude while I'm speaking!"
+msgstr "Ostrzegałam cię, żebyś był grzeczny, kiedy mówię!"
+
+msgctxt "DT_DIA_Lily_Line_00023/1_Line"
+msgid "You have until the count of 3 to get over here or it's timeout for you!"
+msgstr "Masz czas do trzech, żeby tu podejść, bo inaczej dostaniesz karę!"
+
+msgctxt "DT_DIA_Lily_Line_00024/1_Line"
+msgid "You have until the count of 5 to get over here or it's timeout for you!"
+msgstr "Masz czas do pięciu, żeby tu podejść, bo inaczej dostaniesz karę!"
+
+msgctxt "DT_DIA_Lily_Line_00025/5_Line"
+msgid "1..."
+msgstr ""
+
+msgctxt "DT_DIA_Lily_Line_00025/4_Line"
+msgid "2..."
+msgstr ""
+
+msgctxt "DT_DIA_Lily_Line_00025/3_Line"
+msgid "3..."
+msgstr ""
+
+msgctxt "DT_DIA_Lily_Line_00025/2_Line"
+msgid "4..."
+msgstr ""
+
+msgctxt "DT_DIA_Lily_Line_00025/1_Line"
+msgid "5..."
+msgstr ""
+
+msgctxt "DT_DIA_Lily_Line_00026/1_Line"
+msgid "It's the bad toy box for you!"
+msgstr "Pudełko ze złymi zabawkami dla ciebie!"
+
+msgctxt "DT_DIA_Lily_Line_00027/1_Line"
+msgid "Now where was I..."
+msgstr "Gdzie ja to byłam..."
+
+msgctxt "DT_DIA_Lily_Line_00028/1_Line"
+msgid "I'm off to prepare my famous sandwiches. You make sure the friends make it to the party on time."
+msgstr "Idę przygotować moje słynne kanapki. Upewnij się, że przyjaciele dotrą na imprezę na czas."
+
+msgctxt "DT_DIA_Lily_Line_00029/1_Line"
+msgid "Do you think the poster is enough to hide it? Shhh. We have guests here, Candy."
+msgstr "Myślisz, że plakat wystarczy, żeby to ukryć? Cicho. Mamy gości, Candy."
+
+msgctxt "DT_DIA_Lily_Line_00030/2_Line"
+msgid "Well when our guest arrives, maybe he'll be so happy, he'll invite all of us."
+msgstr "Cóż, kiedy nasz gość przyjedzie, może będzie tak zadowolony, że zaprosi nas wszystkich."
+
+msgctxt "DT_DIA_Lily_Line_00030/1_Line"
+msgid "Why can't we go to a Better Place, Lily?"
+msgstr "Dlaczego nie możemy być w lepszym miejscu, Lily?"
+
+msgctxt "DT_DIA_Lily_Line_00031/1_Line"
+msgid "Shut it! You've always been a bad toy! When he gets here, he'll see it too!"
+msgstr "Zamknij się! Zawsze byłaś złą zabawką! Kiedy tu przyjdzie, też to zobaczy!"
+
+msgctxt "DT_DIA_Lily_Line_00032/1_Line"
+msgid "And then they killed Doey... (Laughs)"
+msgstr "A potem zabili Doey'go... (śmiech)"
+
+msgctxt "DT_DIA_Lily_Line_00033/2_Line"
+msgid "No...we can't! We always kill our friends and then we're alone."
+msgstr "Nie... nie możemy! Zawsze zabijamy naszych przyjaciół, a potem zostajemy sami."
+
+msgctxt "DT_DIA_Lily_Line_00033/1_Line"
+msgid "We should kill them."
+msgstr "Powinniśmy ich zabić."
+
+msgctxt "DT_DIA_Lily_Line_00034/1_Line"
+msgid "(Crying and screaming)"
+msgstr "(Płacz i krzyki)"
+
+msgctxt "DT_DIA_Lily_Line_00035/1_Line"
+msgid "Dolly Grub! Were you taking a bubble bath? Mmmmmm, vanilla. "
+msgstr "Dolly Grub! Brałaś kąpiel z bąbelkami? Mmmmmm, wanilia. "
+
+msgctxt "DT_DIA_Lily_Line_00036/1_Line"
+msgid "Now, who are we still missing?"
+msgstr "Kogo nam jeszcze brakuje?"
+
+msgctxt "DT_DIA_Lily_Line_00037/2_Line"
+msgid "And I'm so sorry for your loss."
+msgstr "I przyjmij moje kondolencję."
+
+msgctxt "DT_DIA_Lily_Line_00037/1_Line"
+msgid "Oh Baby! So nice of you to join us for tea."
+msgstr "Och, Baby! Miło, że dołączyłeś do nas na herbatę."
+
+msgctxt "DT_DIA_Lily_Line_00040/1_Line"
+msgid "Oh look who it is! Dusky, were you messing around in the garage?"
+msgstr "O, patrzcie, kto to przyszedł! Dusky, bawiłeś się w garażu?"
+
+msgctxt "DT_DIA_Lily_Line_00040/2_Line"
+msgid "Remember, good toys wash their hands!"
+msgstr "Pamiętaj, dobre zabawki zawsze myją ręce!"
+
+msgctxt "DT_DIA_Lily_Line_00045/1_Line"
+msgid "Oh this is the best day of my life. All of the friends. Ah, I almost forgot, I need to get ready!"
+msgstr "Och, to najlepszy dzień w moim życiu. Wszyscy przyjaciele. Ach, prawie zapomniałam, muszę się przygotować!"
+
+msgctxt "DT_DIA_Lily_Line_00046/1_Line"
+msgid "Follow me to the kitchen, we need to make final preparations before our special guest arrives."
+msgstr "Chodź ze mną do kuchni, musimy dokonać ostatnich przygotowań przed przybyciem naszego specjalnego gościa."
+
+msgctxt "DT_DIA_Lily_Line_00047/1_Line"
+msgid "There's no time to dilly dally, come over to the kitchen. He might arrive any second now."
+msgstr "Nie ma czasu na zwlekanie, chodź do kuchni. Może przyjść w każdej chwili."
+
+msgctxt "DT_DIA_Lily_Line_00048/1_Line"
+msgid "Oh look at this mess. We need to tidy up."
+msgstr "O, spójrz na ten bałagan. Musimy posprzątać."
+
+msgctxt "DT_DIA_Lily_Line_00048/2_Line"
+msgid "Return my recipe book to the nook upstairs while I get everything ready."
+msgstr "Odłóż moją książkę kucharską na półkę na górze, a ja wszystko przygotuję."
+
+msgctxt "DT_DIA_Lily_Line_00049/1_Line"
+msgid "Did you put the book away yet? "
+msgstr "Odłożyłeś już moją książkę? "
+
+msgctxt "DT_DIA_Lily_Line_00050/1_Line"
+msgid "Go mingle with the friends until our special guest arrives."
+msgstr "Idź pogadać z naszymi przyjaciółmi, aż przyjdzie nasz gość specjalny."
+
+msgctxt "DT_DIA_Lily_Line_00051/1_Line"
+msgid "Are you being a prying Patty? That's not very respectful."
+msgstr "Czy jesteś wścibską Patty? To nie jest zbyt uprzejme."
+
+msgctxt "DT_DIA_Lily_Line_00055/2_Line"
+msgid "Maybe it was Dolly Grub."
+msgstr "Może to była Dolly Grub."
+
+msgctxt "DT_DIA_Lily_Line_00055/1_Line"
+msgid "Who left this door open, Candy?"
+msgstr "Kto zostawił otwarte drzwi, Candy?"
+
+msgctxt "DT_DIA_Lily_Line_00056/1_Line"
+msgid "What is all the fuss down here?"
+msgstr "O co tyle zamieszania?"
+
+msgctxt "DT_DIA_Lily_Line_00057/1_Line"
+msgid "I could have sworn I heard you chitter chattering."
+msgstr "Mógłbym przysiąc, że słyszałem twoje paplanie."
+
+msgctxt "DT_DIA_Lily_Line_00057/2_Line"
+msgid "I think they're plotting an escape."
+msgstr "Wydaję mi się, że planują ucieczkę."
+
+msgctxt "DT_DIA_Lily_Line_00057/3_Line"
+msgid "Oh of course they aren't. They can't leave before the party. "
+msgstr "Oczywiście, że nie. Nie mogą wyjść przed imprezą. "
+
+msgctxt "DT_DIA_Lily_Line_00065/1_Line"
+msgid "What!? Is one of the friends in my room?"
+msgstr "Co!? Czy jeden z moich przyjaciół jest w moim pokoju?"
+
+msgctxt "DT_DIA_Lily_Line_00070/1_Line"
+msgid "It's okay. You're okay. Go back to sleep."
+msgstr "W porządku. Wszystko dobrze. Śpij dalej."
+
+msgctxt "DT_DIA_Lily_Line_00070/2_Line"
+msgid "Nobody's gonna hurt you anymore."
+msgstr "Nikt już cię nie skrzywdzi."
+
+msgctxt "DT_DIA_Lily_Line_00070/3_Line"
+msgid "Someone's been in here, Candy. SOMEONE WHO'S GOING IN THE BOX."
+msgstr "Ktoś tu był, Candy. KTOŚ, KTO PÓJDZIE DO PUDEŁKA."
+
+msgctxt "DT_DIA_Lily_Line_00075/1_Line"
+msgid "NO NO NO! You can't leave! The party hasn't even started!!"
+msgstr "NIE, NIE, NIE! Nie możesz odejść! Impreza się jeszcze nawet nie zaczęła!!"
+
+msgctxt "DT_DIA_Lily_Line_00080/1_Line"
+msgid "Are our dear guests bored? Bored of little Tilly-Lily?... Why don't we play a game? "
+msgstr "Czy nasi drodzy goście się nudzą? Znudzeni małą Tilly-Lily?... Może zagramy w jakąś grę? "
+
+msgctxt "DT_DIA_Lily_Line_00080/4_Line"
+msgid "But when I'm quiet, you have to stop."
+msgstr "Ale kiedy nic nie mówię, musisz stać."
+
+msgctxt "DT_DIA_Lily_Line_00080/2_Line"
+msgid "Upstairs there's a sweet little Nursery."
+msgstr "Na piętrze znajduje się uroczy pokój dziecięcy."
+
+msgctxt "DT_DIA_Lily_Line_00080/3_Line"
+msgid "When I sing a pretty song, you can walk there..."
+msgstr "Kiedy zacznę śpiewać śliczną piosenkę, możesz iść."
+
+msgctxt "DT_DIA_Lily_Line_00085/1_Line"
+msgid "Now run!"
+msgstr "Teraz biegnij!"
+
+msgctxt "DT_DIA_Lily_Line_00090/1_Line"
+msgid "Get to the Nursery before I catch yooooou."
+msgstr "Dotrzyj do przedszkola, zanim cię złapię."
+
+msgctxt "DT_DIA_Lily_Line_00095/1_Line"
+msgid "Follow the path to the prize!"
+msgstr "Podążaj ścieżką do nagrody!"
+
+msgctxt "DT_DIA_Lily_Line_00100/1_Line"
+msgid "Remember to follow the path!"
+msgstr "Pamiętaj, aby podążać ścieżką!"
+
+msgctxt "DT_DIA_Lily_Line_00105/1_Line"
+msgid "Remember, no cheating."
+msgstr "Pamiętaj, nie oszukujemy."
+
+msgctxt "DT_DIA_Lily_Line_00110/1_Line"
+msgid "Follow the path and you might win. And if you win... you just might get a priiiiiize."
+msgstr "Idź za ścieżką i możesz wygrać. A jeśli wygrasz… być może dostaniesz nagrooooodę."
+
+msgctxt "DT_DIA_Lily_Line_00115/1_Line"
+msgid "You're doing greeeeeeat!"
+msgstr "Świetnie sobie radzisz!"
+
+msgctxt "DT_DIA_Lily_Line_00120/1_Line"
+msgid "I'm geting closer."
+msgstr "Zbliżam się."
+
+msgctxt "DT_DIA_Lily_Line_00125/2_Line"
+msgid "A little Winning Wendy (Giggles)"
+msgstr "Mała Wendy, która wygrywa (chichocze)"
+
+msgctxt "DT_DIA_Lily_Line_00125/3_Line"
+msgid "I wonder for how long..."
+msgstr "Zastanawiam się, jak długo..."
+
+msgctxt "DT_DIA_Lily_Line_00125/1_Line"
+msgid "Well, look at YOU!"
+msgstr "No proszę, spójrz na siebie!"
+
+msgctxt "DT_DIA_Lily_Line_00130/1_Line"
+msgid "Again! Again! (Crazed Giggle)"
+msgstr "Jeszcze raz! Jeszcze raz! (Szalony śmiech)"
+
+msgctxt "DT_DIA_Lily_Line_00135/1_Line"
+msgid "Oh this is so much fun"
+msgstr "Och, to jest takie fajne!"
+
+msgctxt "DT_DIA_Lily_Line_00140/1_Line"
+msgid "Do you like my doodles?"
+msgstr "Podobają Ci się moje rysunki?"
+
+msgctxt "DT_DIA_Lily_Line_00145/1_Line"
+msgid "Did I see you move?"
+msgstr "Czy widziałam, że się poruszyłeś?"
+
+msgctxt "DT_DIA_Lily_Line_00150/1_Line"
+msgid "That was a close one."
+msgstr "Było blisko."
+
+msgctxt "DT_DIA_Lily_Line_00155/1_Line"
+msgid "Almost got you!"
+msgstr "Prawie cię dopadłam!"
+
+msgctxt "DT_DIA_Lily_Line_00160/1_Line"
+msgid "Auh auh auh..."
+msgstr ""
+
+msgctxt "DT_DIA_Lily_Line_00165/1_Line"
+msgid "Don't move!"
+msgstr "Nie ruszaj się!"
+
+msgctxt "DT_DIA_Lily_Line_00170/1_Line"
+msgid "Watch out! That's hot lava."
+msgstr "Uważaj! Parzy."
+
+msgctxt "DT_DIA_Lily_Line_00175/1_Line"
+msgid "Jump over that!"
+msgstr "Przeskocz to!"
+
+msgctxt "DT_DIA_Lily_Line_00180/1_Line"
+msgid "It's almost time for the party!"
+msgstr "Zaraz nadejdzie pora na imprezę!"
+
+msgctxt "DT_DIA_Lily_Line_00185/1_Line"
+msgid "You are SOO good at games!"
+msgstr "Jesteś tak dobry w te klocki!"
+
+msgctxt "DT_DIA_Lily_Line_00190/1_Line"
+msgid "I love playing games before the party. It's so... relaxing."
+msgstr "Uwielbiam grać w gry przed imprezą. To takie... relaksujące."
+
+msgctxt "DT_DIA_Lily_Line_00195/1_Line"
+msgid "You're getting closer to the prize."
+msgstr "Zbliżasz się do nagrody."
+
+msgctxt "DT_DIA_Lily_Line_00200/1_Line"
+msgid "I can SEEE you..."
+msgstr "Widzę cię..."
+
+msgctxt "DT_DIA_Lily_Line_00205/1_Line"
+msgid "You're running out of time (Giggles)"
+msgstr "Kończy ci się czas (chichocze)."
+
+msgctxt "DT_DIA_Lily_Line_00210/1_Line"
+msgid "Start!"
+msgstr "Start!"
+
+msgctxt "DT_DIA_Lily_Line_00215/1_Line"
+msgid "Go!"
+msgstr "Idź!"
+
+msgctxt "DT_DIA_Lily_Line_00220/1_Line"
+msgid "Greenlight!"
+msgstr "Zielone światło!"
+
+msgctxt "DT_DIA_Lily_Line_00225/1_Line"
+msgid "Stop!"
+msgstr "Stop!"
+
+msgctxt "DT_DIA_Lily_Line_00230/1_Line"
+msgid "Redlight!"
+msgstr "Czerwone światło!"
+
+msgctxt "DT_DIA_Lily_Line_00235/1_Line"
+msgid "I told you not to cheat!"
+msgstr "Mówiłam ci, żebyś nie oszukiwał!"
+
+msgctxt "DT_DIA_Lily_Line_00240/1_Line"
+msgid "Auh auh. That's against the rules."
+msgstr "Oj, oj. To niezgodne z zasadami."
+
+msgctxt "DT_DIA_Lily_Line_00245/1_Line"
+msgid "You wouldn't want to be a Cheating Charlie!"
+msgstr "Nie chciałbyś być oszustem!"
+
+msgctxt "DT_DIA_Lily_Line_00250/1_Line"
+msgid "Hey. You have to move. Its against the rules not too..."
+msgstr "Hej. Musisz się ruszać. To niezgodne z zasadami..."
+
+msgctxt "DT_DIA_Lily_Line_00255/1_Line"
+msgid "Get moving..."
+msgstr "Ruszaj się..."
+
+msgctxt "DT_DIA_Lily_Line_00255/2_Line"
+msgid "NOW!"
+msgstr "TERAZ!"
+
+msgctxt "DT_DIA_Lily_Line_00260/1_Line"
+msgid "Go, go, GO! You're making me angry!"
+msgstr "Idź już!! Wkurzasz mnie już!"
+
+msgctxt "DT_DIA_Lily_Line_00265/3_Line"
+msgid "KEEP IT UP AND YOU'LL WIN THE GRAND PRIZE!"
+msgstr "TRZYMAJ TAK DALEJ, A WYGRASZ GŁÓWNĄ NAGRODĘ!"
+
+msgctxt "DT_DIA_Lily_Line_00265/2_Line"
+msgid "LET'S PICK UP THE PACE A BIT, SHALL WE?!"
+msgstr "PRZYSPIESZMY TROCHĘ TEMPO, DOBRZE?!"
+
+msgctxt "DT_DIA_Lily_Line_00265/1_Line"
+msgid "THIS IS SO MUCH FUN, ISN'T IT?!"
+msgstr "TO JEST TAKIE FAJNE, PRAWDA?!"
+
+msgctxt "DT_DIA_Lily_Line_00285/1_Line"
+msgid "And just where do you all think you're going?"
+msgstr "A gdzie wy wszyscy się wybieracie?"
+
+msgctxt "DT_DIA_Lily_Line_00285/2_Line"
+msgid "You wouldn't want to miss the Tea Party!! "
+msgstr "Nie chcecie przegapić Herbatkowego przyjęcia!!"
+
+msgctxt "DT_DIA_Lily_Line_00290/2_Line"
+msgid "He's going to kill them all."
+msgstr "On ich wszystkich pozabija."
+
+msgctxt "DT_DIA_Lily_Line_00290/3_Line"
+msgid "No, Candy. Not Poppy. She's always been his favorite."
+msgstr "Nie, Candy. Nie Poppy. Ona zawsze była jego ulubienicą."
+
+msgctxt "DT_DIA_Lily_Line_00290/1_Line"
+msgid "Oh, our special guest is going to be thrilled."
+msgstr "Oh, nasz specjalny gość będzie zachwycony."
+
+msgctxt "DT_DIA_Lily_Line_00295/1_Line"
+msgid "I think she's a little asking Annie."
+msgstr "Myślę że jest sierotką Marysią.\n"
+
+msgctxt "DT_DIA_Lily_Line_00295/2_Line"
+msgid "She IS a little asking Annie."
+msgstr "Ona JEST taką małą sierotką Marysią \n"
+
+msgctxt "DT_DIA_Lily_Line_00300/2_Line"
+msgid "Oooh please blow up the whole factory and BURN. EVERYONE. ALIVE."
+msgstr "Ohhh, proszę. Wysadźmy całą fabrykę. I SPALMY, WSZYSTKICH. ŻWYCEM."
+
+msgctxt "DT_DIA_Lily_Line_00300/1_Line"
+msgid "Ooooh, please take me out of my case. Oooooh, please rescue the orphans."
+msgstr "Ohhhh, proszę daj mi wyjść z tej gabloty. Ohhh proszę wypuść sieroty."
+
+msgctxt "DT_DIA_Lily_Line_00300/3_Line"
+msgid "Our special guest is here! (Giggles)"
+msgstr " Nasz specjalny gość już jest! (Chichot)"
+
+msgctxt "DT_DIA_Lily_Line_00305/1_Line"
+msgid "SURPRISE!"
+msgstr "NIESPODZIANKA!"
+
+msgctxt "DT_DIA_Lily_Line_00310/1_Line"
+msgid "Uh oh. She doesn't know."
+msgstr "Oo-oo. Ona nie ma pojęcia."
+
+msgctxt "DT_DIA_Lily_Line_00315/1_Line"
+msgid "THIS IS ALL YOUR FAULT!"
+msgstr "TO WSZYSTKO TWOJA WINA!"
+
+msgctxt "DT_DIA_Lily_Line_00315/2_Line"
+msgid "YOU'RE GOING IN THE BAD TOY BOX!"
+msgstr "IDZIESZ DO PUDŁA!"
+
+msgctxt "DT_DIA_Lily_Line_00320/1_Line"
+msgid "If I can't go to a better place, you can't either!"
+msgstr "Jeśli nie mogę iść do lepszego miejsca, ty też nie możesz!"
+
+msgctxt "DT_DIA_Lily_Line_Humming_Aggressive_01/1_Line"
+msgid "(Faster Humming)"
+msgstr "(Szybsze nucenie)"
+
+msgctxt "DT_DIA_Lily_Line_Humming_Aggressive_02/1_Line"
+msgid "(Faster Humming)"
+msgstr "(Szybsze nucenie)"
+
+msgctxt "DT_DIA_Lily_Line_Humming_Aggressive_03/1_Line"
+msgid "(Faster Humming)"
+msgstr "(Szybsze nucenie)"
+
+msgctxt "DT_DIA_Lily_Line_Humming_Mild_01/1_Line"
+msgid "(Humming)"
+msgstr "(Nucenie)"
+
+msgctxt "DT_DIA_Lily_Line_Humming_Mild_02/1_Line"
+msgid "(Humming)"
+msgstr "(Nucenie)"
+
+msgctxt "DT_DIA_Lily_Line_Humming_Mild_03/1_Line"
+msgid "(Humming)"
+msgstr "(Nucenie)"
+
+msgctxt "DT_DIA_Outimal_01_Line_00001/1_Line"
+msgid "Put a hole in their neck and bring them to the boilers for Bron."
+msgstr "Zróbcie im dziurę w szyi i zanieście je do kotłów dla Brona."
+
+msgctxt "DT_DIA_Outimal_01_Line_00005/1_Line"
+msgid "Arrrgrgghhh!"
+msgstr ""
+
+msgctxt "DT_DIA_Outimal_01_Line_00010/1_Line"
+msgid "Arrrgrgghhh!"
+msgstr ""
+
+msgctxt "DT_DIA_Outimal_02_Line_00001/1_Line"
+msgid "I think someone is lost..."
+msgstr "Chyba ktoś się zgubił..."
+
+msgctxt "DT_DIA_Outimal_03_Line_00001/1_Line"
+msgid "Don't. No light."
+msgstr "Nie. Tylko nie światło."
+
+msgctxt "DT_DIA_Outimal_03_Line_00005/1_Line"
+msgid "Spare any food?"
+msgstr "Masz coś do jedzenia?"
+
+msgctxt "DT_DIA_Outimal_04_Line_00001/1_Line"
+msgid "Someone from above."
+msgstr "Ktoś z góry."
+
+msgctxt "DT_DIA_Outimal_04_Line_00005/1_Line"
+msgid "Can't trust the Judge. Can't trust any of em' not like us."
+msgstr "Nie można ufać sędziemu. Nie można ufać nikomu, kto nie jest taki jak my."
+
+msgctxt "DT_DIA_Outimal_05_Line_00001/1_Line"
+msgid "There is no above. The Judge said."
+msgstr "Nie ma nic powyżej. Powiedział sędzia."
+
+msgctxt "DT_DIA_Outimal_05_Line_00005/1_Line"
+msgid "Who is that?"
+msgstr "Kto to jest?"
+
+msgctxt "DT_DIA_Outimal_06_Line_00001/1_Line"
+msgid "Find your own."
+msgstr "Znajdź swoje własne."
+
+msgctxt "DT_DIA_Outimal_06_Line_00005/1_Line"
+msgid "I SAID THAT'S MINE."
+msgstr "POWIEDZIAŁEM, ŻE TO MOJE."
+
+msgctxt "DT_DIA_Outimal_06_Line_00010/1_Line"
+msgid "When Bron eats, we all eat."
+msgstr "Kiedy Bron je, my wszyscy jemy."
+
+msgctxt "DT_DIA_Outimal_06_Line_00015/1_Line"
+msgid "Joymaker..."
+msgstr ""
+
+msgctxt "DT_DIA_Poppy_BARK_Humming_01/1_Line"
+msgid "(Humming the Poppy theme)"
+msgstr "(Nuci Piosenke Poppy)"
+
+msgctxt "DT_DIA_Poppy_Line_00001/4_Line"
+msgid "For running away. For not letting you leave at the Game Station. For... everything."
+msgstr "Za ucieczkę. Za to, że nie pozwoliłam ci odejść z Game Station. Za... wszystko."
+
+msgctxt "DT_DIA_Poppy_Line_00001/3_Line"
+msgid "I am, sorry..."
+msgstr "Przepraszam..."
+
+msgctxt "DT_DIA_Poppy_Line_00001/5_Line"
+msgid "I thought if we could just get the orphans out..."
+msgstr "Pomyślałam, że gdybyśmy tylko mogli zabrać stąd sieroty..."
+
+msgctxt "DT_DIA_Poppy_Line_00001/2_Line"
+msgid "I... I know saying I'm sorry won't mean much to you at this point, but..."
+msgstr "Wiem, że moje przeprosiny nie mają teraz dla ciebie znaczenia."
+
+msgctxt "DT_DIA_Poppy_Line_00001/7_Line"
+msgid "If you can help us get out. Maybe find a lever or a key. Anything."
+msgstr "Jeśli możesz nam pomóc się stąd wydostać. Może znajdziesz dźwignię lub klucz. Cokolwiek."
+
+msgctxt "DT_DIA_Poppy_Line_00001/1_Line"
+msgid "It's you... You're... alive."
+msgstr "To ty... Ty... żyjesz."
+
+msgctxt "DT_DIA_Poppy_Line_00001/6_Line"
+msgid "We tried to cross Sweet Street. I didn't know she was still here after all this time."
+msgstr "Próbowaliśmy przejść przez Sweet Street. Nie wiedziałam, że ona nadal tu jest po tak długim czasie."
+
+msgctxt "DT_DIA_Poppy_Line_00015/1_Line"
+msgid "Hide."
+msgstr "Schowaj się."
+
+msgctxt "DT_DIA_Poppy_Line_00020/1_Line"
+msgid "I don't know what she's planning, but we need to find a way out of here."
+msgstr "Nie wiem, co ona planuje, ale musimy znaleźć sposób, żeby się stąd wydostać."
+
+msgctxt "DT_DIA_Poppy_Line_00020/2_Line"
+msgid "See what you can do. "
+msgstr "Rozejrzyj się czy możesz coś zdziałać."
+
+msgctxt "DT_DIA_Poppy_Line_00021/1_Line"
+msgid "Shh. Shh. You'll be okay, I promise."
+msgstr "Cii. Cii. Wszystko będzie dobrze, obiecuję."
+
+msgctxt "DT_DIA_Poppy_Line_00022/1_Line"
+msgid "Maybe this is...Kissy, it's all wrong..."
+msgstr "Może to jest... Kissy, to wszystko jest nie tak..."
+
+msgctxt "DT_DIA_Poppy_Line_00023/1_Line"
+msgid "Shh. Shh. You'll be okay, I promise."
+msgstr "Cii. Cii. Wszystko będzie dobrze, obiecuję."
+
+msgctxt "DT_DIA_Poppy_Line_00025/1_Line"
+msgid "You did it! Let's get out of here, before she comes back."
+msgstr "Udało ci się! Wyjdźmy stąd, zanim ona wróci."
+
+msgctxt "DT_DIA_Poppy_Line_00026/1_Line"
+msgid "It doesn't look like there's a way out for us in this basement, Kissy."
+msgstr "Wygląda na to, że nie ma dla nas wyjścia z tej piwnicy, Kissy."
+
+msgctxt "DT_DIA_Poppy_Line_00040/2_Line"
+msgid "How... bad is it?"
+msgstr "Jak... źle jest?"
+
+msgctxt "DT_DIA_Poppy_Line_00040/1_Line"
+msgid "How... how..."
+msgstr "Jak... jak..."
+
+msgctxt "DT_DIA_Poppy_Line_00045/1_Line"
+msgid "Giblet? Is that you?"
+msgstr "Giblet? Czy to ty?"
+
+msgctxt "DT_DIA_Poppy_Line_00050/1_Line"
+msgid "What did he do to you?"
+msgstr "Co on ci zrobił?"
+
+msgctxt "DT_DIA_Poppy_Line_00060/2_Line"
+msgid "I'll talk to her. You should get to looking for the backup."
+msgstr "Porozmawiam z nią. Ty zajmij się poszukiwaniem."
+
+msgctxt "DT_DIA_Poppy_Line_00060/1_Line"
+msgid "What did Doey say? We’re not just things gone wrong? Do you think that's true?"
+msgstr "Co powiedział Doey? Że nie jesteśmy tylko czymś, co poszło nie tak? Myślisz, że to prawda?"
+
+msgctxt "DT_DIA_Poppy_Line_00065/1_Line"
+msgid "Did you find a way to free us yet?"
+msgstr "Czy znalazłeś już sposób, aby nas uwolnić?"
+
+msgctxt "DT_DIA_Poppy_Line_00070/1_Line"
+msgid "Found anything?"
+msgstr "Znalazłeś coś?"
+
+msgctxt "DT_DIA_Poppy_Line_00075/1_Line"
+msgid "Please, hurry..."
+msgstr "Proszę, pośpiesz się..."
+
+msgctxt "DT_DIA_Poppy_Line_00080/1_Line"
+msgid "Did you find a way to get this door open? We need to get to the attic! That’s our way out!"
+msgstr "Znalazłeś sposób, żeby otworzyć te drzwi? Musimy dostać się na strych! To nasza droga ucieczki!"
+
+msgctxt "DT_DIA_Poppy_Line_00084/1_Line"
+msgid "Let's get out of here."
+msgstr "Wynośmy się stąd."
+
+msgctxt "DT_DIA_Poppy_Line_00085/1_Line"
+msgid "NO! "
+msgstr "NIE!"
+
+msgctxt "DT_DIA_Poppy_Line_00090/1_Line"
+msgid "Maybe there's a way upstairs."
+msgstr "Może jest jakieś wyjście na górę."
+
+msgctxt "DT_DIA_Poppy_Line_00095/1_Line"
+msgid "We can't wait around! We have to go!"
+msgstr "Nie możemy czekać! Musimy iść!"
+
+msgctxt "DT_DIA_Poppy_Line_00100/1_Line"
+msgid "What?!... What's going on?"
+msgstr "Co?!... Co się dzieje?"
+
+msgctxt "DT_DIA_Poppy_Line_00105/1_Line"
+msgid "What did you do with them?"
+msgstr "Co ty im zrobiłeś?"
+
+msgctxt "DT_DIA_Poppy_Line_00105/2_Line"
+msgid "Where are the orphans?"
+msgstr "Gdzie są sieroty?"
+
+msgctxt "DT_DIA_Poppy_Line_00106/1_Line"
+msgid "I think it's this way."
+msgstr "Myślę, że tędy."
+
+msgctxt "DT_DIA_Poppy_Line_00110/1_Line"
+msgid "No... "
+msgstr "Nie..."
+
+msgctxt "DT_DIA_Poppy_Line_00110/2_Line"
+msgid "You're a monster!"
+msgstr "Jesteś potworem!"
+
+msgctxt "DT_DIA_Poppy_Line_00111/1_Line"
+msgid "We found a way out, hurry."
+msgstr "Znaleźliśmy wyjście, pospiesz się."
+
+msgctxt "DT_DIA_Poppy_Line_00115/1_Line"
+msgid "You're hurting me."
+msgstr "Ranisz mnie."
+
+msgctxt "DT_DIA_Poppy_Line_00116/1_Line"
+msgid "No, NOO -- (muffles)"
+msgstr "Nie, NIEEE..."
+
+msgctxt "DT_DIA_Poppy_Line_00120/1_Line"
+msgid "Stop."
+msgstr "Przestań."
+
+msgctxt "DT_DIA_Poppy_Line_00130/1_Line"
+msgid "Hurry!"
+msgstr "Pośpiesz się!"
+
+msgctxt "DT_DIA_Poppy_Line_00135/1_Line"
+msgid "Now, Giblet!"
+msgstr "Teraz, Gilbet!"
+
+msgctxt "DT_DIA_Poppy_Line_00140/1_Line"
+msgid "What are you-- (Slight scream as the pair jumps from the train)"
+msgstr "Co ty– (lekkie krzyki, gdy para wyskakuje z pociągu)"
+
+msgctxt "DT_DIA_Prototype_Line_00001/4_Line"
+msgid "Find me Poppy. Before she does something she'll regret."
+msgstr "Znajdź mi Poppy. Zamin zrobi coś, co będzie potem żałować."
+
+msgctxt "DT_DIA_Prototype_Line_00001/3_Line"
+msgid "I need you to repair the security system. Make sure there are eyes... everywhere. Then..."
+msgstr "Musisz mi naprawić system bezpieczeństwa. Upewnij się, że oczy są wszędzie. A potem..."
+
+msgctxt "DT_DIA_Prototype_Line_00001/1_Line"
+msgid "I thought I'd find you... hiding...in here."
+msgstr "Tak myślałem, że znajdę cię... ukrywającego się... tutaj."
+
+msgctxt "DT_DIA_Prototype_Line_00001/2_Line"
+msgid "My hunters... shall pursue one one seven zero. But you... "
+msgstr "Moi łowcy... będą ścigać jeden jeden siedem zero. Ale ty..."
+
+msgctxt "DT_DIA_Prototype_Line_00001/5_Line"
+msgid "Nothing is more important to you than this... "
+msgstr "Nic nie jest dla Ciebie ważniejsze niż to... "
+
+msgctxt "DT_DIA_Prototype_Line_00001/6_Line"
+msgid "and you know the price... for failure."
+msgstr "i znasz cenę... za porażkę."
+
+msgctxt "DT_DIA_Prototype_Line_00020/1_Line"
+msgid "...Poppy."
+msgstr ""
+
+msgctxt "DT_DIA_Prototype_Line_00025/1_Line"
+msgid "I did...what I had to. They're in... a Better Place now."
+msgstr "Zrobiłem to, co musiałem. Są teraz w... lepszym miejscu."
+
+msgctxt "DT_DIA_Prototype_Line_00030/2_Line"
+msgid "And plotting to destroy the only heaven you and I will ever get."
+msgstr "Planując również zniszczyć jedyny raj, jaki ty i ja kiedykolwiek mogliśmy mieć."
+
+msgctxt "DT_DIA_Prototype_Line_00030/1_Line"
+msgid "I built us a home and kept us safe. And you repaid me by bringing in an outsider..."
+msgstr "Zbudowałem dla nas dom, i zagwarantowałem nam bezpieczeństwo, a ty. Odpłacasz mi się, zapraszając tu tego wyrzutka?"
+
+msgctxt "DT_DIA_Prototype_Line_00035/1_Line"
+msgid "I had hoped your time in the case would help you see reason."
+msgstr "Miałem nadzieję, że spędzony czas w tej gablocie da ci sporo do przemyślenia."
+
+msgctxt "DT_DIA_Prototype_Line_00040/1_Line"
+msgid "I see now this was my fault."
+msgstr "Teraz widze, że zawiniłem."
+
+msgctxt "DT_DIA_Prototype_Line_00045/1_Line"
+msgid "You act like a child because... a child is what they made you."
+msgstr "Zachowujesz się jak dziecko. Bo to one zrobiły cię tak słabą."
+
+msgctxt "DT_DIA_Prototype_Line_00050/1_Line"
+msgid "Don't be afraid. I can fix you, Poppy."
+msgstr "Nie obawiaj się. Mogę cię jeszcze naprawić, Poppy"
+
+msgctxt "DT_DIA_Prototype_Line_00050/2_Line"
+msgid "I can make you better."
+msgstr "Sprawię, że będziesz lepsza."
+
+msgctxt "DT_DIA_Prototype_Line_00055/1_Line"
+msgid "And you. The outsider. The Butcher, they call you."
+msgstr "I ty. Wyrzutku. Na dole zwą cię rzeźnikiem."
+
+msgctxt "DT_DIA_Prototype_Line_00055/2_Line"
+msgid "Shall we see what you look like, wrongside out?"
+msgstr "Chciałbyś zobaczyć, jak wyglądasz w samym środku?"
+
+msgctxt "DT_DIA_Prototype_Line_00060/1_Line"
+msgid "Don't touch her."
+msgstr "Nie waż się jej dotykać."
+
+msgctxt "DT_DIA_Prototype_Line_00065/1_Line"
+msgid "Put her down."
+msgstr "Odłóż ją."
+
+msgctxt "DT_DIA_Prototype_Line_00070/1_Line"
+msgid "It's futility... resisting the inevitable."
+msgstr "To daremność... opieranie się temu, co nieuniknione."
+
+msgctxt "DT_DIA_Prototype_Line_00075/1_Line"
+msgid "No more games... No more lies..."
+msgstr "Koniec gierek... Koniec z kłamstwami..."
+
+msgctxt "DT_DIA_Prototype_Line_00080/1_Line"
+msgid "(Voice of Elliot Ludwig) Poppy… Come back..."
+msgstr "(Głos Elliota Ludwiga) Poppy… Wróć do mnie..."
+
+msgctxt "DT_DIA_Prototype_Line_00085/1_Line"
+msgid "(Distorted, enraged) Give her to me!"
+msgstr "(Zniekształcony, wściekły) Daj mi ją!"
+
+msgctxt "DT_DIA_Prototype_Line_00090/1_Line"
+msgid "Where arrreee youuu?"
+msgstr "Gdzie jesteś?"
+
+msgctxt "DT_DIA_Prototype_Line_00095/1_Line"
+msgid "(Mommy) WHERE ARE YOU?!  "
+msgstr "(Mommy) GDZIE JESTEŚ?!  "
+
+msgctxt "DT_DIA_Prototype_Line_00100/1_Line"
+msgid "(Doey) RIP YOU TO LITTLE PIECES!  "
+msgstr "(Doey) POTNĘ CIĘ NA KAWAŁECZKI!"
+
+msgctxt "DT_DIA_Prototype_Line_00105/1_Line"
+msgid "(Poppy) Let’s be scared together. You and me.  "
+msgstr "(Poppy) Bójmy się razem. Ty i ja.  "
+
+msgctxt "DT_DIA_Prototype_Line_00110/1_Line"
+msgid "(Doey) I'll kill you!!  "
+msgstr "(Doey) Zabiję cię!!  "
+
+msgctxt "DT_DIA_Prototype_Line_00115/1_Line"
+msgid "(The Doctor) You’ll die for this--  "
+msgstr "(Doktor) Zgniesz za to..."
+
+msgctxt "DT_DIA_Prototype_Line_00120/1_Line"
+msgid "(Mommy) COME BACK TO ME!  "
+msgstr "(Mommy) WRACAJ TU DO MNIE!"
+
+msgctxt "DT_DIA_PZL_Giblet_Line_00001/1_Line"
+msgid "(Frustrated sigh)"
+msgstr "(Sfrustrowane westchnienie)"
+
+msgctxt "DT_DIA_PZL_Giblet_Line_00002/1_Line"
+msgid "Are you...? I mean, did your head get hit or something?"
+msgstr "Czy ty...? To znaczy, czy uderzyłeś się w główkę, czy coś?"
+
+msgctxt "DT_DIA_PZL_Giblet_Line_00003/1_Line"
+msgid "Oh, oh I know! Have you tried... solving the puzzle?"
+msgstr "Och, och, wiem! Czy próbowałeś... nie wiem, rozwiązać może zagadkę?"
+
+msgctxt "DT_DIA_PZL_Giblet_Line_00004/1_Line"
+msgid "I got it! Maybe unplug it and plug it back in again."
+msgstr "Wiem! Może wyjmij wtyczkę i włóż ją ponownie."
+
+msgctxt "DT_DIA_PZL_Giblet_Line_00005/1_Line"
+msgid "Hey Chum, any idea what to do?"
+msgstr "Hej, Chum, masz jakiś pomysł, co robić?"
+
+msgctxt "DT_DIA_PZL_Giblet_Line_00006/1_Line"
+msgid "I hope the Prototype isn't waiting for us... hehe..."
+msgstr "Mam nadzieję, że Prototyp nie czeka na nas... hehe..."
+
+msgctxt "DT_DIA_PZL_Giblet_Line_00007/1_Line"
+msgid "Uh... This some sort of prank, Butcher?"
+msgstr "Czy ty stroisz sobie jaja? "
+
+msgctxt "DT_DIA_PZL_Giblet_Line_00008/1_Line"
+msgid "I feel like you almost had it..."
+msgstr "Wydawało mi się, że prawie ci się udało..."
+
+msgctxt "DT_DIA_PZL_Giblet_Line_00009/1_Line"
+msgid "Oh boy..."
+msgstr "O chłopie..."
+
+msgctxt "DT_DIA_PZL_Giblet_Line_00010/1_Line"
+msgid "I really hope your skills as a Butcher live up to the reputation."
+msgstr "Mam nadzieję, że Twoje umiejętności jako rzeźnika dorównują Twojej reputacji."
+
+msgctxt "DT_DIA_Security_Staffer_Line_00001/2_Line"
+msgid "Did they change the code to Conditioning?"
+msgstr "Oni zmienili kod czy co? "
+
+msgctxt "DT_DIA_Security_Staffer_Line_00001/1_Line"
+msgid "Gomez, this is Lewis. I'm transporting one one seven zero."
+msgstr "Gomez, tu Lewis. Transportuję eksperyment jeden jeden siedem zero."
+
+msgctxt "DT_DIA_Security_Staffer_Line_00005/1_Line"
+msgid "Hey there, buddy. Where you going?"
+msgstr "Hej, kolego. Dokąd idziesz?"
+
+msgctxt "DT_DIA_Security_Staffer_Line_00010/1_Line"
+msgid "Oh god, he’s getting loose..."
+msgstr "O Boże, on się wyrywa..."
+
+msgctxt "DT_DIA_Security_Staffer_Line_00015/1_Line"
+msgid "Huggy, stop..."
+msgstr "Huggy, przestań..."
+
+msgctxt "DT_DIA_Security_Staffer_Line_00020/1_Line"
+msgid "I-I don’t want to have to hurt you..."
+msgstr "Nie chcę cię skrzywdzić..."
+
+msgctxt "DT_DIA_Security_Staffer_Line_00025/1_Line"
+msgid "Someone get me back up. Conditioning."
+msgstr "Niech ktoś mi pomoże się stąd wydostać."
+
+msgctxt "DT_DIA_Security_Staffer_Line_00030/1_Line"
+msgid "Gomez, get a team down here, we got non-compliance."
+msgstr "Gomez, wezwij tu ekipę, mamy tu problem."
+
+msgctxt "DT_DIA_Security_Staffer_Line_00035/1_Line"
+msgid "Dammit, the video’s not working!"
+msgstr "Cholera, film nie działa!"
+
+msgctxt "DT_DIA_Security_Staffer_Line_00040/1_Line"
+msgid "Huggy, I need you to calm down. Right now."
+msgstr "Huggy, musisz się uspokoić. Natychmiast."
+
+msgctxt "DT_DIA_Security_Staffer_Line_00045/1_Line"
+msgid "I need back-up, NOW!"
+msgstr "Potrzebuję wsparcia, NATYCHMIAST!"
+
+msgctxt "DT_DIA_Security_Staffer_Line_00050/1_Line"
+msgid "Someone! Anyone!...Please!"
+msgstr "Ktoś! Ktokolwiek!... Proszę!"
+
+msgctxt "DT_DIA_Security_Staffer_Line_00055/1_Line"
+msgid "Stay back! STAY BACK!!"
+msgstr "Nie zbliżaj się! NIE ZBLIŻAJ SIĘ!!"
+
+msgctxt "DT_DIA_Security_Staffer_Line_00060/1_Line"
+msgid "(Terrified scream)"
+msgstr "(Przerażający krzyk)"
+
+msgctxt "DT_DIA_Security_Staffer_Line_00065/1_Line"
+msgid "Be cool, Huggy. Be cool. We're all best friends here.  "
+msgstr "Spokojnie, Huggy. Spokojnie. Wszyscy jesteśmy tu przyjaciółmi.  "
+
+msgctxt "DT_DIA_StrangeChild_Line_00001/1_Line"
+msgid "And should you come back...years later"
+msgstr "I czy powinieneś wracać, po tylu latach"
+
+msgctxt "DT_DIA_StrangeChild_Line_00001/4_Line"
+msgid "Welcome Home..."
+msgstr "Witaj, w domu."
+
+msgctxt "DT_DIA_StrangeChild_Line_00001/3_Line"
+msgid "may you descend into the dark and the dust..."
+msgstr "może zstąpisz w ciemność i proch..."
+
+msgctxt "DT_DIA_StrangeChild_Line_00001/2_Line"
+msgid "your conscience finally getting the better of you..."
+msgstr "Twoje sumienie w końcu wzięło górę..."
+
+msgctxt "DT_IntroCommercial/5_Line"
+msgid "(Song)"
+msgstr "(Piosenka)"
+
+msgctxt "DT_IntroCommercial/2_Line"
+msgid "Cool!"
+msgstr "Fajne!"
+
+msgctxt "DT_IntroCommercial/7_Line"
+msgid "Cuddly, adorable, but not quite what they seem."
+msgstr "Puszyste, urocze, ale nie do końca takie, jak się wydają."
+
+msgctxt "DT_IntroCommercial/10_Line"
+msgid "Find that wrongside just within."
+msgstr "Znajdź tę lewą stronę właśnie w środku."
+
+msgctxt "DT_IntroCommercial/12_Line"
+msgid "I want to marry Doodle Bones!"
+msgstr "Chcę poślubić Doodle Bones!"
+
+msgctxt "DT_IntroCommercial/6_Line"
+msgid "Now you are wrongside out."
+msgstr "Teraz jesteś po lewej stronie."
+
+msgctxt "DT_IntroCommercial/13_Line"
+msgid "Or venture with Bindle Boogie."
+msgstr "Albo wybierz się na wyprawę z Bindle Boogie."
+
+msgctxt "DT_IntroCommercial/1_Line"
+msgid "So cute!"
+msgstr "One są tak słodkie!"
+
+msgctxt "DT_IntroCommercial/4_Line"
+msgid "They're not wrong, they're wrongside out."
+msgstr "One nie są złe, są po prostu wywrócone na lewą stronę."
+
+msgctxt "DT_IntroCommercial/11_Line"
+msgid "They're the Wrongside Outimals!"
+msgstr "To są Wrongside Outimals!"
+
+msgctxt "DT_IntroCommercial/9_Line"
+msgid "Unstuff that grin and find that wrongside just within!"
+msgstr "Zrzuć ten uśmiech i znajdź tę lewą stronę, która jest w tobie!"
+
+msgctxt "DT_IntroCommercial/8_Line"
+msgid "What a surprise!"
+msgstr "Jaka to niespodzianka!"
+
+msgctxt "DT_IntroCommercial/3_Line"
+msgid "What's wrong with them?"
+msgstr "Co jest z nimi nie tak?"
+
+msgctxt "DT_IntroCommercial/16_Line"
+msgid "Wrongside Outimals. Available now from your pals at Playtime."
+msgstr "Wrongside Outimals. Już dostępne u Twoich kumpli w Playtime."
+
+msgctxt "DT_IntroCommercial/14_Line"
+msgid "You can even make your own."
+msgstr "Możesz nawet stworzyć własną."
+
+msgctxt "DT_VHS_HuggyReanimation_Final/4_Line"
+msgid "(Top) Suspension: 1 Week; (Bottom) Suspension: 2 Weeks "
+msgstr "(Góra) Zawieszenie: 1 tydzień; (Dół) Zawieszenie: 2 tygodnie "
+
+msgctxt "DT_VHS_HuggyReanimation_Final/1_Line"
+msgid "Experiment 1170: Executive Showcase"
+msgstr "Eksperyment 1170: Prezentacja kadry kierowniczej"
+
+msgctxt "DT_VHS_HuggyReanimation_Final/6_Line"
+msgid "Footage Missing"
+msgstr "Brakujące nagranie"
+
+msgctxt "DT_VHS_HuggyReanimation_Final/5_Line"
+msgid "Subject displays extreme aggression under stress"
+msgstr "Obiekt wykazuje skrajną agresję w sytuacjach stresowych."
+
+msgctxt "DT_VHS_HuggyReanimation_Final/3_Line"
+msgid "Subject#: 1170 - Slide: 14F"
+msgstr "Temat nr: 1170 – Slajd: 14F"
+
+msgctxt "DT_VHS_HuggyReanimation_Final/2_Line"
+msgid "Subject#: 1170 - Slide: 8B"
+msgstr "Temat nr: 1170 – Slajd: 8B"
+
+msgctxt "DT_VHS_HumanMaintenance_Final/1_Line"
+msgid "How to maintain your human"
+msgstr "Jak dbać o swoje zdrowie"
+
+msgctxt "DT_VHS_HumanMaintenance_Final/3_Line"
+msgid "NOTE: Younger subjects have more plasticity."
+msgstr "UWAGA: Młodsze osoby charakteryzują się większą plastycznością."
+
+msgctxt "DT_VHS_HumanMaintenance_Final/5_Line"
+msgid "Not all tissue will survive. Not all subjects will survive."
+msgstr "Nie wszystkie tkanki przetrwają. Nie wszyscy pacjenci przetrwają."
+
+msgctxt "DT_VHS_HumanMaintenance_Final/2_Line"
+msgid "STEP 1: Apply Existing Knowledge"
+msgstr "KROK 1: Wykorzystaj posiadaną wiedzę"
+
+msgctxt "DT_VHS_HumanMaintenance_Final/4_Line"
+msgid "STEP 2: Disassemble The Subject"
+msgstr "KROK 2: Rozłóż przedmiot na części"
+
+msgctxt "DT_VHS_HumanMaintenance_Final/6_Line"
+msgid "STEP 3: Modify As Desired"
+msgstr "KROK 3: Modyfikuj według potrzeb"
+
+msgctxt "DT_VHS_HumanMaintenance_Final/7_Line"
+msgid "They are all better now"
+msgstr "Wszyscy czują się już lepiej."
+
+msgctxt "DT_VHS_ThreePs_Final/3_Line"
+msgid "1. precaution"
+msgstr "1. środek ostrożności"
+
+msgctxt "DT_VHS_ThreePs_Final/10_Line"
+msgid "2. pretending"
+msgstr "2. udawanie"
+
+msgctxt "DT_VHS_ThreePs_Final/14_Line"
+msgid "3. (not) panicking"
+msgstr "3. (nie) panikować"
+
+msgctxt "DT_VHS_ThreePs_Final/16_Line"
+msgid "DO scream the \"PANIC\" code and wait for security and medical teams to arrive"
+msgstr "Wykrzycz kod „PANIKA” i poczekaj na przybycie służb bezpieczeństwa i pomocy medycznej."
+
+msgctxt "DT_VHS_ThreePs_Final/1_Line"
+msgid "Playtime Co."
+msgstr ""
+
+msgctxt "DT_VHS_ThreePs_Final/8_Line"
+msgid "at least three big red buttons"
+msgstr "co najmniej trzy duże czerwone przyciski"
+
+msgctxt "DT_VHS_ThreePs_Final/5_Line"
+msgid "eighteen distinct locks"
+msgstr "osiemnaście różnych zamków"
+
+msgctxt "DT_VHS_ThreePs_Final/4_Line"
+msgid "every diorama is equipped with:"
+msgstr "każda diorama jest wyposażona w:"
+
+msgctxt "DT_VHS_ThreePs_Final/13_Line"
+msgid "failure to do so may aggravate our specimens"
+msgstr "niezastosowanie się do tego może pogorszyć stan naszych próbek"
+
+msgctxt "DT_VHS_ThreePs_Final/9_Line"
+msgid "for convenience these security measures can be bypassed with a keypad override code"
+msgstr "dla wygody środki bezpieczeństwa można ominąć za pomocą kodu nadrzędnego wprowadzanego na klawiaturze"
+
+msgctxt "DT_VHS_ThreePs_Final/7_Line"
+msgid "hand scanner and voice authorization"
+msgstr "skaner ręczny i autoryzacja głosowa"
+
+msgctxt "DT_VHS_ThreePs_Final/15_Line"
+msgid "in the unlikely event of emergency DONT PANIC!"
+msgstr "w mało prawdopodobnym przypadku sytuacji awaryjnej NIE PANIKUJ!"
+
+msgctxt "DT_VHS_ThreePs_Final/12_Line"
+msgid "make sure you've memorized necessary lines and have the correct outfit on"
+msgstr "upewnij się, że zapamiętałeś niezbędne kwestie i masz na sobie odpowiedni strój"
+
+msgctxt "DT_VHS_ThreePs_Final/17_Line"
+msgid "remember: stay safe... and have fun!"
+msgstr "Pamiętaj: dbaj o bezpieczeństwo... i baw się dobrze!"
+
+msgctxt "DT_VHS_ThreePs_Final/6_Line"
+msgid "seven failsafe levers"
+msgstr "siedem dźwigni zabezpieczających"
+
+msgctxt "DT_VHS_ThreePs_Final/2_Line"
+msgid "the three p's of diorama safety"
+msgstr "trzy zasady bezpieczeństwa dotyczące dioram"
+
+msgctxt "DT_VHS_ThreePs_Final/11_Line"
+msgid "when working with subjects within a diorama, you need to fit in!"
+msgstr "pracując z obiektami w dioramie, musisz się dopasować!"
+
