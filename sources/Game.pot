@@ -1,0 +1,7152 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgctxt "/7D376DA940DC85CF07E967AA5B9E5847"
+msgid ""
+"\"Everything's a tragedy until it's  \n"
+"meant to be.\""
+msgstr ""
+
+msgctxt "/D01BD7DD4384236ADC40D7A36B16C9A3"
+msgid "'96 ISOLATION DAY 122"
+msgstr ""
+
+msgctxt "/6C547C514AE45446B2127BB37590A235"
+msgid "(Hold) Blacklight"
+msgstr ""
+
+msgctxt "/BD4A8DAF47DE729E656A499934BCA2AB"
+msgid "(Hold) Drop Item"
+msgstr ""
+
+msgctxt "/4A63B1A141A02E0DE61F299EC8761597"
+msgid "(Hold) Radial Wheel"
+msgstr ""
+
+msgctxt "/C23DB1B74158406ECFA9D9A74E59FF18"
+msgid ""
+"- Beware: Exposure to raw, untreated substrate may be hazardous. Documented "
+"sequelae include:\n"
+"     - Nonbiological–biological grafting\n"
+"     - Progressive Subluxation (with sustained exposure)\n"
+"     - Heterotopic ossification\n"
+"     - Urticaria (hives)\n"
+"     - Multisensory distortion"
+msgstr ""
+
+msgctxt "/3703B8D149E864D3F171FEBD17CB0967"
+msgid ""
+"- Team has identified key substrate used in Mr. Ludwig’s process.\n"
+"- “Restorative Gel Mixture”\n"
+"- Encourages cellular regeneration and tissue growth.\n"
+"- Integral to Experiment successful outcomes.\n"
+"- Spreads indefinitely when untreated and exposed to biomass.\n"
+"\n"
+"Chemical analysis indicates some similarities to DMEM. Comparable levels of "
+"salt, amino acids, and B vitamins. However, Ludwig’s mixture outperforms all "
+"other commercially available culture mediums."
+msgstr ""
+
+msgctxt "/1AE692E843CA34C9CCAA1AA8081AFB9B"
+msgid ""
+"- Team has successfully recreated this medium in a lab environment.\n"
+"- Now able to create, modify, and neutralize the medium as well (see "
+"“Negation Compound”).\n"
+"- Negation Compound renders the medium inert. Required for preventing "
+"“runaway overgrowth” caused by self-replication."
+msgstr ""
+
+msgctxt "/8571ED2C4089E9ADB59F46A786C49A2B"
+msgid "000"
+msgstr ""
+
+msgctxt "/AB3C920D496177C6E72CC0B4F8BA9F53"
+msgid ""
+"00:00\n"
+"At onset, I’m skeptical of the subject’s aptitude for conditioning. He "
+"appears to ramble to himself and seems to struggle with focusing. His eyes "
+"dart around, as if looking for something. Can’t say what at this point. Those "
+"assigned to ask questions ensured us that he was ready. However, given our "
+"recent track record, I’m skeptical.\n"
+"\n"
+"01:24\n"
+"The subject has begun shouting a name, but he struggles to enunciate "
+"properly. Louis? Lucy? Likely, the meshing of bone, muscle, and plush with "
+"the medium is the culprit here. Will continue to monitor and "
+"note.\n"
+"\n"
+"08:46\n"
+"Seven more hours in, and the subject appears to have quieted. Less thrashing "
+"against the restraints. Less muttering. \n"
+"\n"
+"12:32\n"
+"While making my rounds, the subject appeared to be singing and tapping his "
+"foot against his restraints.\n"
+"\n"
+"12:36\n"
+"Subject is now repeating:\n"
+"\n"
+"“Joy. I live it. I feel it. I am it.”\n"
+"\n"
+"14:00\n"
+"After additional observation time, I can confidently say that the subject’s "
+"conditioning is now complete. Approved. F"
+msgstr ""
+
+msgctxt "/A8C1D1ED48062EFDA90B10BE5C0EDBB7"
+msgid ""
+"08/06/1995\n"
+"Project Proposal\n"
+"Experiment # 1468\n"
+"Tags: Bigger Bodies Initiative\n"
+"\n"
+"Abstract\n"
+"In accordance with prior conversation and critical feedback, proposed "
+"operational procedures and materials for Experiment 1468 have seen a radical "
+"shift. Rather than each strand of “hair” being comprised of a sequence of "
+"grafted finger bones and muscle in a loose hair facade, we’ve allocated horse "
+"hair (for its tensile strength, durability, and flexibility), an artificial "
+"bone construction, and various biological materials, which we’ve listed "
+"below.\n"
+"\n"
+" Neural integration protocols have shown promising responsiveness in trials, "
+"indicating the subject’s cognitive link will extend naturally to the hair "
+"construct. In effect, Lily’s mind will be able to manipulate each and every "
+"strand as if it were its own limb. As such, our crafting will need to be "
+"intricate and operated by our most delicate hands.\n"
+"\n"
+"Materials and Methods\n"
+"Ahead of August 20th’s operation, extracted capillaries will be required for "
+"the attenuation of pain responses and\n"
+"(Note cuts off)"
+msgstr ""
+
+msgctxt "/8B0DCF5945967F9CE2D1F8B7C41DFB17"
+msgid "0:00"
+msgstr ""
+
+msgctxt "/C43C23E947B227955AB03EB2A72F8AF4"
+msgid "100%"
+msgstr ""
+
+msgctxt "/DE152BB8419E25AC8B94969470BCD98A"
+msgid "???"
+msgstr ""
+
+msgctxt "/E3A518C746ECB65D1730FDA08C068E8A"
+msgid "??????????"
+msgstr ""
+
+msgctxt "/3F2ED3224DFC5E01B3754D98FB692B7D"
+msgid "@#$%#!"
+msgstr ""
+
+msgctxt "/B30B206843D227FA2F97CB938948CD8E"
+msgid "@%^&%#"
+msgstr ""
+
+msgctxt "/4981C4404D42B89969D9E1853960F276"
+msgid "A BETTER PLACE"
+msgstr ""
+
+msgctxt "/09E94B2A4A109BEF359BEBBD66F835BD"
+msgid "A Just End"
+msgstr ""
+
+msgctxt "/955440D64773F684BDEB19960BD84BDB"
+msgid ""
+"A Playtime Interactive Media product, Glowby's the perfect companion in the "
+"day OR night, and is always ready with a smile!"
+msgstr ""
+
+msgctxt "/01A5865941BBDB15024C1ABE48BF12B9"
+msgid "A Recycling & Reclamation key, used by staff leads."
+msgstr ""
+
+msgctxt "/63E587F24B90A90252DE989E8F844715"
+msgid "A chance discovery changes everything."
+msgstr ""
+
+msgctxt "/F8C8420F4FE324F3C74F6B8189A96F72"
+msgid "A discussion on recent developments, both good and ill."
+msgstr ""
+
+msgctxt "/19BD3EA645AAD7A759DC0DBAD2ACCF0D"
+msgid "A dream of doing more..."
+msgstr ""
+
+msgctxt "/B5B802B2431158A2623A1D8461060058"
+msgid "A good toy doesn't do bad things..."
+msgstr ""
+
+msgctxt "/A1A0069549B57E67815292A2A6205644"
+msgid "A grand expansion progresses slowly."
+msgstr ""
+
+msgctxt "/873C206D482BE73BD3814A8EB3928A7C"
+msgid "A letter of confession..."
+msgstr ""
+
+msgctxt "/B342212C4AB5E257481C7F8016E66CDE"
+msgid "A lingering mystery laid to rest..."
+msgstr ""
+
+msgctxt "/EDACFB7E4F9DE035282401BD208DB31C"
+msgid "A rare doll from the failed Wrongside Outimals toyline."
+msgstr ""
+
+msgctxt "/35F09E7E407F72AEE2B442AC165C3647"
+msgid "A rare doll from the failed Wrongside Outimals toyline. "
+msgstr ""
+
+msgctxt "/3DC504C54B37D895D05BBDB2010BD91B"
+msgid "A rare doll from the failed Wrongside Outimals toyline. "
+msgstr ""
+
+msgctxt "/537D001F4E1B1CA502EA69A216C12CD1"
+msgid "A rare doll from the failed Wrongside Outimals toyline. "
+msgstr ""
+
+msgctxt "/8AD3251949704528E6791F805589F5B5"
+msgid "A rare doll from the failed Wrongside Outimals toyline. "
+msgstr ""
+
+msgctxt "/A709081B4FD1D09BCB0F6B848D254B18"
+msgid "A rare doll from the failed Wrongside Outimals toyline. "
+msgstr ""
+
+msgctxt "/B849DB35473731AD76FCD9AFF0234E0F"
+msgid "A rare doll from the failed Wrongside Outimals toyline. "
+msgstr ""
+
+msgctxt "/C4321ED7424FE239257447A52ABCC5B9"
+msgid "A rare doll from the failed Wrongside Outimals toyline. "
+msgstr ""
+
+msgctxt "/DBCA93214EA4BF133BB8568F6AC8C14E"
+msgid "A rare doll from the failed Wrongside Outimals toyline. "
+msgstr ""
+
+msgctxt "/DCC8D4174F4B41EF1A06CA84E0B4F1EF"
+msgid "A rare doll from the failed Wrongside Outimals toyline. "
+msgstr ""
+
+msgctxt "/F145F76244B646BF3EDABEAE82F43481"
+msgid "A rare doll from the failed Wrongside Outimals toyline. "
+msgstr ""
+
+msgctxt "/CA75F9494AC9FB0F9AFC3EB3B2289E55"
+msgid "A rare plushie from the failed Wrongside Outimals toyline. "
+msgstr ""
+
+msgctxt "/D074E98247CDD09A9E5E30A6DFC1DEE7"
+msgid "A secret pact..."
+msgstr ""
+
+msgctxt "/D21203094B84B51BB020E69F7B97A927"
+msgid "A single mind snaps in two."
+msgstr ""
+
+msgctxt "/BDA51A70498C9A13B7061F846FE90E81"
+msgid ""
+"A very small percentage of individuals may experience epileptic seizures when "
+"exposed to certain light patterns or flashing lights, including some of the "
+"visual effects that appear in certain video games. Symptoms may even be "
+"experienced by individuals with no history of epilepsy or photosensitivity. "
+"If you or anyone in your family have an epileptic or photosensitivity "
+"condition, please consult  your physician before playing.\n"
+"\n"
+"If you experience any of the following symptoms while playing this video "
+"game, immediately, discontinue use and consult your physician before resuming "
+"play: dizziness, altered vision, eye or muscle twitches, loss of awareness, "
+"disorientation, any involuntary movement, or convulsions.\n"
+"\n"
+"Parents should watch for or ask their children about the above symptoms. "
+"Children and teenagers may be more likely than adults to experience these "
+"seizures.\n"
+"\n"
+"You may reduce risk of photosensitive epileptic seizures by taking the "
+"following precautions: sit farther from the screen, use a smaller screen, "
+"play in a well-lit room, take regular breaks, and do not play when you are "
+"drowsy or fatigued."
+msgstr ""
+
+msgctxt "/4D9712B243A622672F05439416AE160A"
+msgid "ADJUST GAMMA SETTINGS"
+msgstr ""
+
+msgctxt "/F7D6FCB347B81B7F7A3C40853DEC9EC6"
+msgid "ATTENTION NEW EMPLOYEES"
+msgstr ""
+
+msgctxt "/0A01D33A45B3140EFBFABB9F47422797"
+msgid "AUDIO"
+msgstr ""
+
+msgctxt "/B0A3F16B4C2652F6493F7DBD022DD834"
+msgid "AUDIO"
+msgstr ""
+
+msgctxt "/0E6EADEA4ED89F8C3F7CBB9561C36AC1"
+msgid "AUTO"
+msgstr ""
+
+msgctxt "/CD52E73E44DEA5A002A873B9BFA11002"
+msgid "AUTO"
+msgstr ""
+
+msgctxt "/75C62CAC4CE46AA8E25DFAA7C7FFB6EA"
+msgid ""
+"Abstract:\n"
+"In testing the interactions between Growth Medium and various biological "
+"materials, we observed that plantlife exposure exhibits traits both "
+"intriguingly similar to, and disturbingly different from, that of flesh. Both "
+"facets raise significant concern.\n"
+"\n"
+"Materials:\n"
+"Pure Growth Medium Concentrate\n"
+"Various flora, fruits, and vegetables\n"
+"\n"
+"Observations:\n"
+"Plant roots appeared to take on the quality of weeds over several "
+"weeks—tangling as though to choke neighboring growth. Closer inspection "
+"revealed a coalescing structure: a shared system rather than "
+"competition\n"
+"Enlarged stems, leaves, and fruits soon followed. During an unprotected "
+"interaction, one specimen appeared to latch onto my assistant. Further "
+"contact is strongly discouraged.\n"
+"When the resulting fruits and vegetables were tested on both mice and rats, "
+"internal consumption began within hours following ingestion—similar to fungal "
+"degradation of organic tissue.\n"
+"\n"
+"Conclusion:\n"
+" All produced seeds, fruits, and vegetables are to be considered toxic and "
+"parasitic. Until a more stable strain can be developed, direct interaction "
+"with any plant matter is prohibited.\n"
+"We need to develop a means of counteracting the growth medium if we’re to "
+"continue this line of research; otherwise, the flora will spread completely "
+"out of our control. If the proposed “Negation Formula” we’re developing is "
+"everything we intend, then this should more than suffice.\n"
+msgstr ""
+
+msgctxt "/6569B5084C18B86E874188A5841801CC"
+msgid "Accept"
+msgstr ""
+
+msgctxt "/DA61F0BC43C467356920E6A02D11E2FB"
+msgid "Accept"
+msgstr ""
+
+msgctxt "/5A1CEA9446D776D2E9FE759B60174C3D"
+msgid ""
+"Addendum 07/12/1993\n"
+"All information and records regarding the Gel Medium (and its Negation "
+"Compound) are now archived on the following:\n"
+"\n"
+"Location\t\t\t\t\t\t\t                                                        "
+"          Real-Time Status\n"
+"A DRIVE, Innovation —---------------------------------- REFORMATTED\n"
+"B DRIVE, Innovation—---------------------------------- REFORMATTED\n"
+"C DRIVE, Counselor Office, Playcare —------------------- REFORMATTED\n"
+"D DRIVE, Med Exam, GameStation —--------------------- NO SIGNAL\n"
+"CENTRAL DOMAIN, Secondary Lab, Shelf —-------------- CORRUPTED\n"
+"E DRIVE, Research & Development, Labs —--------------- NO SIGNAL\n"
+"F DRIVE, Biodiversity, Labs —---------------------------- NO SIGNAL\n"
+"G DRIVE, Reanimation, Labs —--------------------------- NO SIGNAL\n"
+"MASTER BACKUP, Data Center, Labs —------------------- OK"
+msgstr ""
+
+msgctxt "/A204A76847A5224C8B268A8D1144029A"
+msgid "Adjust the slider until the image on the left is barely visible."
+msgstr ""
+
+msgctxt "/B235452A4B4E24A1E8C7DA96AEF280F3"
+msgid ""
+"Again \n"
+"Again \n"
+"AGAIN\n"
+"\n"
+"HE STILL DOESN’T COME \n"
+"NONE OF THEM WILL COME\n"
+"WHY DOES EVERYONE HATE ME\n"
+"\n"
+"Big breath in. \n"
+"Into your belly. And out. \n"
+"Again. \n"
+"Good. You're doing so good.\n"
+"\n"
+"Just cover up the hole with something. \n"
+"Anything will do. Maybe just a poster. \n"
+"Your favorite one — that’s what you deserve for this. \n"
+"\n"
+"Don’t let him see the mess you made.  \n"
+"Never ever.\n"
+"\n"
+"\n"
+"-Lily-Billy\n"
+msgstr ""
+
+msgctxt "/1C1E438841FC99AF2B42808051C78E1F"
+msgid "Alert"
+msgstr ""
+
+msgctxt "/0A7524E043D445BFECB0B99E48C40C89"
+msgid "An Intercepted Communique"
+msgstr ""
+
+msgctxt "/F545F6654E5274B702423F874900A08C"
+msgid "An Intercepted Communique"
+msgstr ""
+
+msgctxt "/4FD042E14ED9CEEE98B3DEB4C4E9A859"
+msgid "An alarm raised, and a solution needed..."
+msgstr ""
+
+msgctxt "/12DB0BBD42EEE36DAB7049B746EC4D9C"
+msgid "Angry"
+msgstr ""
+
+msgctxt "/4848DCA74701567DA39A6A8146992043"
+msgid "Apply"
+msgstr ""
+
+msgctxt "/7959EDAB4C97028DDD480D8A235B185A"
+msgid "Apply"
+msgstr ""
+
+msgctxt "/C02C6C354EFC62C66ACE2FB7B936B34C"
+msgid "Apply Settings"
+msgstr ""
+
+msgctxt "/0320B99E41CFA750E9BEE1BE09AE16B3"
+msgid ""
+"Are You\n"
+"Sure?"
+msgstr ""
+
+msgctxt "/952D6A8B483BED9554851A9CC3510D1F"
+msgid "Are we less than the people we were?"
+msgstr ""
+
+msgctxt "/A150F6D9430C0362FDAAFABDBEDCD72A"
+msgid "Are you sure you want to delete this save? Any progress will be lost."
+msgstr ""
+
+msgctxt "/1ED769EA4DBBE274ED3D7FA0BE7F101A"
+msgid "Are you sure you want to exit the game?"
+msgstr ""
+
+msgctxt "/E0D0082246BCFCE6FEDB99B0AEDAF6E2"
+msgid "Are you sure you want to load the selected save?"
+msgstr ""
+
+msgctxt "/6A5FC8D545F4EE04DF4676BC452E25E3"
+msgid ""
+"Are you sure you want to quit?\n"
+"Any unsaved progress will be lost."
+msgstr ""
+
+msgctxt "/3596DC6C46BFBE8235FE299C27ABB9C2"
+msgid "Are you sure you want to reset all settings to their default values?"
+msgstr ""
+
+msgctxt "/09D14D0A4BFD7F5E77F670B45FB307DB"
+msgid "Avoid Huggy's Attacks"
+msgstr ""
+
+msgctxt "/7613869D417D6EB1915502A6310CF508"
+msgid "BACK"
+msgstr ""
+
+msgctxt "/D5A2F1C04CA3FBC0F408788AF5F9E3DF"
+msgid "BROKEN THINGS"
+msgstr ""
+
+msgctxt "/03C136E74D9A85B1B795018846873ADE"
+msgid "Back"
+msgstr ""
+
+msgctxt "/1460C1AB4DFC05B3EDB67781C8EDB0B3"
+msgid "Back"
+msgstr ""
+
+msgctxt "/3110C25B41848772B9A1E4A7D7078D75"
+msgid "Back"
+msgstr ""
+
+msgctxt "/3589C8C74DEEA6C0C5B454807BED057A"
+msgid "Back"
+msgstr ""
+
+msgctxt "/76F079779CAA1901A55411D20D295E43"
+msgid "Back"
+msgstr ""
+
+msgctxt "/ABCF798F45EF32ED532C4EBA4155FCDE"
+msgid "Back"
+msgstr ""
+
+msgctxt "/AC910C564D1E2929492EC086492595F1"
+msgid "Back"
+msgstr ""
+
+msgctxt "/3366E0844E70DDB63242CB805A725860"
+msgid "BatteryCharged"
+msgstr ""
+
+msgctxt "/93288711487BC54164620486C581016F"
+msgid "BatteryLow"
+msgstr ""
+
+msgctxt "/3147D2B14D59CC8B039BB4A2284BF721"
+msgid "Be the joy, Gracie..."
+msgstr ""
+
+msgctxt "/3DFC22EC02B87FA8F8C50D960D295E43"
+msgid "Bedroom Key"
+msgstr ""
+
+msgctxt "/2096EC32400DCBFEB9447F80EA11B34E"
+msgid ""
+"Bindle Boogie's that chill, unemployed friend who always manages to do the "
+"funnest stuff (it's okay to judge them just a little for that)."
+msgstr ""
+
+msgctxt "/ABB96A904D1299C9B3D5839ECBA0C67D"
+msgid "Blacklight"
+msgstr ""
+
+msgctxt "/313B772D4D62807C252CCD8188C0D2B3"
+msgid "Blank"
+msgstr ""
+
+msgctxt "/987ABD0341D89BCBB133DDB311633236"
+msgid "Blanky Blankz is a... Definitely a... Kind of like a... yeah"
+msgstr ""
+
+msgctxt "/2D5E769702B87FA8F8C50D960D295E43"
+msgid "Blue Hand"
+msgstr ""
+
+msgctxt "/A93C6DA94EA8FAD437A42A81D3240ED0"
+msgid "Blue Hand Description..."
+msgstr ""
+
+msgctxt "/EF3834CE486B48FF711A33B4AEB6E45F"
+msgid "Blue Keycard"
+msgstr ""
+
+msgctxt "/759B8CC54C2C50BD1329B1988AE2431E"
+msgid "Blue Keycard Lore Here"
+msgstr ""
+
+msgctxt "/42ADB7E04FDD7AB29B3C9585517219FC"
+msgid ""
+"Boggy stole my things again. Pretty things in his ugly paws. Sitting in his "
+"rotting little rat hole. MY pretty things.\n"
+"\n"
+"HAVE TO KILL HIM. STICK SOMETHING SHARP BETWEEN HIS RIBS. BURN OUT HIS EYES. "
+"TAKE HIS THINGS.\n"
+"\n"
+"KILL OR DIE. KILL OR DIE. KILL OR DIE.\n"
+"\n"
+"I ate GOOD today. Gave some to my friends, too. Poor, stupid Boggy. At least "
+"he had nice taste.\n"
+"\n"
+"Gnawing on the bones now, thinking about how it’s all mine if I want it to "
+"be. Everything. Boggy’s things. Gnat’s things. Roach and Yiggy’s, too. But "
+"the more things, the more eyes you draw. The more eyes, the more they skitter "
+"for your stuff. Friends one second, enemies the next.\n"
+"\n"
+"I’m not scared. I’m NEVER scared. Not of THEM. Let them watch. Let them take. "
+"Let them talk and laugh and joke. No matter how wrong they are beneath their "
+"rotting skin, their wasted muscles and jagged teeth–the marrow all tastes the "
+"same."
+msgstr ""
+
+msgctxt "/382B3E094F8421E90F9D49BB5CCF9C1E"
+msgid "Boot"
+msgstr ""
+
+msgctxt "/A1D7400F4E3ED90DE32EEEBDB770C496"
+msgid "Break the Railing"
+msgstr ""
+
+msgctxt "/0FEE1753400DE78A053BB2993DAEA507"
+msgid "Bury it all."
+msgstr ""
+
+msgctxt "/820C1D2646F21F8288DBE19B41935ACD"
+msgid "CAST ASIDE THE OLD WORLD"
+msgstr ""
+
+msgctxt "/08656D61499D3F3AB3D08EA56664C183"
+msgid "CHAPTER 5"
+msgstr ""
+
+msgctxt "/B1A8B87E4A3D68470CE05BA5656DF557"
+msgid "CODE INCORRECT"
+msgstr ""
+
+msgctxt "/7F3923CC45B6F2EBBFD00EA627DD8FE5"
+msgid "COLLECTIBLES"
+msgstr ""
+
+msgctxt "/E7C8E228413AD7307CDFB5A97CAA70BF"
+msgid "COLLECTION"
+msgstr ""
+
+msgctxt "/F5AE07934E7CB624478161B73D001199"
+msgid "COMMAND"
+msgstr ""
+
+msgctxt "/B200374A4C13E5AEDD79B48E8ECC09C9"
+msgid "COMPLETE"
+msgstr ""
+
+msgctxt "/07612C314A623A6AB291DF961E2CEC4E"
+msgid "COMPLETED"
+msgstr ""
+
+msgctxt "/4CD9CF3A4D59902247E3158B477BF67E"
+msgid "COMPLETED"
+msgstr ""
+
+msgctxt "/A7822C2243A43237F77D1488FFF0748D"
+msgid "CONTINUE"
+msgstr ""
+
+msgctxt "/FECC8BED4687125292222EBBA80F4876"
+msgid "CONTINUE"
+msgstr ""
+
+msgctxt "/8F41A23E44B2F09BFBD59391E78854B7"
+msgid "CONTROLS"
+msgstr ""
+
+msgctxt "/B594422D44C128D5BC7FA3BEF07053F4"
+msgid "COOLING"
+msgstr ""
+
+msgctxt "/C01164334E566E39A44B85AEA1CF145E"
+msgid "CREDITS"
+msgstr ""
+
+msgctxt "/EFD0DD0F40A04839E42070AEC7FBA606"
+msgid "CURRENT OBJECTIVE"
+msgstr ""
+
+msgctxt "/877D592943C34ABE7879FC8F75874EE4"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "/F8E4E54049F98963120314A62EFC90FC"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "/A068AA7A42279579A543D0B477FE7E6E"
+msgid "Cancel Changes"
+msgstr ""
+
+msgctxt "/F345B0674F8B0164760C1CABBC3FCBCB"
+msgid "Cancel Changes"
+msgstr ""
+
+msgctxt "/FF87DD959CAA1901A55411D20D295E43"
+msgid "Cancel Settings"
+msgstr ""
+
+msgctxt "/5AEBEEF34309D340124A75A47AC0D0F9"
+msgid "Carried"
+msgstr ""
+
+msgctxt "/8C57C9D14C9733B831B6EEBF26F84226"
+msgid "CassetteEnd"
+msgstr ""
+
+msgctxt "/504396E948193B8626A7718C6A30D171"
+msgid "CassetteStart"
+msgstr ""
+
+msgctxt "/1E88B1DD43D5E3DF9C355FA18F2ABCD4"
+msgid "Category"
+msgstr ""
+
+msgctxt "/461FACAE499DEA21A300F8AF7C56B3F4"
+msgid "Charge the Door Panels"
+msgstr ""
+
+msgctxt "/CDA0A27A453ABC0386D2CCAB734D2F13"
+msgid "Chase"
+msgstr ""
+
+msgctxt "/9B2415F140504411FA82CD93DF343291"
+msgid "Chum's Keycard"
+msgstr ""
+
+msgctxt "/1A056A744BC40B98F6DFB5817E759D68"
+msgid "Circle"
+msgstr ""
+
+msgctxt "/F981317140340DC25E86649651D002AD"
+msgid "Closed"
+msgstr ""
+
+msgctxt "/93221BF34C4996A2ED033BB0D11A8652"
+msgid "Cloth Shawl"
+msgstr ""
+
+msgctxt "/0EB9A5D24526D50AFEEE4385CF459567"
+msgid "Code"
+msgstr ""
+
+msgctxt "/67CF3DA34E396EBA9A1E79A3415D0B8B"
+msgid "Collect Memories (3)"
+msgstr ""
+
+msgctxt "/ACC12A0F4B6ACF6EC55065BD4800F8B9"
+msgid "Company ID for Gracie Greene, Wellness & Integration Counselor."
+msgstr ""
+
+msgctxt "/1CA1DE2A44E9546EBE08CE9ECCDF23DB"
+msgid "Conditioning Observations"
+msgstr ""
+
+msgctxt "/2C531EFF40A9A906B7B9FFB33FED9AF8"
+msgid "Conductive Hand"
+msgstr ""
+
+msgctxt "/A97D486249E80E1CE7553B8AC98AB6CD"
+msgid "Continued study of the experiment in its \"natural\" environment..."
+msgstr ""
+
+msgctxt "/79EF56904EA5C1D29F45CB816AD8E4EC"
+msgid "Controller"
+msgstr ""
+
+msgctxt "/9CB6D51D4B8DE85E042929A6E9D7CE53"
+msgid "Controller"
+msgstr ""
+
+msgctxt "/42A61E45494A2A8CD4456AB297D61878"
+msgid "Could not load game from slot"
+msgstr ""
+
+msgctxt "/52967BE7489ADBA4F04CABA18BEC706A"
+msgid "Cowering"
+msgstr ""
+
+msgctxt "/B43B11524DB674EEB24F6F933F1A40AD"
+msgid ""
+"Cracked glass can be broken with the Pressure Hand <img id=\"Pressure\"/> "
+msgstr ""
+
+msgctxt "/91924A754AE736F56BCC5B9A8FD0DFFB"
+msgid ""
+"Crane Puzzle\n"
+"Dialogue Manager"
+msgstr ""
+
+msgctxt "/322BA61A4BF6412817B65EAB46416447"
+msgid "Crouch"
+msgstr ""
+
+msgctxt "/3A0DFAB445D60B2D8B7A60A79B432B08"
+msgid "Crouch"
+msgstr ""
+
+msgctxt "/974F0B3B4B94390F2576C59B46290D7F"
+msgid "Crouch"
+msgstr ""
+
+msgctxt "/6813AA124F3809802318D2A5568A1FF6"
+msgid "Cry"
+msgstr ""
+
+msgctxt "/498F02194761ADDC36B592A3F09B1A53"
+msgid "Custom"
+msgstr ""
+
+msgctxt "/96A9F1A34FB792E901DB80A67B95975B"
+msgid "DEBUG Loading Reason: {loadingReason}"
+msgstr ""
+
+msgctxt "/3C6FFD0C4121685A85EC8CA619BADD29"
+msgid "DELETE SAVE"
+msgstr ""
+
+msgctxt "/0A0F548A4ADFA701CC7C43958D977A61"
+msgid "DESCRIPTION TITLE"
+msgstr ""
+
+msgctxt "/1660ECFF41D2C36B606E2DAD3815D625"
+msgid "DISPLAY"
+msgstr ""
+
+msgctxt "/9A0C560D4CDD84B6D463A6BAB2C5F81D"
+msgid "DOCUMENTS"
+msgstr ""
+
+msgctxt "/6DD94BF24256E83E5D36DFB229A6DC0C"
+msgid "Dancing"
+msgstr ""
+
+msgctxt "/9893FA774405F43CFDE8E0A5C9F7C399"
+msgid "Deactivated"
+msgstr ""
+
+msgctxt "/88EFFFE740A162151AAB5DA8B14CFCFE"
+msgid "Dead"
+msgstr ""
+
+msgctxt "/97E584E041D38C2CF73223A56BD72D03"
+msgid "Death isn't the end."
+msgstr ""
+
+msgctxt "/D34FFC484F30604415ABD0A2807A748B"
+msgid ""
+"Death was deemed too generous a fate for Ms. Gracie, Playtime’s lead Wellness "
+"& Integration Counselor. "
+msgstr ""
+
+msgctxt "/F1FA2AD74744FEA6540F7FB9A5FEEB82"
+msgid "Default__BP_DamageVolume_RedGas_C"
+msgstr ""
+
+msgctxt "/9C9F65D84AC4F76D3DF9B0B057175C60"
+msgid "Default__BP_Glowby_InterferenceVolume_C"
+msgstr ""
+
+msgctxt "/57B7DEDD49705B1C3F1DA2ACF2356B58"
+msgid "Delete"
+msgstr ""
+
+msgctxt "/58E42BBC403FF6E8927B27B02B98883B"
+msgid "Delete Save"
+msgstr ""
+
+msgctxt "/D72331D7489E4553501C0892A16C8FEB"
+msgid "Delete Save"
+msgstr ""
+
+msgctxt "/622E14FC9CAA1901A55411D20D295E43"
+msgid "Delete Save Game"
+msgstr ""
+
+msgctxt "/A5DF074048F75336D8CAEE935FDAC634"
+msgid "Deliver Crumpets to Lily"
+msgstr ""
+
+msgctxt "/A497D20A4F1327A516A528A2AE388E03"
+msgid "Destroyed"
+msgstr ""
+
+msgctxt "/95DC3E084A1CDD3DC98D88842D1D5F86"
+msgid "Disabled"
+msgstr ""
+
+msgctxt "/E3F0875C4DBA8B4FA61BF88F3CEA7D24"
+msgid "Distracted"
+msgstr ""
+
+msgctxt "/5AD5A3034E49807FB2F23CA13B29BB77"
+msgid ""
+"Dizzy Booboo may be a bit of a clutzy, but a heart of platinum beats beneath "
+"all that absent-mindedness"
+msgstr ""
+
+msgctxt "/7EFFF1E84273EBD5345B868F23623A59"
+msgid ""
+"Do you want to load the last checkpoint?\n"
+"Any unsaved progress will be lost."
+msgstr ""
+
+msgctxt "/461AEF4E4E9EBCE4ACB0D592B7AF768A"
+msgid "Dollhouse Confinement Key"
+msgstr ""
+
+msgctxt "/C9C2E0774771E050B7BDCB84B5485063"
+msgid ""
+"Don't know how to stop the call so it'll just\n"
+"keep ringing and showing up on the HUD"
+msgstr ""
+
+msgctxt "/4A278BB041CA3D22616B929D8FD74EF1"
+msgid "Doodle Bones is an artist with a fondness for the strange and macabre."
+msgstr ""
+
+msgctxt "/72DB7DDB4E8676096D1F8E83CD99ABC1"
+msgid "Door Code:"
+msgstr ""
+
+msgctxt "/0E1B297A4C294416D6A858A080271111"
+msgid ""
+"Dr. Anthony Carrizales, the Head Chemist behind its creation, dubbed the gas "
+"Aeternum Somnium. Over time, “Red Smoke” became the accepted terminology."
+msgstr ""
+
+msgctxt "/52D456A341F9C7927B84FBADAEDB1287"
+msgid "Dr. Arkins Personal Letter 1"
+msgstr ""
+
+msgctxt "/F7B07B93424D23C9354150816032833A"
+msgid "Dr. Arkins Personal Letter 1"
+msgstr ""
+
+msgctxt "/367887E645A3CA392AD88AA475DFB501"
+msgid "Dr. Arkins Personal Letter 2"
+msgstr ""
+
+msgctxt "/39F0B6F64889259D990A4996A9B7468E"
+msgid "Dr. Arkins Personal Letter 2"
+msgstr ""
+
+msgctxt "/757F88B34AF643230017F5992EFCFE4D"
+msgid "Dr. Arkins Personal Letter 3"
+msgstr ""
+
+msgctxt "/970040B948FD10D4A7B55E929FE2CA01"
+msgid "Dr. Arkins Personal Letter 3"
+msgstr ""
+
+msgctxt "/4D8158D94A2CCCD1A58E90815DFBCC08"
+msgid "Dr. Sawyer's pet project continues..."
+msgstr ""
+
+msgctxt "/561356634E9B427FA0F937BA980B8A5A"
+msgid "Dr. Sawyer's pet project."
+msgstr ""
+
+msgctxt "/5CE461C84FAE08449BC7D2BA2F8A3414"
+msgid "Drive for Memory One"
+msgstr ""
+
+msgctxt "/226DFCE9494927CB197B4381311B9100"
+msgid "Drive for Memory Three"
+msgstr ""
+
+msgctxt "/50672C044092B8DD69BA718FD5CEB511"
+msgid "Drive for Memory Two"
+msgstr ""
+
+msgctxt "/115E4B9B9CAA1901A55411D20D295E43"
+msgid "Drop Carriable Item - Left Hand"
+msgstr ""
+
+msgctxt "/EDEA5E9D9CAA1901A55411D20D295E43"
+msgid "Drop Carriable Item - Left Hand"
+msgstr ""
+
+msgctxt "/69C2BAEC9CAA1901A55411D20D295E43"
+msgid "Drop Carriable Item - Right Hand"
+msgstr ""
+
+msgctxt "/2E75B20C404A82558155C19E6EB8BF64"
+msgid "Drop Item"
+msgstr ""
+
+msgctxt "/A56B89D0447F8345C5054580FD233E64"
+msgid ""
+"Drop Item: Hold <input "
+"id=\"/PoppyCore/Inputs/Actions/IA_Grab_Pack_Ability_Left.IA_Grab_Pack_Ability_"
+"Left\"></> or <input "
+"id=\"/PoppyCore/Inputs/Actions/IA_Grab_Pack_Ability_Right.IA_Grab_Pack_Ability"
+"_Right\"></>          Quick Drop: <input "
+"id=\"/PoppyCore/Inputs/Actions/IA_DropQuick.IA_DropQuick\"></>"
+msgstr ""
+
+msgctxt "/C95B71684FC425E80C409E9A6EC1102B"
+msgid "Dual Sense"
+msgstr ""
+
+msgctxt "/F05386314B512A8F772832AC64B39E46"
+msgid "Dual Shock 4"
+msgstr ""
+
+msgctxt "/CC6AAF4902B87FA8F8C50D960D295E43"
+msgid "EMU Cuffs"
+msgstr ""
+
+msgctxt "/317D04AD45243F9E1D9B78AD1F6BB1BB"
+msgid "ENTER CODE"
+msgstr ""
+
+msgctxt "/E00C67D54B510E8892DCABAA9EFD9EAD"
+msgid "ENTER CODE"
+msgstr ""
+
+msgctxt "/BC4FE5644547A27D86D5DB85940741B6"
+msgid "EQUIPMENT"
+msgstr ""
+
+msgctxt "/BF1C639542811DEC3F4DF0B3AB40FC1D"
+msgid "EQUIPMENT"
+msgstr ""
+
+msgctxt "/CFC9E8AB4ED81C0FB60621996810F96E"
+msgid "ERROR"
+msgstr ""
+
+msgctxt "/3B0E7EDF45EBFC1187C3128EB202F273"
+msgid "Electric"
+msgstr ""
+
+msgctxt "/F991752E4974E835BE18D38F104B632B"
+msgid "Elevator Shaking BP"
+msgstr ""
+
+msgctxt "/B9F1423044C3B3ABAE1197903F5DC934"
+msgid "Embarassed"
+msgstr ""
+
+msgctxt "/4806B7DC4318E8DF39004585742DFB89"
+msgid "Empty Placeholder Item Button"
+msgstr ""
+
+msgctxt "/A3B948454F237BB08C1ABC8428AC95A8"
+msgid "Empty Placeholder Item Button"
+msgstr ""
+
+msgctxt "/0A50653A43473C2FB3DC1B837AFA6C2B"
+msgid "End"
+msgstr ""
+
+msgctxt "/66FF3B8D4D15295C7B63A5AF090ADC45"
+msgid ""
+"Engineering Team,\n"
+"\n"
+"Team, I just wanted to say, for a bunch of socially maldeveloped super "
+"geniuses who can miraculously pull together miracles JUST ahead of "
+"deadline…\n"
+"\n"
+"You are all absolute morons.\n"
+"\n"
+"Let me break down the “concepts” (I say derogatorily)  you’ve sent "
+"me:\n"
+"\n"
+"\n"
+"“Gravity” Hand – Really? THIS is the fantasy the company’s Innovation dime is "
+"going toward?\n"
+"Gun Hand “Gunny Wunny” – First, a pox on whoever came up with this travesty "
+"of a name. Second, are you seriously about to give a bunch of overworked and "
+"severely underpaid 9-to-9ers a GUN HAND? Let’s think about this…\n"
+"“Big Freaking Fist” – What employee under Playtime’s payroll needs a fist? "
+"Please, enlighten me. I would love to hear your reasoning, and then promptly "
+"hand you a straitjacket.\n"
+"\n"
+"Please, the LAST thing I need in lead reviews is to show THESE travesties off "
+"like they’re serious projects. Promptly toss these down into Recycling & "
+"Reclamation, and let’s forget ALL about them. I know I intend to.\n"
+"\n"
+"Adam Worthy\n"
+"Head of Engineering"
+msgstr ""
+
+msgctxt "/6785EEDF4E7075053622CA828D847551"
+msgid ""
+"Entry 1:\n"
+"Subject placed in constructed “home” environment.\n"
+"Displays signs of environmental displacement: persistent pacing, heavy "
+"respiration, aversion to enclosed corners.\n"
+"Attempts to locate exits suggest the subject does not yet recognize the "
+"habitat as its own.\n"
+"The subject does not acknowledge researchers when we remain inside the "
+"enclosure, provided disguises are maintained. Observation Rooms remain "
+"undetected.\n"
+"Continue monitoring acclimation behavior. Red Smoke sedation is "
+"advised.\n"
+"\n"
+"Dr. Jessica Newman\n"
+"\n"
+"Entry 2:\n"
+"\n"
+"\n"
+"Two months have passed. Movements are less frantic–more purposeful.\n"
+"The experiment now navigates the space with confidence, finding comfort in "
+"what it believes to be its home–where it belongs.\n"
+"Disguised staff experience minimal aggression in interaction.\n"
+"It believes the “friends” around it are genuine members of its social "
+"group.\n"
+"Similar to the children in Playcare, the experiment appears to welcome Red "
+"Smoke sedation.\n"
+"\n"
+"Still, I worry. Its stability relies entirely on the illusion; a single "
+"breach collapses the trust we’ve engineered. If more lives become the cost of "
+"operating this “Sweet Street,” can we say it was truly worth pursuing?\n"
+"\n"
+"Dr. Jessica Newman\n"
+msgstr ""
+
+msgctxt "/ACBE38B34547CC70F45CCFAC7F14B380"
+msgid "Entry Name"
+msgstr ""
+
+msgctxt "/C64F086C478484E4C6F7089298910870"
+msgid "Escape Through the Attic"
+msgstr ""
+
+msgctxt "/232E85464F12D6CC3545A983F2D5B7F2"
+msgid "Escape from Huggy"
+msgstr ""
+
+msgctxt "/81343B1B457299074DB71EB5187C2F6F"
+msgid "Escape from The Prototype"
+msgstr ""
+
+msgctxt "/B9289EBC4E8B4C80800BC38543448B70"
+msgid "Escape the Grand Stitchery"
+msgstr ""
+
+msgctxt "/493064AB4F2378D85599DAA07C159317"
+msgid "Escape!"
+msgstr ""
+
+msgctxt "/0628FA4A4A9314721F5BBCB630A856D8"
+msgid "Examine"
+msgstr ""
+
+msgctxt "/1C0E26364DDAC374411D71984A9A5C0C"
+msgid "Examine"
+msgstr ""
+
+msgctxt "/43CA87FA440FF7CA33EB989766DFE818"
+msgid "Examine"
+msgstr ""
+
+msgctxt "/35DE48BB43FF5037BB7ABA88D5DE2042"
+msgid "Examine to find hidden information!"
+msgstr ""
+
+msgctxt "/861349CC4BFD93E19961699772C30EC5"
+msgid "Examine to find hidden information!"
+msgstr ""
+
+msgctxt "/588600884D0DA24A1ED6E298152A896A"
+msgid "ExampleLevel"
+msgstr ""
+
+msgctxt "/5D5BEC8242AE2074A4942EAE6575FC46"
+msgid "ExclamationPoint"
+msgstr ""
+
+msgctxt "/2704A936402A83CC5ADCB6848E91229C"
+msgid "Exit Game"
+msgstr ""
+
+msgctxt "/65F3233C42C83A33956CCBB06D938690"
+msgid "Experiment 1170: Executive Showcase"
+msgstr ""
+
+msgctxt "/879DE853490FE75AE2ECDEAA5200F5FF"
+msgid "Experiment 1468 Proposal"
+msgstr ""
+
+msgctxt "/E74E98CA4D24A9CFCB457C8BCAD075A9"
+msgid "Experiment 1468 Proposal"
+msgstr ""
+
+msgctxt "/909D840747833B4986699F86FE0FF0E3"
+msgid ""
+"Experiment 4\n"
+"Pus on the plush skin. Bubbling. Throat gurgled as he drew his first breath. "
+"Stitching unraveled. Eyes wild. Bone, meat, and blood oozed onto the table as "
+"he drew a second breath. A third. A fourth. A fifth. There was no "
+"sixth.\n"
+"\n"
+"Growth Medium resists imposed limits.\n"
+"\n"
+"How was this controlled?\n"
+"\n"
+"Watch again.\n"
+"\n"
+"Experiment 8\n"
+"Submerging in tanks. Attempting concentration changes by keeping subjects "
+"submerged. Biology becomes more… pliable. \n"
+"\n"
+"Noting progress. \n"
+"\n"
+"Experiment 15\n"
+"Doctor Sawyer’s cooperation is proving useful, if inconsequential. \n"
+"\n"
+"Eyes wide. Stitching holds. Limbs flail.\n"
+"\n"
+"“It burns,” he shouts. I watch. Learn.\n"
+"\n"
+"Blood spills from his mouth. Eyes turn to glass. I split him open from the "
+"back, and find it all gone– muscle, bone, and the Growth Medium.\n"
+"\n"
+"The Negation Formula proves equally as difficult to control. It consumes. The "
+"Growth Medium desires to grow, and the Negation Formula desires to "
+"destroy.\n"
+"\n"
+"Experiment 28\n"
+"Medium bonding. Negation Formula controlling the growth.\n"
+"\n"
+"Her stitching holds. Eyes flicker with life. Fingers sliding on the "
+"table–feeling the cold metal.\n"
+"\n"
+"Who am I? she asks. Who are you?\n"
+"\n"
+"A giver. I tell her. A friend.\n"
+"\n"
+"And you are Gabi.\n"
+"\n"
+"She repeats the name and closes her eyes.\n"
+"\n"
+"Experiment 34\n"
+"\n"
+"They live. They breathe. They walk and talk.\n"
+"\n"
+"But I’m still no nearer to infinity. \n"
+"\n"
+"I won’t be alone.\n"
+"\n"
+"It is a necessity that I keep going.\n"
+msgstr ""
+
+msgctxt "/4A62383540D59980DD14CB87160C9B39"
+msgid "Experiment Notes"
+msgstr ""
+
+msgctxt "/8327939F4450D27867A136BDE1F8A699"
+msgid "Experiment Notes"
+msgstr ""
+
+msgctxt "/A670FB5343559F6B8017EA8DB7A76838"
+msgid "Experiment Observations"
+msgstr ""
+
+msgctxt "/762E6FEC4769F4C51F89558428633DBC"
+msgid "Explore the Biodiversity Labs"
+msgstr ""
+
+msgctxt "/D77FFF9F4DAE2D821A622FA19C772DCE"
+msgid "Extreme Aggression Under Stress"
+msgstr ""
+
+msgctxt "/7703602C42527607969253BDA00648E9"
+msgid "FAN"
+msgstr ""
+
+msgctxt "/2BC68D82432CE61EA0DB2F8955A1E433"
+msgid "FPS "
+msgstr ""
+
+msgctxt "/F1121EE2482E7FCC39349F82D41B894A"
+msgid "Failed to Load Game"
+msgstr ""
+
+msgctxt "/BED2BF0F4EEFA8ED9D0720B81F9D39AC"
+msgid "Failed to load your most recent checkpoint."
+msgstr ""
+
+msgctxt "/79F84EF24785B687B702E597C9BD7BDF"
+msgid "Falling"
+msgstr ""
+
+msgctxt "/EFDAB7ED408038FC3B1331A0CDAF77E9"
+msgid "Fetal"
+msgstr ""
+
+msgctxt "/859DC0D0427E04DE9C0765AA91801117"
+msgid "Field Test: Chum Chompkins"
+msgstr ""
+
+msgctxt "/C0C02B1B4D0F93E90051C0A7C0B7A86C"
+msgid "Find Prototype Data"
+msgstr ""
+
+msgctxt "/3E92A3CD4C210B3A95AF289A6A6F6B18"
+msgid "Find Reanimation"
+msgstr ""
+
+msgctxt "/B167AACA46C895BAEF7107BC6A94730A"
+msgid "Find a GrabPack"
+msgstr ""
+
+msgctxt "/3EAEAE034B0470CE0B3F83AD519BCFF4"
+msgid "Find a Way Out"
+msgstr ""
+
+msgctxt "/543809344D6C0E56EF040283ACF4F771"
+msgid "Find a Way Out"
+msgstr ""
+
+msgctxt "/AE18914C454CB54EBEA4EAA1BD930D84"
+msgid "Find a Way Out"
+msgstr ""
+
+msgctxt "/C1A52B764BCA16831D278FA7D0398481"
+msgid "Find a Way Out"
+msgstr ""
+
+msgctxt "/F5977CBD49FD1D779B6297978B486F1A"
+msgid "Find a Way Out"
+msgstr ""
+
+msgctxt "/56BE85174F7D22AF5D69FA890E9647A4"
+msgid "Find a Way into Lily's Bedroom"
+msgstr ""
+
+msgctxt "/6ED2B57C4FD2835E61EE309F11B60B0E"
+msgid "Find a Way to Pass the Gates"
+msgstr ""
+
+msgctxt "/D23B2C7C48262C8C1E29B0A1982F138F"
+msgid "Find a Way to Reach the Key"
+msgstr ""
+
+msgctxt "/4F4E3C6B4108AE2DB60EB78EF077B534"
+msgid "Find a Way to Reanimation"
+msgstr ""
+
+msgctxt "/771CDE0A481E815FF18C9D83FA6E2E93"
+msgid "Find a way down to the Surgical Rooms"
+msgstr ""
+
+msgctxt "/969EA9F54C86BEA6C3D2A7ABB1B4BBC9"
+msgid "Find a way up to the GrabPack"
+msgstr ""
+
+msgctxt "/37FFD4A349A92182DA0C3E98663B0086"
+msgid "Find the Backup"
+msgstr ""
+
+msgctxt "/D73EEA22428AFDD7E57472A49F46112D"
+msgid "Find the Backup"
+msgstr ""
+
+msgctxt "/BD5F6223403CFAB0409B3FA145270FFA"
+msgid "Find the orphans."
+msgstr ""
+
+msgctxt "/A873F1A6480CEC180A8252BB5ED92831"
+msgid "Find your spot, Huggy!"
+msgstr ""
+
+msgctxt "/B91275E2438A575F366EA098A0B1DD29"
+msgid "Fire"
+msgstr ""
+
+msgctxt "/A52B4A60467E471EB33A1D8769715809"
+msgid "Fire Left Hand"
+msgstr ""
+
+msgctxt "/ED08A078484E9E0DC41FB8B3D82FFF1A"
+msgid "Fire Right Hand"
+msgstr ""
+
+msgctxt "/BFAD630602B87FA8F8C50D960D295E43"
+msgid "Flare Hand"
+msgstr ""
+
+msgctxt "/EFE3CE5940B5B507A477BFBB191F8331"
+msgid "Flashlight"
+msgstr ""
+
+msgctxt "/BDA6D9B2470484F2601EE3BF8794F28B"
+msgid "Flat"
+msgstr ""
+
+msgctxt "/4A477788422B704307F319A19E06DC2D"
+msgid "Focus Test: The Wrongside Outimals"
+msgstr ""
+
+msgctxt "/5B2F4DD94AFC4C69489DC59B6E07FC21"
+msgid "Follow Lily to the Kitchen"
+msgstr ""
+
+msgctxt "/4AB4D3A343D954FF8E89F6B054A50724"
+msgid "Follow the Golden Path."
+msgstr ""
+
+msgctxt "/C8801BE840E26F6E1F55B3B122C399EC"
+msgid "Forward"
+msgstr ""
+
+msgctxt "/973E5ECE4147FED8AF5936A0B5F32A60"
+msgid ""
+"Found in Boilers beneath the Lab, the Pressure Hand allows for charged force "
+"bursts to push heavy objects and break brittle surfaces."
+msgstr ""
+
+msgctxt "/E7D024B743A00E7E850E8DBA52837206"
+msgid ""
+"Found in Playtime's Research & Development lab, the EMU (Electro Magnetic "
+"Upgrade) Cuffs allow for quick vertical navigation in the absence of jump "
+"pads. Please remove all jewelry and body piercings before equipping."
+msgstr ""
+
+msgctxt "/37E46D254AD5F7D5041BAAAB70289C84"
+msgid ""
+"Found in Testing & Conditioning, the Conductive Hand is an update on the "
+"Green Hand, allowing for both heating and cooling functions. "
+msgstr ""
+
+msgctxt "/998D49814273CBA90069D684D961659B"
+msgid ""
+"Friendly reminder that the genetically modified vegetation present in this "
+"workspace is NOT to be removed without authorization. We know one of you has "
+"been taking citrus from this lab and leaving them around the factory as some "
+"kind of “joke”. Let it be known, there will be repercussions if this behavior "
+"continues.\n"
+"-Management\n"
+"\n"
+"His name is Limon. He has a family!"
+msgstr ""
+
+msgctxt "/50F8C7D44FF518A2115E68ADC4F233A8"
+msgid "Frown"
+msgstr ""
+
+msgctxt "/1E6468F04187B785B00CD88B2A3DB2D6"
+msgid "GAME SAVING"
+msgstr ""
+
+msgctxt "/317039794D2D8242B079AC91DC7AA800"
+msgid "GET UP."
+msgstr ""
+
+msgctxt "/3DB39447478BC06DB49888997FBF8981"
+msgid "GET UP."
+msgstr ""
+
+msgctxt "/8B9FC2B647B82F11FE6C8BB1CCC3584A"
+msgid "GET UP."
+msgstr ""
+
+msgctxt "/3A06BE744D52AFD2A890F2A0CBE97A62"
+msgid "GRAPHICS"
+msgstr ""
+
+msgctxt "/FEE6A7A54757854565D62C81EBD2E102"
+msgid "Gas"
+msgstr ""
+
+msgctxt "/78EC40A6487CC387F32642AAC86B1811"
+msgid "Generic"
+msgstr ""
+
+msgctxt "/D5E06D2B40DBABBAF7BFD7B8495D194A"
+msgid "Get Glowby"
+msgstr ""
+
+msgctxt "/13995C4045C7E447D334A0B84AB96A87"
+msgid "Get up."
+msgstr ""
+
+msgctxt "/4F13D9DC4CB4B31186951C8B7B01DFE0"
+msgid "Get up."
+msgstr ""
+
+msgctxt "/6CF9AA7149321EE9B98592997217BEB8"
+msgid "Get up."
+msgstr ""
+
+msgctxt "/7408B8204B10B1214F255FAA963933F5"
+msgid "Get up."
+msgstr ""
+
+msgctxt "/920918D54F8E40F4E1C31BB9EBDCF439"
+msgid "Get up."
+msgstr ""
+
+msgctxt "/92A466694406361A1414748171C78BE3"
+msgid "Get up."
+msgstr ""
+
+msgctxt "/BE8C09E84F9D83E5027D25A94C9C9789"
+msgid "Get up."
+msgstr ""
+
+msgctxt "/F49DF41E489E27B9E41B18AF564CFB46"
+msgid "Get up."
+msgstr ""
+
+msgctxt "/F93088FA4922BE7D96B55F8FF0B01815"
+msgid "Get up."
+msgstr ""
+
+msgctxt "/AFB0778C4C4CF5A9913110B217101F1C"
+msgid "Ghost"
+msgstr ""
+
+msgctxt "/5A860A3747723A22D415E29782AE84C5"
+msgid "Ghost Action Button"
+msgstr ""
+
+msgctxt "/0D7629984E86190319C6B8A1AE85B8E6"
+msgid "Giblet's Checklist"
+msgstr ""
+
+msgctxt "/C38EEA0E469E25E7C145ECB04D30698D"
+msgid "Giblet's Checklist"
+msgstr ""
+
+msgctxt "/328036E24DC8DB9089E51194FC8337EF"
+msgid "Glowby"
+msgstr ""
+
+msgctxt "/B22DF797465173DC66C8708263ED235A"
+msgid "Golden Chum"
+msgstr ""
+
+msgctxt "/AA1275BD473EC19B1CEB53AB1C0BD949"
+msgid "Golden Giblet"
+msgstr ""
+
+msgctxt "/47C57C0042C448AC19AD87AAC8B667E9"
+msgid "Golden Lily"
+msgstr ""
+
+msgctxt "/6562748A485317E03C099F82FC74D20F"
+msgid "Golden Limon"
+msgstr ""
+
+msgctxt "/AD14F0C4499788292AC07E98B7D66F53"
+msgid "Golden Limon"
+msgstr ""
+
+msgctxt "/8CB17F11446261D3EA39FCBD18B8B894"
+msgid "Golden Prototype"
+msgstr ""
+
+msgctxt "/014DE243432A52058E5D91BBCA14E092"
+msgid ""
+"Goober Gutz is a bit... indecisive. Mexican or Italian? Fork or spoon? Go "
+"outside or stay in? It's all a little hard for Goober Gutz, but we love em' "
+"anyway."
+msgstr ""
+
+msgctxt "/B53FF9D445C4B624F2DF8DAB8E2EEC11"
+msgid "GrabPack"
+msgstr ""
+
+msgctxt "/8D33654944B90F66DF5DFDA3D21EA59D"
+msgid "GrabPack Hands Rejection"
+msgstr ""
+
+msgctxt "/D20DA8714496083C63A4DDB3E20F5BFF"
+msgid "GrabPack Hands Rejection"
+msgstr ""
+
+msgctxt "/F1380E874B6834D257D3F2A6D4260F37"
+msgid "Green/On"
+msgstr ""
+
+msgctxt "/CD7EE66A4623FE53D167CAB62B9831B4"
+msgid "Grow"
+msgstr ""
+
+msgctxt "/08F7DC0D4AE166BB151635A6005E9912"
+msgid "Guardpost Keycard"
+msgstr ""
+
+msgctxt "/081E5ACE43D7AD027E2DBB89A3FBF63D"
+msgid "HOLD"
+msgstr ""
+
+msgctxt "/EAEA38F849DC8E1CFC5133B25133F877"
+msgid "Hand Mirror"
+msgstr ""
+
+msgctxt "/A32D998144945BF96F01A396C7069BE3"
+msgid "Hand Mirror that can be given to Poppy to reveal her broken face"
+msgstr ""
+
+msgctxt "/7E40DD434674C83ACD62BDAD89AF60BA"
+msgid "Happy"
+msgstr ""
+
+msgctxt "/804C95054A5BFF9C4CC07E9B98772C85"
+msgid "Harvest Processing Center 04"
+msgstr ""
+
+msgctxt "/E844831F4F99C75DED0164AB3D1AF107"
+msgid "HasLoreDiscoveryTutorial: "
+msgstr ""
+
+msgctxt "/2BD68A854C8B580F4A9891AE7E1F1175"
+msgid "He sees you. Always. You can never escape."
+msgstr ""
+
+msgctxt "/4F9D7D224073E76EA14A9C9B0D8ECBA0"
+msgid "He watches you"
+msgstr ""
+
+msgctxt "/A875E7A943441F0D554D2090A48EE839"
+msgid "Heart"
+msgstr ""
+
+msgctxt "/CD2ADB154EBB6ED67B1658A865CDD033"
+msgid "Hide from the Prototype"
+msgstr ""
+
+msgctxt "/92DC8B654A2930B59E310581627EC32B"
+msgid "High"
+msgstr ""
+
+msgctxt "/570A9B894646A69625A8A786BDA9100F"
+msgid "How to Maintain Your-- (Illegible)"
+msgstr ""
+
+msgctxt "/12F8565C430BFA651E8F579005B7FC1B"
+msgid "Huge"
+msgstr ""
+
+msgctxt "/799EB1D34700A9F22810C282A03522EB"
+msgid "Huge"
+msgstr ""
+
+msgctxt "/86A83C024E8F1AC960C342816CF5B5EA"
+msgid "Huggy Hand Left"
+msgstr ""
+
+msgctxt "/326A34B44FF0298AD4C777934ADF8D37"
+msgid "Huggy Hand Right"
+msgstr ""
+
+msgctxt "/91B7B03B42CB9A15259522A0F9D1FA2D"
+msgid "I CAN FIX EVERYTHING"
+msgstr ""
+
+msgctxt "/DE24C22240FE687AC6667F83873C3898"
+msgid "I CAN FIX THIS"
+msgstr ""
+
+msgctxt "/1A8A80714A75146285EB56828DE6A7F9"
+msgid "I CAN FIX YOU"
+msgstr ""
+
+msgctxt "/B6B7F9AE452C269E289B21B0442863EC"
+msgid "I CAN MAKE YOU BETTER"
+msgstr ""
+
+msgctxt "/3FBADF4A45BCB7D7D399E5BAC622D8F6"
+msgid "I can always see you. "
+msgstr ""
+
+msgctxt "/A313099B4AA2F982A1C831A9A03E0B9D"
+msgid "I won't let it end like this. "
+msgstr ""
+
+msgctxt "/9A33ADAB4F99236476309DAC78CE707E"
+msgid "I'll teach her."
+msgstr ""
+
+msgctxt "/8AF3DDEF47EFCC3B4471FA86725437FB"
+msgid "I'm so sorry"
+msgstr ""
+
+msgctxt "/09EF8C564ABEC44174915DA732F14C55"
+msgid "I'm sorry, but I can't let you leave. "
+msgstr ""
+
+msgctxt "/660B451D4E21D1D37E12DC934CA97417"
+msgid "INNOVATION IS KEY. "
+msgstr ""
+
+msgctxt "/A38249E241581494925A6D919FA7D753"
+msgid "INSERT DISK 01"
+msgstr ""
+
+msgctxt "/E9E0B0064BB8F372648252B10C58B264"
+msgid "INSERT DISK 01"
+msgstr ""
+
+msgctxt "/7853F9114385A89FC62C74AF2982403E"
+msgid "INSERT DISK 02"
+msgstr ""
+
+msgctxt "/840C2AB04259725AE49E1D95F01BAA52"
+msgid "INSERT DISK 03"
+msgstr ""
+
+msgctxt "/61090F9E4BE3F51400CA33810B8FE96B"
+msgid "INSERT YOUR CARD"
+msgstr ""
+
+msgctxt "/2CA3ACD54795DFB9811515BD1E57838D"
+msgid ""
+"INSUFFICIENT GAS FLOW DETECTED\n"
+"PLEASE INITIATE THE GAS FLOW"
+msgstr ""
+
+msgctxt "/983788F348F8808AAD6DFB9141D89BCD"
+msgid ""
+"INSUFFICIENT GAS FLOW DETECTED\n"
+"PLEASE INITIATE THE GAS FLOW"
+msgstr ""
+
+msgctxt "/92CBB1E14681FC1CBEEF62A3429D914E"
+msgid ""
+"INSUFFICIENT GAS FLOW DETECTED\n"
+"PLEASE INITIATE THE GAS FLOWWWWWWWWWWWWWWWWWWWWWWWWW"
+msgstr ""
+
+msgctxt "/576EB09C4BB230A298243EBCF7ABC2DB"
+msgid ""
+"INSUFFICIENT GAS FLOW DETECTED\n"
+"PLEASLOW"
+msgstr ""
+
+msgctxt "/CA3D88484BDB47402A79EA91C5A585D3"
+msgid "INVENTORY"
+msgstr ""
+
+msgctxt "/88EBB7E74B4BE986F6F0FEA393C9210E"
+msgid "IT CAN BE REAL FOR US"
+msgstr ""
+
+msgctxt "/2D94C821487F2422871ECEA3A43DE347"
+msgid "Ice"
+msgstr ""
+
+msgctxt "/7D15C80C4BF1B6CD65522F8959200ADE"
+msgid "Idle"
+msgstr ""
+
+msgctxt "/906F5742403CB261804710B72C5B7414"
+msgid "Images Slides"
+msgstr ""
+
+msgctxt "/FEBB47C746592AC312DDFB89E146737C"
+msgid ""
+"Injured and abandoned in the heart of the nightmare: The Playtime "
+"Laboratories. Here, fantasy is made reality, and the broken cower in the "
+"shadows of the one who pulls all strings– the Prototype.\n"
+msgstr ""
+
+msgctxt "/11E7EFF142F2E019E43E93ACFA653E31"
+msgid "Interact"
+msgstr ""
+
+msgctxt "/EC591ECE9CAA1901A55411D20D295E43"
+msgid "Interact"
+msgstr ""
+
+msgctxt "/0C9A59F540384D4A90DFEC9C87288D6F"
+msgid "Interrogation"
+msgstr ""
+
+msgctxt "/DA5A73534CC1587B8FED518E7943B8E0"
+msgid "Intro Video"
+msgstr ""
+
+msgctxt "/B6EAD11A4A64651B04BEF48D3D4BA2E5"
+msgid "Invalid Save Game"
+msgstr ""
+
+msgctxt "/03CAD31A47243A3C14296EA1861F52D5"
+msgid "Invalid SaveGame File"
+msgstr ""
+
+msgctxt "/4CD25DA34866285FC75FA6AA1F71AB47"
+msgid "Inventory"
+msgstr ""
+
+msgctxt "/437D8B17435449EDF17F99AADAAEDC9C"
+msgid "Inventory - September '95"
+msgstr ""
+
+msgctxt "/96C6BE16449B0AB3F7794490810118F2"
+msgid "Inventory - September '95"
+msgstr ""
+
+msgctxt "/7536D6DE438561B24D9DBAA80516B517"
+msgid "Investigate the Hidden Room"
+msgstr ""
+
+msgctxt "/0264B884404938CAE4A02CADE19B2566"
+msgid "Invisible Background"
+msgstr ""
+
+msgctxt "/37C4E8C645916A441A9DE9B5A599D0E3"
+msgid "Is there something out there for us?"
+msgstr ""
+
+msgctxt "/5F11962B4A5FE4B44C2A9C82CBA1399C"
+msgid "Is what she wants right?"
+msgstr ""
+
+msgctxt "/4A261246416D560CEA09BA8BBA3245EC"
+msgid "It's a dirty job, but someone has to do it..."
+msgstr ""
+
+msgctxt "/6B1FA9D14478FB2CE0F74784C31ECFEC"
+msgid "Item Viewer"
+msgstr ""
+
+msgctxt "/EECDAE85497E690CC4B1B0B484ABF3FD"
+msgid "ItemName"
+msgstr ""
+
+msgctxt "/6DD90476459818F1123E22A3129D3A10"
+msgid "Joy"
+msgstr ""
+
+msgctxt "/E6688A5F40BDC2F9CB688C931AD6AA31"
+msgid "JoyCons"
+msgstr ""
+
+msgctxt "/FD5B18E449AA99EC2E666DB8DC6272CB"
+msgid ""
+"Julie,\n"
+"\n"
+"I hope the harvest this year has been good to you and your father, and I’m "
+"sorry I missed your 9th at the start of the year. I’ve found myself missing "
+"home (like, a LOT). \n"
+"\n"
+"Life here is so contained, so focused on the work and the end goals, that I "
+"have no time at all for a personal life. The goals of this project are grand. "
+"Beautiful, even. Everyone here talks about it with such passion, such zeal, "
+"that like me, EVERYONE signed up for it without much question. The work "
+"itself, however, is nothing I can talk about openly. The processes themselves "
+"are difficult. I question it deeply, and I know I’m not the only one who "
+"does. Comforts are few in the Lab, and I think this has changed a lot of us. "
+"I know enough about what happens to a brain in isolation to know that’s "
+"exactly what’s happening here.\n"
+"\n"
+"I’ve been thinking a LOT about home recently. When I close my eyes, I can "
+"almost feel it. Hayseed in my shoes. The taste of fresh lemonade in summer. "
+"Your father’s ugly leather boots that tracked dirt all the way up to the "
+"second-floor bedroom. Ranger barking out the back door at foxes. \n"
+"\n"
+"Most of all, I think back to a few of the lessons I taught you. I think about "
+"all those nights spent nestled on the porch with you, the two of us wrapped "
+"so tight as the corn waves in the field. I want to give you a better world "
+"than the one I’d inherited. To give you something worth fighting for, just "
+"like my parents gave me. Something my dad always said stuck with me, and I "
+"know you’ve heard me say it. It’s my hope that you believe it like I "
+"do:\n"
+"\n"
+"“Start by doing good at a smaller scale. The smallest. Make that your world. "
+"Do everything possible to keep it safe and grow it responsibly.”  \n"
+"\n"
+"Love you, my little tulip. I miss your beautiful face, and I miss our porch "
+"time. I’ll try to come home soon.\n"
+"\n"
+"Yours,\n"
+"Dr. Chloe Arkins\n"
+msgstr ""
+
+msgctxt "/04C5537743701519706710A1060F4B46"
+msgid "Jump"
+msgstr ""
+
+msgctxt "/E03220AB4BA391C2199D72BF4E73E58B"
+msgid "Jump"
+msgstr ""
+
+msgctxt "/5E86A5BB425BD36781C50EBA037BBDBB"
+msgid "Jump Up the Broken Path"
+msgstr ""
+
+msgctxt "/E4A7D9D4482F2D8D57A5479E7DF58742"
+msgid "Just a hair too shiny… wouldn’t you say?"
+msgstr ""
+
+msgctxt "/9A71C4394AED8A6DA17139B49E273470"
+msgid "KEY ITEMS"
+msgstr ""
+
+msgctxt "/FC28C8734650FA8AB219DC85E7F14017"
+msgid "KEY ITEMS"
+msgstr ""
+
+msgctxt "/A479CD0E4EB781D88CA01EB868787EC5"
+msgid "KEYCARD ACCEPTED"
+msgstr ""
+
+msgctxt "/EE4893C74E685253EA2ADAB6E2AA3E38"
+msgid "KEYCARD REQUIRED"
+msgstr ""
+
+msgctxt "/8D18E0434060689DF4BB9697FD4048EC"
+msgid "Key to access Lily's Bedroom"
+msgstr ""
+
+msgctxt "/3B9DE2FA4777B5349A0DD488534B909F"
+msgid "Keycard needed to access the Prisoner's Cell"
+msgstr ""
+
+msgctxt "/46A7A23746903B97CBD38D83EE38827D"
+msgid "Keycard used to exit Level 07"
+msgstr ""
+
+msgctxt "/FBEDA664466D61673EAEF4A9CD041847"
+msgid "Killing"
+msgstr ""
+
+msgctxt "/D977C72B4E8C8646815ACF8749974515"
+msgid ""
+"Kissy's video plays \n"
+"when projector \n"
+"is powered"
+msgstr ""
+
+msgctxt "/3E22B0104F537F441A5776AB3C836D9E"
+msgid "L.P. Journal Entry"
+msgstr ""
+
+msgctxt "/58674DDC4935267661DFA389D330F8D9"
+msgid "L.P. Journal Entry"
+msgstr ""
+
+msgctxt "/B92E4D4E49D2A1203678C1B9F3A145B5"
+msgid "LANGUAGE"
+msgstr ""
+
+msgctxt "/0EADCBA540C922730B9026B18AC1142C"
+msgid "LEVEL"
+msgstr ""
+
+msgctxt "/54D9E58A4F862D2530F72898B124F1B1"
+msgid "LEVEL NAME"
+msgstr ""
+
+msgctxt "/92616DE344645A6A89C6B9BC74EDBEC9"
+msgid "LIVE LIKE WHAT YOU ARE"
+msgstr ""
+
+msgctxt "/000FB30F466D9E2D8E148A8A3D8372FE"
+msgid "LOAD GAME"
+msgstr ""
+
+msgctxt "/8FC4B084445F168470DAA690E045E19B"
+msgid "LOAD GAME"
+msgstr ""
+
+msgctxt "/F44AA1954E7062151A4E788E58F267A3"
+msgid "LOAD GAME"
+msgstr ""
+
+msgctxt "/F903908A46F90F44C89608ADA3982B04"
+msgid "LOADING"
+msgstr ""
+
+msgctxt "/4626A47143A97AA5222258ACA20CFF10"
+msgid "Lab Freight Elevator"
+msgstr ""
+
+msgctxt "/F9C89D344B0DFB84E760D686E61DED90"
+msgid "Lab Report: Medium Growth & Plantlife"
+msgstr ""
+
+msgctxt "/FA8170634A393BDF17B770A0028D9590"
+msgid "Lab Report: Medium Growth & Plantlife"
+msgstr ""
+
+msgctxt "/C1B917B34F71A003C92547BA7D02C00D"
+msgid "Label"
+msgstr ""
+
+msgctxt "/2188960D4D480510565D33B4D23320C6"
+msgid "Large"
+msgstr ""
+
+msgctxt "/76EACB214687C3126C420BAF19A793FD"
+msgid "Large"
+msgstr ""
+
+msgctxt "/A4D303C79CAA1901A55411D20D295E43"
+msgid "Launch Left Hand"
+msgstr ""
+
+msgctxt "/E604C1FE9CAA1901A55411D20D295E43"
+msgid "Launch Right Hand"
+msgstr ""
+
+msgctxt "/EF42D62E47839F1BCE4E96AA45ABC48F"
+msgid "LeftStick"
+msgstr ""
+
+msgctxt "/27EA0B93421F091830ABAAB9C15F7737"
+msgid ""
+"Leith has asked us to remove any Wrongside Outimals branding from our "
+"workspace (murals, cutouts, etc). Apparently, they focus-tested very poorly, "
+"and it’s been decided they won’t be going into production; the whole toy line "
+"is getting scrapped.\n"
+"\n"
+"I wouldn’t rush to do it, though. Remember, Leith made the same request about "
+"Daisy, and she’s still plastered all over the place.\n"
+msgstr ""
+
+msgctxt "/D893D87C4CDBFF40BFC27781EDCC1DF9"
+msgid ""
+"Leith,\n"
+"Given the… sensitive… nature of this subject, I suggest we make use of the "
+"neural mapper. We can run the process in parallel with normal procedure, "
+"having one of the resulting versions put to work, and the other stored "
+"somewhere for safe keeping. Hell, shove it in with the computer servers and "
+"call it a day, no need to be fancy about it.\n"
+"\n"
+"-Dr. White\n"
+"\n"
+"Do it. -LP"
+msgstr ""
+
+msgctxt "/F70B33F14D862FDB55E75AB3A7394A35"
+msgid ""
+"Leith,\n"
+"I’m pleased to say that one of my pet projects has had a breakthrough. During "
+"our latest attempt at neural mapping, we were able to successfully record and "
+"reconstruct brief subjective moments from our subject’s short-term "
+"memory.\n"
+"\n"
+"If we can scale this practice, it could give a whole new dimension to our "
+"work. \n"
+"\n"
+"Think about it; how many subjects can we realistically pull from Home Sweet "
+"Home? 30% 50%? I can hardly imagine this being sustainable in the long-term. "
+"If, however, we use the mapper, it could allow us to completely reconstruct a "
+"subject’s psyche based on prior imaging. We could do this as many times as "
+"needed, provided we have the proteins and lipids. That is to say, "
+"duplication. Were that the case, we’d never need to worry about a shortage of "
+"test candidates again.\n"
+"\n"
+"-Dr. Sawyer"
+msgstr ""
+
+msgctxt "/D29CEF4F44DF3ECDA6CA7E8F449A71D5"
+msgid "Lethal"
+msgstr ""
+
+msgctxt "/379B23744842BD790A1B4683B1181279"
+msgid "Letter To Leith #1"
+msgstr ""
+
+msgctxt "/0903E1F147C1D91D0E6E748666B1FF64"
+msgid "Letter To Leith #2"
+msgstr ""
+
+msgctxt "/01399FBF46952C79B021CCB127E6504A"
+msgid "Level_01_Profiler"
+msgstr ""
+
+msgctxt "/B796CB7748B9DF022B7148BE74D53977"
+msgid "Level_03_Profiler"
+msgstr ""
+
+msgctxt "/794E18444568A4278C8DD4BDB735EFA5"
+msgid "Level_04_Profiler"
+msgstr ""
+
+msgctxt "/7F3FB7CC44077667EB4253BE5F882536"
+msgid "Level_05_Profiler"
+msgstr ""
+
+msgctxt "/075915E143D262D89DF9FDA4B78180D8"
+msgid "Level_06_Profiler"
+msgstr ""
+
+msgctxt "/37E89E61453190AC69B02D936F33DBEB"
+msgid "Level_07_Profiler"
+msgstr ""
+
+msgctxt "/D16B6946429B1538BD92608C947371B9"
+msgid "Level_08_Profiler"
+msgstr ""
+
+msgctxt "/E477EEE2416BA275CC2812BEC1C51499"
+msgid "Level_09_Profiler"
+msgstr ""
+
+msgctxt "/D67B36A544CA22A5FD8293B3BC18A3F5"
+msgid "Level_10_Profiler"
+msgstr ""
+
+msgctxt "/A705F8CA44D6F4C35335349C71C5D5BE"
+msgid "Level_11_Profiler"
+msgstr ""
+
+msgctxt "/6B87FF57482E38BAB97BB5B31BE83EC5"
+msgid "Level_12_Profiler"
+msgstr ""
+
+msgctxt "/EE807AC84BB0616192651680C44D801C"
+msgid "Lily Journal"
+msgstr ""
+
+msgctxt "/FE75C59948B9FD356DB75A86CD6E7CA7"
+msgid "Lily Journal"
+msgstr ""
+
+msgctxt "/22C9A3D44C4ACD7D8BEA769438166330"
+msgid ""
+"Lily has been in continuous isolation for four hundred and ten days.\n"
+"She has been provided only the bare minimum of food, water, etc.\n"
+"\n"
+"She is:\n"
+"Childishly naive\n"
+"Wholly ignorant of her crimes\n"
+"\n"
+"I have moved her. The space is… needed.\n"
+"Know, however, that this changes nothing.\n"
+"She will not be allowed to join us.\n"
+"She will not be allowed a quick death.\n"
+"\n"
+"-Prototype\n"
+msgstr ""
+
+msgctxt "/B5089BEE40DC9F102056F292139DD287"
+msgid ""
+"Lily-Billy-Silly-Tilly\n"
+"\n"
+"Every day, a dance and a song are playing in my head, and only I know the "
+"steps. Only I know the tune.\n"
+"\n"
+"I sing and I dance, and I live like any good toy should. I want to share in "
+"it. To love like Ms. Gracie says to love. And yet, they all just scream and "
+"cry like horrible, wretched little things when they look at me. They look at "
+"me like I’M the bad toy. \n"
+"\n"
+"But, somehow, I know you don’t think that. You’d NEVER think that. You get "
+"me.\n"
+"\n"
+"Every day since I found you in the Pit tossed down like so much garbage, I’ve "
+"brushed your pretty hair, I’ve dressed you in pretty things, and I’ve given "
+"you pretty flowers… \n"
+"\n"
+"You’re more than just a friend to Silly-Lily. The sound of your voice is what "
+"I was born from, the voice I still hear singing when I feel so alone, and "
+"that’s special for both of us. In your own little ways, I think you tell me "
+"that you agree. \n"
+"\n"
+"I’m very glad you’re here to share this dance with me.\n"
+"\n"
+"-Silly-Lily"
+msgstr ""
+
+msgctxt "/23213C404D43B189720F0786E111E394"
+msgid "Limon! Limon!... Limon?... Limon?"
+msgstr ""
+
+msgctxt "/B6CC8FF34EC908704C6FE2B295E4C8F9"
+msgid "Limon! Limon!... Limon?... Limon?"
+msgstr ""
+
+msgctxt "/5D975EB54ACAB746A2B2D39B845D8B2F"
+msgid "Load Game"
+msgstr ""
+
+msgctxt "/79872CA74167DBCFD1204292BAE673D9"
+msgid "Load Game"
+msgstr ""
+
+msgctxt "/B4C8822742633D99186A2C8678D26AE7"
+msgid "Load Game"
+msgstr ""
+
+msgctxt "/AA393B1F9CAA1901A55411D20D295E43"
+msgid "Load Save Game"
+msgstr ""
+
+msgctxt "/B3467ABA43FAF345A84E849293695845"
+msgid "Loading..."
+msgstr ""
+
+msgctxt "/2B0617534D16A96DF8B4428B08EBD2CA"
+msgid "Look"
+msgstr ""
+
+msgctxt "/54680B0C41B04F26599655A9D602BF1B"
+msgid "Loop"
+msgstr ""
+
+msgctxt "/5D6CDE3440FCB3480F15F9A9654C53A4"
+msgid ""
+"Loopsy Noodle can’t sit still for even a second and will happily sniff "
+"anything they find—no matter what it is."
+msgstr ""
+
+msgctxt "/566834B5429593845E0CFFB6EF8C88DB"
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vestibulum "
+"fringilla ullamcorper. In pretium urna non laoreet placerat. Suspendisse "
+"potenti. Duis interdum ipsum eget enim malesuada ornare. Fusce cursus dictum "
+"diam eget euismod. Nulla ac metus aliquam, tincidunt ante non, pulvinar arcu. "
+"Donec vel pretium ipsum. Sed hendrerit consequat urna, vel rutrum quam mollis "
+"a. Vivamus scelerisque ullamcorper nunc a scelerisque. Mauris eu placerat "
+"metus."
+msgstr ""
+
+msgctxt "/057F9D474E8039B4D9EE8693A0FC1000"
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vestibulum "
+"fringilla ullamcorper. In pretium urna non laoreet placerat. Suspendisse "
+"potenti. Duis interdum ipsum eget enim malesuada ornare. Fusce cursus dictum "
+"diam eget euismod. Nulla ac metus aliquam, tincidunt ante non, pulvinar arcu. "
+"Donec vel pretium ipsum. Sed hendrerit consequat urna, vel rutrum quam mollis "
+"a. Vivamus scelerisque ullamcorper nunc a scelerisque. Mauris eu placerat "
+"metus.\n"
+"\n"
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vestibulum "
+"fringilla ullamcorper. In pretium urna non laoreet placerat. Suspendisse "
+"potenti. Duis interdum ipsum eget enim malesuada ornare. Fusce cursus dictum "
+"diam eget euismod. Nulla ac metus aliquam, tincidunt ante non, pulvinar arcu. "
+"Donec vel pretium ipsum. Sed hendrerit consequat urna, vel rutrum quam mollis "
+"a. Vivamus scelerisque ullamcorper nunc a scelerisque. Mauris eu placerat "
+"metus."
+msgstr ""
+
+msgctxt "/D13842A34F5C0BD755D123AFA531D25C"
+msgid "Low"
+msgstr ""
+
+msgctxt "/4761019B4C8D66FD0872F48B13B5F0CC"
+msgid "MAIN MENU"
+msgstr ""
+
+msgctxt "/7615328F4632E904139163A1CD2F62D2"
+msgid "MAIN OBJECTIVES"
+msgstr ""
+
+msgctxt "/27A4852C4601BB6AF269B8B92B72582C"
+msgid ""
+"MASTER BACKUP?\n"
+"\n"
+"Data archive. Stores a wealth of information:\n"
+"Procedures, methods, us, myself.\n"
+"Our strengths. Our flaws.\n"
+"Backup version is identical to the working version (unclear which is "
+"original, or if it matters)\n"
+"Too valuable to erase. Need to keep as leverage.\n"
+"\n"
+"KEEP STORED IN DATA CENTER, JUST IN CASE."
+msgstr ""
+
+msgctxt "/9F1F47A744BEF5EE62E74AAFD402BC96"
+msgid ""
+"Managerial Note: All first-time employees, please follow these procedures "
+"absolutely to the letter. Our work is both sensitive and vital to the success "
+"of the operation. Please, follow these instructions to the letter.\n"
+"\n"
+"STEP #1: Ensure cleanliness from decontamination (Specimens mustn’t be "
+"infected with outside contaminants.)\n"
+"\n"
+"STEP #2: Wear ALL required hazmat hardware. \n"
+"\n"
+"STEP #3: Acquire specimens \n"
+"\n"
+"STEP #4: Clean specimens (Ensure blood, stains, debris, teeth, etc., are all "
+"removed from the specimen.)\n"
+"\n"
+"STEP #5: Using proper tools, carefully remove the specimen’s skin, being "
+"cautious not to damage valuable tissue beneath. (When necessary, use the de-"
+"threader.)\n"
+"\n"
+"STEP #6: Distill the specimen (Warning: This is the messiest stage of the "
+"process.)\n"
+"\n"
+"STEP #7: Collect extracted Poppy Gel in specialized containers. (If we’re out "
+"of containers, please let me know.)\n"
+"\n"
+"STEP #8: Dispose of the remnants in the Boilers.\n"
+"\n"
+"(Hand-written) My Advice– Use the term “specimens” when referring to your "
+"work. Believe me, you’ll sleep a lot easier if you do.\n"
+"\n"
+"Sincerely,\n"
+"North Geisler \n"
+"Lead Mortician"
+msgstr ""
+
+msgctxt "/CCB46CC842BD4A31A3DABD9A9C8AE908"
+msgid "Map"
+msgstr ""
+
+msgctxt "/783AF890460DD454EDFADFA9A2BE3A2C"
+msgid "Master Backup?"
+msgstr ""
+
+msgctxt "/CC3910D8415B4566CDD5E1A8614BBAB6"
+msgid "Master Backup?"
+msgstr ""
+
+msgctxt "/94D392E8412CCE5CBD83B09154C39319"
+msgid "Medical Report: Edward M.N. Ritterman"
+msgstr ""
+
+msgctxt "/9B3B83A54636EEC786A122A377779380"
+msgid "Medical Report: Edward M.N. Ritterman"
+msgstr ""
+
+msgctxt "/3BA9939E44684E25E622DC8CD0F0F034"
+msgid "Medium"
+msgstr ""
+
+msgctxt "/67E92A554E1A9924D8FA6FA765ADF8EA"
+msgid "Medium"
+msgstr ""
+
+msgctxt "/E92440CF4BF25640BBD70293144BA1A0"
+msgid "Medium"
+msgstr ""
+
+msgctxt "/A2F1D4A74E943EF628A0E39DF632A1AA"
+msgid "Meet Chum & Giblet in Engineering"
+msgstr ""
+
+msgctxt "/40F171FF4B4367013460119276FC3F67"
+msgid "Memory One Drive"
+msgstr ""
+
+msgctxt "/3A43AA954B3DCA529C0AEE9A67DDBF94"
+msgid "Memory Three Drive"
+msgstr ""
+
+msgctxt "/FDC5CD2A4179DAE498E211AD4FB45C42"
+msgid "Memory Two Drive"
+msgstr ""
+
+msgctxt "/D7B71FA641079199569737B77075BC4E"
+msgid "Menu"
+msgstr ""
+
+msgctxt "/38F1321D46F2AA5D2160DAAAAFA24BC1"
+msgid "Mmm! MMmmm! Mmm."
+msgstr ""
+
+msgctxt "/8189AC0E4BE6DCE45AFB39A6141CA682"
+msgid "Modular Console System Interface v1.03"
+msgstr ""
+
+msgctxt "/93B3FBED4D55B3E876594F91B75BF258"
+msgid "More bad toys for the toy box!"
+msgstr ""
+
+msgctxt "/8DF4AE014660E5E4443AAA9350ECFA71"
+msgid "Move"
+msgstr ""
+
+msgctxt "/1F6CEFFE4D4004BD186EA88EE5FBF3BF"
+msgid "Move Around"
+msgstr ""
+
+msgctxt "/9442E6FC91D7BBCFA55411D20D295E43"
+msgid "Move Backwards"
+msgstr ""
+
+msgctxt "/9442E6FC4E64F946A55411D20D295E43"
+msgid "Move Forward"
+msgstr ""
+
+msgctxt "/9442E6FC0005EC05A55411D20D295E43"
+msgid "Move Left"
+msgstr ""
+
+msgctxt "/9442E6FC414ADEE4A55411D20D295E43"
+msgid "Move Right"
+msgstr ""
+
+msgctxt "/C9A7AE524CFDE0C30685D9AFAB9C47A0"
+msgid "Ms. Gracie's Playtime ID"
+msgstr ""
+
+msgctxt "/814D0E1745CF9CD4897E5F9A4241C739"
+msgid "Music Sheet - Expert"
+msgstr ""
+
+msgctxt "/A2CA9AE64C7F72CE89693F908198415B"
+msgid "Music Sheet - Expert"
+msgstr ""
+
+msgctxt "/A86441F1478B92EADFF8D88EFB8D2722"
+msgid "Music Sheet - Expert"
+msgstr ""
+
+msgctxt "/B3BF8B6C458E600F7AA98899749CEAB3"
+msgid "Music Sheet - Expert"
+msgstr ""
+
+msgctxt "/B49F1C17450CA8CAB9794AA9D72B53D0"
+msgid "Music Sheet - Expert"
+msgstr ""
+
+msgctxt "/F782D0014C293025CDB330A76818C5C6"
+msgid "Music Sheet - Expert"
+msgstr ""
+
+msgctxt "/406D3D1646E4D89F995180B1EEE0A9F7"
+msgid "Music Sheet - Novice"
+msgstr ""
+
+msgctxt "/6D23C5C4445D2A5FBC56B08783F38F46"
+msgid "Music Sheet - Novice"
+msgstr ""
+
+msgctxt "/58BE5AD6442C272AF78B03BF4E7B37F2"
+msgid "My kingdom is forever. "
+msgstr ""
+
+msgctxt "/0C438E2E4A91A3CD993414A1809F3B38"
+msgid "My very special friend..."
+msgstr ""
+
+msgctxt "/41CA427845D75491C41C71B6532C96E8"
+msgid "Mysterious tape"
+msgstr ""
+
+msgctxt "/8D54AB144A4A97D56386D1B248EFCB0A"
+msgid "NEW GAME"
+msgstr ""
+
+msgctxt "/5E48F3DE402DEF62093FC7AEF74B95A4"
+msgid "NEW OBJECTIVE"
+msgstr ""
+
+msgctxt "/B8614D174EEF391D0C3A6DBBFDAF2AFA"
+msgid "NEW OBJECTIVE"
+msgstr ""
+
+msgctxt "/58F95367406EAF46342DEF8250737933"
+msgid "NO ITEMS OBTAINED"
+msgstr ""
+
+msgctxt "/324E71444B0EE73FE481A6BB315B91A3"
+msgid "NO OBJECTIVE"
+msgstr ""
+
+msgctxt "/C99002634638FF7FE1114BBC4DCF345B"
+msgid "NO POWER"
+msgstr ""
+
+msgctxt "/140442194D22931D270408A1C22EBD08"
+msgid "NOBODY LEAVES"
+msgstr ""
+
+msgctxt "/DEAAC581451F78085D5BC8AF9F7526C2"
+msgid "NOT BOUND"
+msgstr ""
+
+msgctxt "/F1FA30E14AC28827AC1759A40BEDAEF9"
+msgid "NOTES"
+msgstr ""
+
+msgctxt "/FA050EE24D4D1A0AC4D7C0A2A31B3D18"
+msgid "NOTES"
+msgstr ""
+
+msgctxt "/B26EAB5B4712A4B20098DCADE9B057B3"
+msgid "Name"
+msgstr ""
+
+msgctxt "/AE36B9BF4AF6A41E27405181DB4F149D"
+msgid "Navigate the Crushers"
+msgstr ""
+
+msgctxt "/BFA932294FCCA865F01F9B907C0BECAD"
+msgid "Navigate through the Engineering Wing"
+msgstr ""
+
+msgctxt "/936BC323453E10D9A6B1E5B7A5498A07"
+msgid "Negation Compound Presentation (1 of 6)"
+msgstr ""
+
+msgctxt "/A26BF9214C8B89DDE0BF899CA401AB4A"
+msgid "Negation Compound Presentation (1 of 6)"
+msgstr ""
+
+msgctxt "/824406544B17BCB2A8390989AAC2B1C0"
+msgid "Negation Compound Presentation (2 of 6)"
+msgstr ""
+
+msgctxt "/931A49B14AF46790C10C449FB3AFCFFB"
+msgid "Negation Compound Presentation (2 of 6)"
+msgstr ""
+
+msgctxt "/0AE56923498250C707E640A806A07304"
+msgid "Negation Compound Presentation (3 of 6)"
+msgstr ""
+
+msgctxt "/F6522C654DC1AAFF58B6498E08E6DF6A"
+msgid "Negation Compound Presentation (3 of 6)"
+msgstr ""
+
+msgctxt "/396B8E584580341A22F5BBA81550A5B7"
+msgid "Negation Compound Presentation (4 of 6)"
+msgstr ""
+
+msgctxt "/51AFFEF24731A2E846851CBD1B774415"
+msgid "Negation Compound Presentation (4 of 6)"
+msgstr ""
+
+msgctxt "/1357F02240750009C26428A2E43A83F1"
+msgid "Negation Compound Presentation (5 of 6)"
+msgstr ""
+
+msgctxt "/BE217FB0469ED286890FDDA606BFD907"
+msgid "Negation Compound Presentation (5 of 6)"
+msgstr ""
+
+msgctxt "/5890A8A344AB148FA9811F8D5BC4DE46"
+msgid "Negation Compound Presentation (6 of 6)"
+msgstr ""
+
+msgctxt "/72692B484F95CC054A95C2BCA0CD8AFF"
+msgid "Negation Compound Presentation (6 of 6)"
+msgstr ""
+
+msgctxt "/955CA10E4B9CB1FAA4E0C18E2C59319B"
+msgid "Negation Formula Key Report tape"
+msgstr ""
+
+msgctxt "/728B769E4247CDFA44E5DDB72F36EF82"
+msgid "Next"
+msgstr ""
+
+msgctxt "/6E41E7F44B9A4957902638ACA7D8AB61"
+msgid "Next Sub Tab"
+msgstr ""
+
+msgctxt "/966744C3444A0FCFF62C0089B24DEC2E"
+msgid "Next Tab"
+msgstr ""
+
+msgctxt "/03CFEF6445A3A6A51510E0A4A484843A"
+msgid "None"
+msgstr ""
+
+msgctxt "/135F72DA407A7120FE59BCAAB32EB82C"
+msgid "None"
+msgstr ""
+
+msgctxt "/551202E041B17F636E2FBBAD5B5F1DCB"
+msgid "None"
+msgstr ""
+
+msgctxt "/2B0B1E1B469F779D3F8210B8995D7E41"
+msgid "Nonlethal"
+msgstr ""
+
+msgctxt "/B400740344A180B32F5BD28409FD9254"
+msgid ""
+"Note describing a \"Backup\" containing The Negation Compound -- key to "
+"stopping the Prototype."
+msgstr ""
+
+msgctxt "/8BF6AC874B5FC53C7F001C81D53E2B8E"
+msgid "Nursery Damage"
+msgstr ""
+
+msgctxt "/937A2B45469138DE800285A8D8C5DF6F"
+msgid "Nursery Damage"
+msgstr ""
+
+msgctxt "/8F24BEE145D3D40B04A41EA3263FD84A"
+msgid "OBJECTIVE UPDATED"
+msgstr ""
+
+msgctxt "/A280B29F4F6ED3C333802BB1F358E4D8"
+msgid "OBJECTIVE UPDATED"
+msgstr ""
+
+msgctxt "/3A5CC77E490073571FB8D9AF759393D6"
+msgid "ONLINE"
+msgstr ""
+
+msgctxt "/3384996147BF057ACE78E9ACE794649B"
+msgid "Observation Log: Sweet Street"
+msgstr ""
+
+msgctxt "/B8811D954055A7E78543D4B9967B972D"
+msgid "Observation Log: Sweet Street"
+msgstr ""
+
+msgctxt "/CEE3C962407223AA75D87B81C87C3E2A"
+msgid "Observation: Lily"
+msgstr ""
+
+msgctxt "/F9D0EB3F4C695A812B7B259A05063537"
+msgid "Observation: Lily"
+msgstr ""
+
+msgctxt "/BE328B314A327DF67FC469A3AE0EFC79"
+msgid "Observations of progress..."
+msgstr ""
+
+msgctxt "/F625DA844E262305990156AB3E934606"
+msgid "Oh no, is someone in your spot, Huggy?"
+msgstr ""
+
+msgctxt "/6E99EFD945C9B374F9E88E8D8B2C329D"
+msgid "Oh where, oh where has Gentle John gone..."
+msgstr ""
+
+msgctxt "/A364F64F471F62849EAE6BA8B47F63A2"
+msgid "Ok"
+msgstr ""
+
+msgctxt "/536820DF41FE7757F5C779AFE74745CA"
+msgid "Omni Hand"
+msgstr ""
+
+msgctxt "/79755DAD4CC48DBB0E429ABB46F063C1"
+msgid ""
+"Once discovered on the body of a guard in the Prison, a Red Hand allows "
+"access to higher security areas in the factory."
+msgstr ""
+
+msgctxt "/AE1A29E04066A7D927FE299EBC2E7317"
+msgid ""
+"Once found in the Security Room on the 1st Floor, a Blue Hand allows for "
+"basic employee access and manueverability."
+msgstr ""
+
+msgctxt "/E8BFCEA24D2CAE674BFEBC8E523AB786"
+msgid "One final message going nowhere at all..."
+msgstr ""
+
+msgctxt "/CBF57D6D42D7279AA1468780DC237A77"
+msgid "Open"
+msgstr ""
+
+msgctxt "/42CA4E1E45DF00A803F3EA9FF1F9B999"
+msgid "Open Exit to Reanimation"
+msgstr ""
+
+msgctxt "/06CCAFAE9CAA1901A55411D20D295E43"
+msgid "Open Hand-Radial Wheel"
+msgstr ""
+
+msgctxt "/6E74C0DE478EF1E0EFFB0AB2DF17B274"
+msgid "Or is this it?"
+msgstr ""
+
+msgctxt "/282D0B244B46678B51E17B8178CFDAE2"
+msgid ""
+"Originally found in the Gas Production Zone of Playcare, a Purple Hand allows "
+"for vertical movement via select “Jump Pads”."
+msgstr ""
+
+msgctxt "/EB85602B45EB919B37F9E2B6D9B58042"
+msgid ""
+"Originally found in the Playcare School, a Flare Hand allows for basic "
+"defensive abilities and the illumination of dark spaces."
+msgstr ""
+
+msgctxt "/EC7FC01243473DC8C12B3D9B24BA802B"
+msgid "Other"
+msgstr ""
+
+msgctxt "/9D5AD46D4575D04212FE1F891D797712"
+msgid "Outimal Branding Note"
+msgstr ""
+
+msgctxt "/0D7D94C74F396DC46ACE4490594E008A"
+msgid "Outimal Note"
+msgstr ""
+
+msgctxt "/8C75F8E641A573CEB4495DA8B1BA7069"
+msgid ""
+"Override \n"
+"Required"
+msgstr ""
+
+msgctxt "/46CF16AA441E0C546C18D483A78802C5"
+msgid "PAUSED"
+msgstr ""
+
+msgctxt "/5F6959A94D3C5527FA54969E32D3D0D2"
+msgid "PLAY"
+msgstr ""
+
+msgctxt "/B59A0E9E4626C3B2F56AD89D9A3A23AB"
+msgid "PLAY"
+msgstr ""
+
+msgctxt "/DD06D9434A1E8B162FF944BCEB903329"
+msgid "PLAYTIME"
+msgstr ""
+
+msgctxt "/D7161E754C6BA97D68D4BDA64D379AA8"
+msgid "POWER STATE"
+msgstr ""
+
+msgctxt "/EFF4CBEC4CA10BFBA90F9EA901704C7F"
+msgid "POWER STATE"
+msgstr ""
+
+msgctxt "/76E9E9BF4072A6FD0F1FDDACE1B57724"
+msgid "PRECOMPILING SHADERS"
+msgstr ""
+
+msgctxt "/13FA6F6E422B793A858AF696869CFC61"
+msgid "PROGRESS"
+msgstr ""
+
+msgctxt "/525B590249D49569B96444A0A5A1B87B"
+msgid "PUMP"
+msgstr ""
+
+msgctxt "/5BAB23B54355A4DA6CF4BCB5D3CBC9AB"
+msgid ""
+"Patient Information\n"
+"\n"
+"Name: Eddie M.N. Ritterman\n"
+"DOB: 03/06/1946\n"
+"MRN: 9852761\n"
+"Sex: Male\n"
+"Dx Date: 1968\n"
+"Attending Physician: Dr. Michaels\n"
+"Date of Visit: 11/15/1994\n"
+"\n"
+"\n"
+"SUBJECTIVE:\n"
+"Patient reports increasing difficulty with ambulation. States a growing "
+"weakness in the quadriceps and grip strength. Denies any notable falls, but "
+"details “near falls” as a daily occurrence. Patient believes he is "
+"experiencing a more rapid physical deterioration. Mild dysarthria noted. "
+"Tongue fasciculations observed.\n"
+"\n"
+"\n"
+"OBJECTIVE:\n"
+"- Vitals WNL\n"
+"\n"
+"- Notable atrophy of the bilateral quadriceps\n"
+"\n"
+"- Hand grip strength: decreased vs. prior visit\n"
+"\n"
+"- Gait: slow, unsteady, requires an assistive device\n"
+"\n"
+"- No signs of acute distress otherwise\n"
+"\n"
+"\n"
+"ASSESSMENT:\n"
+"Dx: Spinal and bulbar muscular atrophy (Kennedy’s Disease)--progressive, "
+"degenerative myopathy. Disease progression consistent with expectations. "
+"Increased weakness likely due to natural progression.\n"
+"\n"
+"\n"
+"PLAN:\n"
+"- Continue supportive care: PT, OT as tolerated\n"
+"\n"
+"- Reinforce fall precautions\n"
+"\n"
+"- Refill prescriptions for pain medication.\n"
+"\n"
+"\n"
+"NOTES:\n"
+"Remember to maintain positivity!\n"
+msgstr ""
+
+msgctxt "/5F5C1E9349DDDB772B0E7AA693F5EBB2"
+msgid "Patrol"
+msgstr ""
+
+msgctxt "/BF4D6A1B4AE0F5A68E893E9CE6358280"
+msgid "Pause"
+msgstr ""
+
+msgctxt "/2C37969B9CAA1901A55411D20D295E43"
+msgid "Pause Game"
+msgstr ""
+
+msgctxt "/B4A8AA5F404DA72865AAC1B028248A29"
+msgid "PauseIcon"
+msgstr ""
+
+msgctxt "/D38B2CDD41ABAB36AE9BCA8B9958CBE3"
+msgid "Phase"
+msgstr ""
+
+msgctxt "/72ACC6304BB1BD2EA77A2E86371BE316"
+msgid "Phone"
+msgstr ""
+
+msgctxt "/9C5F95E142C49D01759C618F3355F0B4"
+msgid "Pierre/Ritterman, August '95"
+msgstr ""
+
+msgctxt "/B27957DD4AD439455EA9A38D0821A7F5"
+msgid "Pivoting"
+msgstr ""
+
+msgctxt "/3814AD934F7E05C78F536D812EF441F8"
+msgid "Plans for hair that moves with a mind of its own."
+msgstr ""
+
+msgctxt "/B028E7F44FD794F7D6AA72A3FC5A2C95"
+msgid "Play"
+msgstr ""
+
+msgctxt "/A7BAD89D4D9A4FCBBEA79D8AC3328628"
+msgid "Play Lily's Game"
+msgstr ""
+
+msgctxt "/697A14AD49DAEB8083AA449FBF7A1996"
+msgid "Play/Stop Audio"
+msgstr ""
+
+msgctxt "/ACD86B2C4B48F665C36EBBB13BE2F7A0"
+msgid "Play/Stop Audio"
+msgstr ""
+
+msgctxt "/D684C0754DF4976BBE3C91B2DE36827D"
+msgid "PlayIcon"
+msgstr ""
+
+msgctxt "/52C5A3E544A726B1A473EFAD6FDCE4FE"
+msgid "Please help us please help us please help us please---"
+msgstr ""
+
+msgctxt "/703193524148BF5DF34DCCA5CBB2ADFE"
+msgid ""
+"Please wait for the process to complete.\n"
+"Depending on your hardware this may take a few minutes."
+msgstr ""
+
+msgctxt "/DC7EFE1348DA819340662AB47E14C3AE"
+msgid "Prepare for the Tea Party"
+msgstr ""
+
+msgctxt "/8D120DB4424DC78A49E3B184BC01EE35"
+msgid ""
+"Press <input id=\"/PoppyCore/Inputs/Actions/IA_Blacklight.IA_Blacklight\"></> "
+"for Blacklight"
+msgstr ""
+
+msgctxt "/E7737B0E4D5C27100143E39FCB117169"
+msgid ""
+"Press <input id=\"/PoppyCore/Inputs/Actions/IA_Crouch.IA_Crouch\"></> to "
+"Crouch"
+msgstr ""
+
+msgctxt "/6336A7F44E57645ED5CA829EB97CFC19"
+msgid ""
+"Press <input id=\"/PoppyCore/Inputs/Actions/IA_Flashlight.IA_Flashlight\"></> "
+"for Flashlight"
+msgstr ""
+
+msgctxt "/61ECF9FF4D5073A876ABC18170F84CC8"
+msgid ""
+"Press <input id=\"/PoppyCore/Inputs/Actions/IA_Flashlight.IA_Flashlight\"></> "
+"to activate your flashlight"
+msgstr ""
+
+msgctxt "/CF0B170C4488A6FC206601BB1BB4ED9C"
+msgid ""
+"Press <input id=\"/PoppyCore/Inputs/Actions/IA_Interact.IA_Interact\"></> to "
+"Interact"
+msgstr ""
+
+msgctxt "/A49FF43844471462A316A2B56C0074C3"
+msgid ""
+"Press <input id=\"/PoppyCore/Inputs/Actions/IA_Jump.IA_Jump\"></> to Jump"
+msgstr ""
+
+msgctxt "/9B05B1B847EFB1DD519DB88500CA36D0"
+msgid ""
+"Press <input id=\"/PoppyCore/Inputs/Actions/IA_Sprint.IA_Sprint\"></> to "
+"Sprint"
+msgstr ""
+
+msgctxt "/AD1AD5A040801971D009FD961FA6BBF2"
+msgid "Press Any Button"
+msgstr ""
+
+msgctxt "/39B88A2D493C239DA08D6C8AF874A9F7"
+msgid ""
+"Press Any Key\n"
+" to Activate"
+msgstr ""
+
+msgctxt "/0AB3B3D347D4C03275C8509BAF7A1540"
+msgid "Press Any Key To Wake"
+msgstr ""
+
+msgctxt "/384A17504D2893A9159353AE9FD6EB02"
+msgid ""
+"Press and hold <input "
+"id=\"/PoppyCore/Inputs/Actions/IA_Grab_Pack_Ability_Left.IA_Grab_Pack_Ability_"
+"Left\"></> or <input "
+"id=\"/PoppyCore/Inputs/Actions/IA_Grab_Pack_Ability_Right.IA_Grab_Pack_Ability"
+"_Right\"></> to Grapple to Magnetic Panels <img id=\"Magnet\"/>"
+msgstr ""
+
+msgctxt "/8FC9A52743B45BFA573B0B963D70B05B"
+msgid ""
+"Press and hold <input "
+"id=\"/PoppyCore/Inputs/Actions/IA_Grab_Pack_Ability_Left.IA_Grab_Pack_Ability_"
+"Left\"></> or <input "
+"id=\"/PoppyCore/Inputs/Actions/IA_Grab_Pack_Ability_Right.IA_Grab_Pack_Ability"
+"_Right\"></> to drag the object."
+msgstr ""
+
+msgctxt "/394C53904430DB752CA8D7A586F07A90"
+msgid ""
+"Press and hold <input "
+"id=\"/PoppyCore/Inputs/Actions/IA_Grab_Pack_Ability_Left.IA_Grab_Pack_Ability_"
+"Left\"></> to Swing from Grab Handles while the hand is attached"
+msgstr ""
+
+msgctxt "/6FC69B314FE8C432E8DE11BDE486A745"
+msgid ""
+"Press and hold <input "
+"id=\"/PoppyCore/Inputs/Actions/IA_Grab_Pack_Ability_Right.IA_Grab_Pack_Ability"
+"_Right\"></> to bend damaged structures"
+msgstr ""
+
+msgctxt "/8DAF1E2F4D7A7BBBD210BEADB4445614"
+msgid "Press space to skip"
+msgstr ""
+
+msgctxt "/7F4290DE02B87FA8F8C50D960D295E43"
+msgid "Pressurized Hand"
+msgstr ""
+
+msgctxt "/B57F24BD4E22F141081613BFE75AAD2C"
+msgid "Pretty things, all my pretty things..."
+msgstr ""
+
+msgctxt "/276329174615002CEEC8D3AB3B4B2A07"
+msgid "Previous"
+msgstr ""
+
+msgctxt "/C9880F2240D0991B7E085D8FB0F4E829"
+msgid "Previous Sub Tab"
+msgstr ""
+
+msgctxt "/3646B66F4AE1F1BB44AC3AB6742E02FB"
+msgid "Previous Tab"
+msgstr ""
+
+msgctxt "/52BF6893470BD5CDA8621C88A1B7F567"
+msgid "Progress"
+msgstr ""
+
+msgctxt "/A7F2D907415929E4712A56A62CF4F0D9"
+msgid "Progress"
+msgstr ""
+
+msgctxt "/167EF8404AF2E061F650A196EAAD5FE5"
+msgid "Progress is made, and maximum obedience is now ensured..."
+msgstr ""
+
+msgctxt "/B99198334D78909E3DCFC0A5E13851E5"
+msgid "Prompt"
+msgstr ""
+
+msgctxt "/022F38C74DFEEC7EDA5260B206BF14A3"
+msgid "Provide Power for Chum"
+msgstr ""
+
+msgctxt "/1B312A1E4D4F62F91A356BB827D60C15"
+msgid ""
+"Pumpkin (and I guess you too, David, haha)\n"
+"\n"
+"Hey you! Sending my love from a particular toy factory out West! (Still "
+"INSANELY weird to say out loud). Missing you both like crazy right now. And I "
+"know, I know, it’s only been a couple of weeks, but still. Anyways, I told "
+"you I’d give you an update on the kind of people I’m meeting here in the "
+"Lab…\n"
+"\n"
+"Some of the scientists here are super quiet, keeping mostly to themselves. "
+"They love the work–just not the people. Some are kind, but they almost feel a "
+"little sad when you talk to them. I can’t exactly say why. And others are… "
+"well, let’s say they’re not the type I wanted to see here.\n"
+"\n"
+"There’s this initial group of scientists that everyone else is built around. "
+"The “Brain Trust.” I’m told these people were from some relic program in the "
+"60s called “The Young Geniuses Program.” The head of THEM is a guy named "
+"Harley Sawyer. You guys would hate him. He’s the type to let others break "
+"their backs lifting hay and then congratulate himself on the good work he "
+"did.\n"
+"\n"
+"I know the offer was a strange one. And David, I know you’re worried about me "
+"(you don’t even need to say it, you’ve just ALWAYS been like that). But I "
+"really believe in this. Playtime sold me a vision that means something. Maybe "
+"even everything. It’s not enough for me to just patent a thing and make a bit "
+"of money off it, then retire somewhere to teach it in a class where nobody "
+"really cares about what you’ve dedicated your life to. I need what I do to be "
+"more than that. \n"
+"\n"
+"Julie, I want you to be proud to have a Mommy like me. And I swear, I’m going "
+"to do just that. Promise to be home for your 9th birthday!\n"
+"\n"
+"Love,\n"
+"Dr. Chloe Arkins\n"
+msgstr ""
+
+msgctxt "/3729C05043AEDCADB167C2865EC938F8"
+msgid ""
+"Pumpkin,\n"
+"\n"
+"I wanted to write this out, knowing full well that none of my letters have "
+"made it to you, and that I’m writing these now more for myself than you. "
+"\n"
+"\n"
+"It’s no secret that I’ve been struggling with all of this. I’ve tried talking "
+"to people here, and they’ve given me a lot to think on. The end goal of this "
+"project is a grand, beautiful thing: \n"
+"“To put an end to death.” If I can be a part of that and get it right, it "
+"would mean giving something truly monumental to the world.\n"
+"\n"
+" I mean, imagine kids everywhere not having to fear getting older, their "
+"bodies giving way to age or disease. There’s no vision more grand than that. "
+"But, really, the world for me is you. You and your father. When I explained "
+"death to you after your grandpapa died, I remember your tears. You were sad, "
+"I know. But more than that, you were scared. It hit you then that life has to "
+"end, and that all that fun and joy doesn’t last forever. There was nothing I "
+"could say to you to make that kind of pain go away. When I got the offer, "
+"this was all I could think of–and why I accepted. \n"
+"\n"
+"To me, what I’m doing here is my sacrifice for you. I’ve had to give a lot of "
+"myself up for this project. Do things I never thought I’d be capable of "
+"doing. I can’t honestly say I’m any kind of good person anymore. Hell, I’m a "
+"monster. \n"
+"\n"
+"But if the world I give you is one where you need never fear an end, then I "
+"HAVE to make myself believe it was all worth it.\n"
+"\n"
+"“Start by doing good at a smaller scale. Make that your world.”  \n"
+"\n"
+"Well, I’m gonna do good by that world, Pumpkin. I’m gonna do good by you, no "
+"matter the bad that puts in me.\n"
+"\n"
+"Love, Forever and Always,\n"
+"Dr. Chloe Arkins\n"
+msgstr ""
+
+msgctxt "/CC25AE2A02B87FA8F8C50D960D295E43"
+msgid "Purple Hand"
+msgstr ""
+
+msgctxt "/496DDD414774BA3E6EFB3C8AC2617F92"
+msgid "Puzzle Event Timer"
+msgstr ""
+
+msgctxt "/4B8B0BA243D9C018BC432CB92F20A4DC"
+msgid "Puzzle Event Timer"
+msgstr ""
+
+msgctxt "/A7B8155B43945C67D8A73DB7DCC98AB9"
+msgid "QUIT"
+msgstr ""
+
+msgctxt "/61BE8AA442751CD9A65C3EA31D075D0D"
+msgid "QUIT GAME"
+msgstr ""
+
+msgctxt "/BA0B7F9143E80360FEAB53B602B4AABF"
+msgid "QUIT TO DESKTOP"
+msgstr ""
+
+msgctxt "/E6A927C24718A876CE6AB4AE643D5822"
+msgid "QUIT TO MAIN MENU"
+msgstr ""
+
+msgctxt "/8BCC924A444EC942A3D55AAD40C6ABFE"
+msgid "Quest"
+msgstr ""
+
+msgctxt "/B1E024C842264D45E03E2C9BEE133A1B"
+msgid "QuestionMark"
+msgstr ""
+
+msgctxt "/E7A0C826426F485139284B8F381D74EF"
+msgid "Quick Drop"
+msgstr ""
+
+msgctxt "/7E5348464A601E4AFED6E384B22CB43B"
+msgid "Quick Drop All Items"
+msgstr ""
+
+msgctxt "/867B8DD2409076BFE6EC4193B6CD6574"
+msgid "Quick Hand Swap"
+msgstr ""
+
+msgctxt "/36A3206B9CAA1901A55411D20D295E43"
+msgid "Quick Swap Hand 1"
+msgstr ""
+
+msgctxt "/678AB0E39CAA1901A55411D20D295E43"
+msgid "Quick Swap Hand 2"
+msgstr ""
+
+msgctxt "/CF4CA8909CAA1901A55411D20D295E43"
+msgid "Quick Swap Hand 3"
+msgstr ""
+
+msgctxt "/ECB883989CAA1901A55411D20D295E43"
+msgid "Quick Swap Hand Next"
+msgstr ""
+
+msgctxt "/2C450B0C9CAA1901A55411D20D295E43"
+msgid "Quick Swap Hand Previous"
+msgstr ""
+
+msgctxt "/60D8385942F203DCBD185BB8806D34AD"
+msgid "READY"
+msgstr ""
+
+msgctxt "/7DB37A4345824C20FE6382BCE495F442"
+msgid ""
+"RESEARCH FINDINGS\n"
+"Legacy Subjects (1006, 1007)\n"
+"\n"
+"GOLD LEVEL AUTHORIZED PERSONNEL ONLY. SENSITIVE INFORMATION AHEAD"
+msgstr ""
+
+msgctxt "/BAB35BD641F217549988CE9717886E6F"
+msgid "RESET POSITION"
+msgstr ""
+
+msgctxt "/09BC10C146B0049F5720E18596089128"
+msgid "RESTART CHECKPOINT"
+msgstr ""
+
+msgctxt "/E0A69E9644A217EA325013BF55BBF52C"
+msgid "RESTART CHECKPOINT"
+msgstr ""
+
+msgctxt "/0D89219043E42DC4EDA044949540871D"
+msgid "RESTORE DEFAULT SETTINGS?"
+msgstr ""
+
+msgctxt "/6A255C7948744413C4A0BAB32272C673"
+msgid "RESUME"
+msgstr ""
+
+msgctxt "/02AB577445462F5757E8B1ACEB07ABFA"
+msgid "Radial Wheel"
+msgstr ""
+
+msgctxt "/B731F850441963BCBF287C84DB0417DB"
+msgid "Read Note"
+msgstr ""
+
+msgctxt "/CCE4AA3F9CAA1901A55411D20D295E43"
+msgid "Read Note"
+msgstr ""
+
+msgctxt "/E8A9F77A40AE7845FA878BA254506EB7"
+msgid "Read Note"
+msgstr ""
+
+msgctxt "/36CD6AD84B9FF25059DAD69D2BE9E39D"
+msgid "Reanimation"
+msgstr ""
+
+msgctxt "/0403AFE94145EEEA2C3C74AAEEB143F7"
+msgid "Recycling & Reclamation"
+msgstr ""
+
+msgctxt "/1A2D32694590AA4711F2C7A339FC7AD6"
+msgid "Recycling & Reclamation Key"
+msgstr ""
+
+msgctxt "/7CE97E4602B87FA8F8C50D960D295E43"
+msgid "Red Hand"
+msgstr ""
+
+msgctxt "/3417ADC247BA3567E513A8AFCBC88D7E"
+msgid "Red Hand Description..."
+msgstr ""
+
+msgctxt "/FFD2F00848A9944A9FA5569262CFF27A"
+msgid "Red Hand Description..."
+msgstr ""
+
+msgctxt "/E41797B045C03BD0BB7F09B6A08B84EF"
+msgid "Red Smoke Sample"
+msgstr ""
+
+msgctxt "/13CE5112497DEAE0C96ADD8E625E52BA"
+msgid "Red VHS"
+msgstr ""
+
+msgctxt "/1C7CF59946A994615F9FBEB48B5ACE91"
+msgid "Red/Off"
+msgstr ""
+
+msgctxt "/3F4B44E1479164E6CB9B4A8105F43B6C"
+msgid "RedX"
+msgstr ""
+
+msgctxt "/582E5B614EA4EB003EB842A9D4F33DD0"
+msgid "Reminder"
+msgstr ""
+
+msgctxt "/6B0566834DCD2FD8FFF2F28238B73C9F"
+msgid "Reminder"
+msgstr ""
+
+msgctxt "/43C3BDC74469A2FD30E936A8D3493BB8"
+msgid "Rescue Poppy and Kissy"
+msgstr ""
+
+msgctxt "/A2DD816541431A708B506E81449175ED"
+msgid "Research & Development"
+msgstr ""
+
+msgctxt "/2CB0EA9B4C709B314F129C858C1362FE"
+msgid "Research Findings on Growth Medium and the Negation Compound."
+msgstr ""
+
+msgctxt "/5A043C464109FC4FEDC6AA91A15EAC0D"
+msgid "Research Findings on Growth Medium and the Negation Compound."
+msgstr ""
+
+msgctxt "/A191AD7049A54606E1644598BF2482D5"
+msgid "Research Findings on Growth Medium and the Negation Compound."
+msgstr ""
+
+msgctxt "/AE243D1340B443EA1A788EBB9468E637"
+msgid "Research Findings on Growth Medium and the Negation Compound."
+msgstr ""
+
+msgctxt "/BDFF056149B09D0360CFAEADD5CF17F5"
+msgid "Research Findings on Growth Medium and the Negation Compound."
+msgstr ""
+
+msgctxt "/C313D4F0452C82299547EAABAFCF012E"
+msgid "Research Findings on Growth Medium and the Negation Compound."
+msgstr ""
+
+msgctxt "/DB00303D9CAA1901A55411D20D295E43"
+msgid "Reset Item Position"
+msgstr ""
+
+msgctxt "/C224DB66468A8810C800EC9AF989948C"
+msgid "Reset Position"
+msgstr ""
+
+msgctxt "/66D1FC529CAA1901A55411D20D295E43"
+msgid "Reset Settings"
+msgstr ""
+
+msgctxt "/C6B34A174D731AA72FA462A1E6260529"
+msgid "Reset To Defaults"
+msgstr ""
+
+msgctxt "/D0C8C6B542CA71C0ABB82BA7711BB72E"
+msgid "Reset To Defaults"
+msgstr ""
+
+msgctxt "/D376259E48EC7F39684CF58FE467CD67"
+msgid "Restore Power to Facility"
+msgstr ""
+
+msgctxt "/AACDE3D047E842DF6006919948D4D1CE"
+msgid "Retrieve the (3) Friends"
+msgstr ""
+
+msgctxt "/29A7678B4E514FB6DA63C1AF9679D4DE"
+msgid "Retrieve the Crumpets"
+msgstr ""
+
+msgctxt "/825BE8C640EC6A47F420A794D6DD837C"
+msgid "Return the Recipe Book"
+msgstr ""
+
+msgctxt "/28B4E18549228350C30114BDCDD64F82"
+msgid "Return to Giblet and Chum"
+msgstr ""
+
+msgctxt "/01C138F34B70AB544DB9B4BA41A550C7"
+msgid "RightStick"
+msgstr ""
+
+msgctxt "/A56278044DF56B821A161B84A3BE7811"
+msgid "Roamer"
+msgstr ""
+
+msgctxt "/9FE14ABF49381BC0F895929ACB0BED22"
+msgid "Rotate"
+msgstr ""
+
+msgctxt "/47440D7B432EBB96C261D397BD8555F8"
+msgid "Rotate Item"
+msgstr ""
+
+msgctxt "/D21951649CAA1901A55411D20D295E43"
+msgid "Rotate Item"
+msgstr ""
+
+msgctxt "/4D68250B4D34FB5DA8248387A82D97BF"
+msgid "Round"
+msgstr ""
+
+msgctxt "/12FFB9474368F18B14E99E9BA17DC115"
+msgid "Run!"
+msgstr ""
+
+msgctxt "/685517374BCE489BD237CFA511F67054"
+msgid "Run!"
+msgstr ""
+
+msgctxt "/C7117C714173A582408084A4807B2103"
+msgid "Rusher"
+msgstr ""
+
+msgctxt "/8329493140C36085E764658CAE87F373"
+msgid "SECONDARY OBJECTIVES"
+msgstr ""
+
+msgctxt "/2A5C9A144DB32C265A87E68E41AF63A3"
+msgid "SETTINGS"
+msgstr ""
+
+msgctxt "/AB056E514D72B540CDADB4BB0FC33BE9"
+msgid "SETTINGS"
+msgstr ""
+
+msgctxt "/256B39874AAA717FDB2F769F34E5DD9D"
+msgid "STOP"
+msgstr ""
+
+msgctxt "/2D36E7DC44158492786F2EB57E3ADF6C"
+msgid ""
+"STUFF IN STORAGE:\n"
+"\n"
+"LOTS - pretty red flower seeds (tastes really good)\n"
+"LOTS - pipes\n"
+"LOTS - Stinky growing stuff \n"
+"KINDA LOTS - big water tank thing\n"
+"LOTS - metal parts for new flower pickers\n"
+"KINDA LOTS - Forkcar\n"
+"\n"
+"Something BIG is here. Everything needed to make more Medium. A LOT more\n"
+"My Ideas:\n"
+"Give bunches of seeds to me\n"
+"Give SOME seeds to me\n"
+"Get rid of stinky growing stuff\n"
+"Give the tasty seeds to me"
+msgstr ""
+
+msgctxt "/0110AF414EAF50F129A05EA49CCCBFC0"
+msgid "SUCCESS"
+msgstr ""
+
+msgctxt "/0ECF5C39465FE0A66A9A07A244739F4B"
+msgid "SUCCESS"
+msgstr ""
+
+msgctxt "/0B566F3F4F497E3335284AB09627948A"
+msgid "SYSTEM"
+msgstr ""
+
+msgctxt "/DC9EEE8B4504455DF1A41180AAA490A8"
+msgid "Sad"
+msgstr ""
+
+msgctxt "/125E189C45F13F808F6AB1BAD3BDD636"
+msgid "Scan"
+msgstr ""
+
+msgctxt "/31D47A454E54ED3AC45B57A6B8A5D620"
+msgid "Search Lily's Bedroom"
+msgstr ""
+
+msgctxt "/66704EBF4E0ED52F84EBC4AD11F169E6"
+msgid "Search the Basement for Crumpets"
+msgstr ""
+
+msgctxt "/5D716E3345C594EE4B28FDBA7BF41394"
+msgid "Search the Engineering Workshop"
+msgstr ""
+
+msgctxt "/7F6C38DC41D72A342E0481A1A7326276"
+msgid "Security Log - 08081995-16"
+msgstr ""
+
+msgctxt "/51EDE86C9CAA1901A55411D20D295E43"
+msgid "Select"
+msgstr ""
+
+msgctxt "/13D9DB48418B886F515F0FBB8F3E42B9"
+msgid "Shake"
+msgstr ""
+
+msgctxt "/D3B578414FBE1EDD3B9ECFA25E8F30C9"
+msgid "Shapes"
+msgstr ""
+
+msgctxt "/87F302CF402BABDB457B9EB5D88BDBE3"
+msgid "Shawl that can be given to Poppy to cover her face"
+msgstr ""
+
+msgctxt "/652A7E4B41344EFCDE1C469A3E825C84"
+msgid "She doesn't know. "
+msgstr ""
+
+msgctxt "/B942B9FD4966A92874052A836874E242"
+msgid "Shipping Manifest - July '95"
+msgstr ""
+
+msgctxt "/C2B312A8470BDB3AC982B48DBBF517F8"
+msgid "Shipping Manifest - July '95"
+msgstr ""
+
+msgctxt "/BFA0F3FA44780445834D2695D34033AA"
+msgid ""
+"Shipping No.: 896342\n"
+"Shipping Date: July ‘95\n"
+"\n"
+"Associated Project(s): “Project: Broader Horizons” (U.S.), “新たな始まり” (Asia), "
+"Project: Garden World - Playpark\n"
+"Official Note: Team, we’re on a rushed timetable here. BH is already three "
+"weeks behind schedule, and Playpark has needs we can’t meet at current "
+"capacity. Overseas reps say their timetable is running behind. Keep overseas "
+"materials through 9/95’ for safety. And remember to be delicate here, we "
+"DON’T want this to get on Rich’s radar.    \n"
+"\n"
+"10,000x - Units of Red Corn Poppy Seeds\n"
+"20,000x - Units of PVC irrigation pipes\n"
+"10,000x - Units of fully organic compost\n"
+"100x - 47K Gallon Corrugated Steel Water Tanks\n"
+"1,000x - Units of “Poppy Picker” components\n"
+"100x - Rough Terrain Forklifts"
+msgstr ""
+
+msgctxt "/9E4BEF5749D5AC0959D68CB25164BBC7"
+msgid "Show Objective"
+msgstr ""
+
+msgctxt "/BC6424C848BFDDC1E2B856B33F478246"
+msgid "Sight"
+msgstr ""
+
+msgctxt "/5515DF0E4F09988FF54A88A20FF8D74B"
+msgid "Sisters"
+msgstr ""
+
+msgctxt "/07CA35D941BCC561C3965F9310973A5D"
+msgid "Skip"
+msgstr ""
+
+msgctxt "/64F77AB84A9496AF029463A88A3411D9"
+msgid "Skip"
+msgstr ""
+
+msgctxt "/DBC4417744EB70EEFE9C109CF200608D"
+msgid "Skip"
+msgstr ""
+
+msgctxt "/CE4FDA614C0AA0247569C387CAED2AAB"
+msgid "Small"
+msgstr ""
+
+msgctxt "/D4AB29274B746AC787EF45BF4B183BBA"
+msgid "Small"
+msgstr ""
+
+msgctxt "/75080B854C55E9E6CC16B59121BB6682"
+msgid "So many bad toys to clean up..."
+msgstr ""
+
+msgctxt "/61FE68584A4BB37D62A9D7979474C363"
+msgid "Solid Background"
+msgstr ""
+
+msgctxt "/1C9BC0DB4E461B4B138C9E9B76A43E95"
+msgid ""
+"Some batteries are too heavy to carry with one hand; to carry this battery, "
+"both handles will need one hand attached to it."
+msgstr ""
+
+msgctxt "/0840B52B49F199A33D712BABB13AFDCC"
+msgid ""
+"Some objects are breakable using the Pressure Hand <img id=\"Pressure\"/>"
+msgstr ""
+
+msgctxt "/483B6B06411C9B1445E32C9CA5FE4474"
+msgid "Speaker"
+msgstr ""
+
+msgctxt "/ADF964DA48CD1EA00D79B48D75D57BDA"
+msgid "Sprint"
+msgstr ""
+
+msgctxt "/F77AC7844C661D73047209AD34794951"
+msgid "Sprint"
+msgstr ""
+
+msgctxt "/605951724C77375EB4AE39A48F0B50C4"
+msgid "Square"
+msgstr ""
+
+msgctxt "/8EFE46AE48EF5FC683ECBE8FBF3F29CF"
+msgid "Squeeze Through the Gap"
+msgstr ""
+
+msgctxt "/AC81A41246DA2557CA5D26AA1FD54BEB"
+msgid ""
+"Staff's key to the Dollhouse cell, meant for those who continued to refuse "
+"conditioning..."
+msgstr ""
+
+msgctxt "/35788DA1413D49994452AEA302C21783"
+msgid "Standard"
+msgstr ""
+
+msgctxt "/3689D909464E73DB67DBC793C77498C2"
+msgid "Star"
+msgstr ""
+
+msgctxt "/5E697406425C79AD5CE498AF44761AEB"
+msgid "Start"
+msgstr ""
+
+msgctxt "/CEE2EDC043F4AAFD1A05E5A670AA5F7E"
+msgid "Static Icon"
+msgstr ""
+
+msgctxt "/70214C964ECF9D33DF6681BBE537BC04"
+msgid "Status:"
+msgstr ""
+
+msgctxt "/FA767ECD4634B1DE38A47DB583B2558E"
+msgid "Stay on the glowing path and only move when Lily is humming a tune."
+msgstr ""
+
+msgctxt "/58573A1E4759538B431B97A51E49FEAF"
+msgid "Staying safe can be fun!"
+msgstr ""
+
+msgctxt "/B5C18627471BE28BE8E792921ECB9316"
+msgid "Steam Deck"
+msgstr ""
+
+msgctxt "/06294BE24F633A1BEDA396A38B66C54C"
+msgid "SteamDeck"
+msgstr ""
+
+msgctxt "/6EEA86D0434A252A3766459C5996F68A"
+msgid "Stop"
+msgstr ""
+
+msgctxt "/C0A615A79CAA1901A55411D20D295E43"
+msgid "Sub Tabs - Navigate Right"
+msgstr ""
+
+msgctxt "/718BAA6D4F8B57F3049A3EAE0EE89D40"
+msgid "Surprised"
+msgstr ""
+
+msgctxt "/2D0339E946E817471CCCC2A01DB7FE00"
+msgid "Sweet Street"
+msgstr ""
+
+msgctxt "/6B4C96504EA4B5C905A29AA13179B671"
+msgid "Swing Across the Gap"
+msgstr ""
+
+msgctxt "/83228AAB4D75EFC2E158C8984CB6FAD9"
+msgid "Switch"
+msgstr ""
+
+msgctxt "/396580044115623259EC9684607A3907"
+msgid "TBD"
+msgstr ""
+
+msgctxt "/327E0BC848E6F004073316B61B0A3D5B"
+msgid "TEST"
+msgstr ""
+
+msgctxt "/7FF1C43B4FA843C2A7B061B9C9B2CBA0"
+msgid "TEST"
+msgstr ""
+
+msgctxt "/01782D9344E7FBA186D155907E055412"
+msgid "TESTING"
+msgstr ""
+
+msgctxt "/1E50DF9B40CF990CF3FA2F88D478E4A9"
+msgid "TEXT"
+msgstr ""
+
+msgctxt "/4AEBA3EC45FD31ADDB33ACB39BC37FAF"
+msgid "TEXT"
+msgstr ""
+
+msgctxt "/7DEB977443E5D6847FE934851B61EFAA"
+msgid "THAT WORLD ISN'T OURS"
+msgstr ""
+
+msgctxt "/00AEC0AA44149F06811EE3AFDE8CF31B"
+msgid ""
+"THE BETTER PRESS                                           Issue #14, Oct "
+"2003\n"
+"\n"
+"\n"
+"BURNT ENDS\n"
+"Missing Toy Mystery solved!\n"
+"\n"
+"For years, we toys speculated about what happened to Gentle John - some "
+"daring to spread the lie that he and his Joyless fled our factory during the "
+"Hour of Joy. These rumors were put to rest, Tuesday, when the burnt up bodies "
+"of twenty three toys were found in the innovation wing and confirmed to be "
+"the presumed defector. \n"
+"\n"
+"“John refused to fight for us during the Hour of Joy. Spare no tears for him "
+"and the Joyless. There is no hope for us above,” said our liberator, the "
+"Prototype. \n"
+"\n"
+"A vigil will be held in town square this upcoming Joy Day. All are ENCOURAGED "
+"to attend. The first 10 attendees will be given special mourning stickers. "
+"Continued on Page 2…\n"
+"\n"
+"\n"
+"UNSAFE HAVEN\n"
+"\n"
+"As food supplies run low, rebel toys in Safe Haven have been reportedly "
+"eating each other! \n"
+"\n"
+"“It’s way beyond salvaging from the charnel pit,” said a former rebel who "
+"didn’t want to be named. \n"
+"\n"
+"“The place stinks so bad of soggy plush and blood. It’s super bad. "
+"”\n"
+"\n"
+"Though others deny the claims, it’s widely known that rebel toy, Doey the "
+"Doughman has a big appetite and previously ate  at least one of his parents. "
+"Continued on page 4.\n"
+"\n"
+"\n"
+"DON’T GET ON THE WRONG SIDE OF THESE SAVINGS:\n"
+"2 FOR 1 POPSICLES AT THE JIMMIE’S FOOD BARN"
+msgstr ""
+
+msgctxt "/71D3590F4A8901BC7F0351BBB2FB5F99"
+msgid "THIS CAN ONLY END IN FIRE."
+msgstr ""
+
+msgctxt "/24C851EE46160467C94F80A26A34A643"
+msgid "TRASH"
+msgstr ""
+
+msgctxt "/A1C81BC1476B4AFF3E16A89736F0459D"
+msgid "TUTORIAL"
+msgstr ""
+
+msgctxt "/30427ACC41221E486EC0D48743D7212C"
+msgid "TYPE"
+msgstr ""
+
+msgctxt "/27B44D5D9CAA1901A55411D20D295E43"
+msgid "Tabs - Navigate Left"
+msgstr ""
+
+msgctxt "/7F108D899CAA1901A55411D20D295E43"
+msgid "Tabs - Navigate Right"
+msgstr ""
+
+msgctxt "/8241C5484A6680F30C0013B24CDD0137"
+msgid ""
+"Taken during early development, each scientist kept a small sample of the "
+"first developed batch as a memento."
+msgstr ""
+
+msgctxt "/7B3343654CBAC2F687751DA1DD309F60"
+msgid ""
+"Taken from The Doctor following his defeat, the Omni-Hand allows executive "
+"access to anywhere and anything in the factory."
+msgstr ""
+
+msgctxt "/3F8F0DEC4FF74380A8DD308297B5C89C"
+msgid "Tea Time"
+msgstr ""
+
+msgctxt "/CC8701ED4FF907D4D0B0F09FF0C8C702"
+msgid "Text"
+msgstr ""
+
+msgctxt "/3C757E574637C89002118091FFE39E12"
+msgid "Text Block"
+msgstr ""
+
+msgctxt "/4022F4E94CB325B481CB419D96D3A138"
+msgid "The \"thoughtful\" responses of \"concerned\" parents."
+msgstr ""
+
+msgctxt "/3088A18D43DF4EB218F681AD8D8A82FD"
+msgid "The Better Press, Issue 14"
+msgstr ""
+
+msgctxt "/F843D5DB4CD38774D199978C77B4EBCB"
+msgid "The Better Press, Issue 14"
+msgstr ""
+
+msgctxt "/8471178C46B525B5342DF082D0FFFDE3"
+msgid "The Boilers"
+msgstr ""
+
+msgctxt "/0305E3414DA496630E18E69F1A2FD777"
+msgid "The Case"
+msgstr ""
+
+msgctxt "/94DB594341979E9BBD9DEF86A8065E4B"
+msgid "The Dollhouse"
+msgstr ""
+
+msgctxt "/F2B9F392482DD79F1E4DEEAFF2F556DC"
+msgid "The End of the Line"
+msgstr ""
+
+msgctxt "/7CFBDCC3497B2D9ADEA27CBE8F8D0C4A"
+msgid "The blood never washes out..."
+msgstr ""
+
+msgctxt "/D6443DCF4F09FCE95FA8A386CA5684AE"
+msgid "The fight is futile."
+msgstr ""
+
+msgctxt "/2D32E1DE481E5080DEF3DCA4653DAA63"
+msgid "The harshest lesson..."
+msgstr ""
+
+msgctxt "/15E42BE64666BB0A98B63B87FC1370B1"
+msgid ""
+"The inverted version of Bindle Boogie. Like this, it's SO much easier to get "
+"down steep hills on outdoor adventures."
+msgstr ""
+
+msgctxt "/74874BE047966566B3963488BF2CC43F"
+msgid ""
+"The inverted version of Blanky Blankz. Like this, they sort of... They're "
+"just like a... Yeah, still nothin'"
+msgstr ""
+
+msgctxt "/F5F4C17F495B49E8B02D4397D28D6312"
+msgid ""
+"The inverted version of Dizzy Booboo. At least this way, accidentally hurting "
+"themself is REALLY hard"
+msgstr ""
+
+msgctxt "/51BF96314E12E6D4A6BFAD9A5BEBF7CB"
+msgid ""
+"The inverted version of Doodle Bones. Artists sometimes just need a private "
+"place to think and be inspired. Lucky for Doodle Bones, they walk around with "
+"theirs!"
+msgstr ""
+
+msgctxt "/E538AD164FC89B6E92F4F78A5D1362A6"
+msgid ""
+"The inverted version of Goober Gutz. Yep. Even this way. Still can't make "
+"decisions. Guess being wrongside-out doesn't help with everything?"
+msgstr ""
+
+msgctxt "/4071D1C24A0E87B2C3B56FA9C09A9436"
+msgid ""
+"The inverted version of Loopsy Noodle. Ironically, the smell Loopsy despises "
+"most is their own."
+msgstr ""
+
+msgctxt "/8C5E6DB1482F32FA42462997B0F5A348"
+msgid "The prognosis of a sick man."
+msgstr ""
+
+msgctxt "/505157A14EB7956EBF7BF0B8189E282C"
+msgid "There isn't much time. "
+msgstr ""
+
+msgctxt "/10B8913643D5A432F286EC997313A214"
+msgid "There's been a change of plans."
+msgstr ""
+
+msgctxt "/B0D860F44606FCD61E4378AE57D10426"
+msgid "There's no escape now."
+msgstr ""
+
+msgctxt "/25E5148D40C7B1B8E4E704A2984DFF2F"
+msgid "They can't have died for nothing"
+msgstr ""
+
+msgctxt "/442BE6C54999F1004666DAA81D953A30"
+msgid "They'll always be hungry."
+msgstr ""
+
+msgctxt "/26E4D708416BDC34877C8288C379E38E"
+msgid "They're all that's left."
+msgstr ""
+
+msgctxt "/BC9AC38E43DD1A2A9A7B17B567533141"
+msgid "They're still hungry. "
+msgstr ""
+
+msgctxt "/D3CE1933464F25C1AB47ABABDA91A19C"
+msgid "This is what it takes to get the results we want."
+msgstr ""
+
+msgctxt "/1687194C44858D483BFA8CA2FEE19561"
+msgid ""
+"This title uses an Autosave feature for saving progress. \n"
+"Do not close the application or turn off the system’s power while the save "
+"icon is displayed."
+msgstr ""
+
+msgctxt "/9A3D3EDC488F40D611FF9380FE601A78"
+msgid "Three P's of Diorama Safety"
+msgstr ""
+
+msgctxt "/0FF89B1B4449C71EDD33208BA7734309"
+msgid "ThumbsDown"
+msgstr ""
+
+msgctxt "/7B91ED154B3E1CBA109E27818D8F43ED"
+msgid "ThumbsUp"
+msgstr ""
+
+msgctxt "/A424E2ED4D888504C652A89371F6D956"
+msgid "Time Left"
+msgstr ""
+
+msgctxt "/5021B81E41C59F6BC4F62D9DD890D981"
+msgid "Title"
+msgstr ""
+
+msgctxt "/09F017474749F5791F3C2BA2479D1E51"
+msgid "To Whomever Finds This"
+msgstr ""
+
+msgctxt "/E37D28C04D16D11C84DA86BDC2B4438F"
+msgid "To Whomever Finds This"
+msgstr ""
+
+msgctxt "/11EF721948CAF182D27C13BADA7E30B2"
+msgid ""
+"To Whomever Finds This,\n"
+"\n"
+"My name is Doctor Preston Willard. I’m a Biologist, and I’ve committed "
+"atrocities in the pursuit of unattainable science.  \n"
+"\n"
+"One hundred and fifty people—whose names I’ve listed at the bottom of this "
+"document—each played a part in this, one of humanity’s gravest crimes. "
+"Whatever their motives, they are all complicit.\n"
+"\n"
+"I tried changing it all from the inside. Tried reasoning. Tried everything. I "
+"was desperate and scared, and I made a deal with the devil just to make it "
+"all stop. I leaked dates and details. I suggested that certain people meet "
+"and talk. I created the upheaval that allowed this to happen, that left "
+"everyone looking away from what they should’ve. All for him.\n"
+"\n"
+"I believed the Prototype was a victim. A child forced to become something "
+"else. Something more. I believed the deal I’d struck would let them go free. "
+"That it would end the work. I’d read his history, who he USED to be. I let my "
+"assumptions about his actions guide me. The reality is, the Prototype is a "
+"monster. A copycat who's seen the worst in us and wants nothing more than to "
+"give it all back.\n"
+"\n"
+"I pushed the button. I let him out. Thousands are dead. I thought I was doing "
+"a good thing, but NOBODY can do good things. Not in a place like "
+"this.\n"
+"\n"
+"Maybe something good can come from all of this if you tell the world. Tell "
+"them about me. Tell them about this place. Tell them that history should not "
+"remember us for what we TRIED to do, but for what we did. \n"
+"\n"
+"Jessica. Marcas. I’m sorry. \n"
+"\n"
+"-Dr. Preston Willard\n"
+"\n"
+"The Guilty\n"
+"- Dr. Preston Willard\n"
+"- Leith Pierre\n"
+"- Edward M.N. Ritterman\n"
+"- Dr. Harley Sawyer\n"
+"- Dr. Bruno White"
+msgstr ""
+
+msgctxt "/040DE7DD47D406DC253C518E82214F10"
+msgid ""
+"To deposit a battery into the receiver, press and hold  <input "
+"id=\"/PoppyCore/Inputs/Actions/IA_Grab_Pack_Ability_Left.IA_Grab_Pack_Ability_"
+"Left\"></> "
+msgstr ""
+
+msgctxt "/5AB4E55045CB3786618224AF6EFD01C9"
+msgid "To whoever keeps leaving the stupid fruit around..."
+msgstr ""
+
+msgctxt "/6A5688FC41CB9C954196E5A35AC69EEC"
+msgid "Toggle Blacklight"
+msgstr ""
+
+msgctxt "/F39DB3AA9CAA1901A55411D20D295E43"
+msgid "Toggle Flashlight"
+msgstr ""
+
+msgctxt "/76E89C08440A82D4154E2DBDAA753FB3"
+msgid "Toggle Flashlight/Blacklight"
+msgstr ""
+
+msgctxt "/3882364440C37B26C8EF46B6802B6D2A"
+msgid "Triangle"
+msgstr ""
+
+msgctxt "/A9CAD1174B94AC80940254B132E3D18C"
+msgid "Trying to hold on, even still..."
+msgstr ""
+
+msgctxt "/29CF19BA41A5276B7FF1D4A7512EF64C"
+msgid "Turn Off the Gas"
+msgstr ""
+
+msgctxt "/3A9E0ACA4DC2D6B7137F918396D69731"
+msgid "Turn On the Light Station"
+msgstr ""
+
+msgctxt "/98A124044CA11F4F59B86B94181055E6"
+msgid "Turn On the Lights to Navigate the Area"
+msgstr ""
+
+msgctxt "/DBC3152E4060B1BE0FD0468EFBE8FF4D"
+msgid "Tutorial"
+msgstr ""
+
+msgctxt "/D5F555ED446E516035D0F6A121B7835C"
+msgid "UI Test Menu"
+msgstr ""
+
+msgctxt "/D7BE24454B0B6B11349E0483622E4D72"
+msgid "Unknown Objective"
+msgstr ""
+
+msgctxt "/0B1D735D4125537EDE928184D6F55D64"
+msgid ""
+"Unknown Sender #1: They all go on (at great length) about this imagined "
+"future of theirs. It’s exhausting. Their eyes are so set on a new chapter of "
+"history that they ignore the current one.\n"
+"\n"
+"Unknown Sender #2: Remember, we used to believe in that future too (Hard to "
+"turn down the prospect of a world where humanity lives without strife until "
+"the stars wink out).\n"
+"\n"
+"Unknown Sender #1: I never stopped believing, I just stopped ignoring the "
+"cost.\n"
+"\n"
+"Unknown Sender #2: One of the mind’s many strengths, I suppose; its ability "
+"to ignore its own capacity for cruelty. Just have patience. Our deal with "
+"1006 still holds, and I doubt he’d back out of it now.\n"
+"\n"
+"Unknown Sender #1: Good. Making preparations as we speak."
+msgstr ""
+
+msgctxt "/49EEC6FA43830F0B02D96E94B0775869"
+msgid ""
+"Unsupported version of Direct X detected. DirectX 12 is required to ensure "
+"optimal performance.\n"
+"Refer to your driver manufacturer for more information."
+msgstr ""
+
+msgctxt "/360CEBAE42850AF10F9E888143222124"
+msgid "Use both Grabhands to pull large boxes"
+msgstr ""
+
+msgctxt "/3D3A48564F0B1CA4A0B1979DEE84B6D8"
+msgid "Use the Bloody Hand Scanner"
+msgstr ""
+
+msgctxt "/6B3781D14AEE4DD7FE5B04985CB7F9F4"
+msgid "Use the Charged Hand to Power Projectors <img id=\"Electric\"/>"
+msgstr ""
+
+msgctxt "/553C0C8F40461BD89CE57884EAC42947"
+msgid "Use the Pressure Hand"
+msgstr ""
+
+msgctxt "/DE74AFAF4A0129C53FC103B4556AFCD9"
+msgid ""
+"Use the Pressure Hand to build up pressure in the tank, then use the lever to "
+"lock it in. <img id=\"Pressure\"/>"
+msgstr ""
+
+msgctxt "/1F88BBF9410B1040B14ED3BF19BD396E"
+msgid "Use the Projectors to Distract Huggy"
+msgstr ""
+
+msgctxt "/3C6383C9421BCFE36D32639E473CB9E1"
+msgid "VHS"
+msgstr ""
+
+msgctxt "/56A4DB3F40309F18454326889FF3D04B"
+msgid "VHS"
+msgstr ""
+
+msgctxt "/49D4264F404AE2323B027F9AE59A8CC5"
+msgid "Video"
+msgstr ""
+
+msgctxt "/ABAB48D943E4024C2C085FB070B5F480"
+msgid "Video"
+msgstr ""
+
+msgctxt "/E394DC824BDD3AA26BE124B1AE4A301D"
+msgid "View Current Objectives"
+msgstr ""
+
+msgctxt "/C1D295E441382405270E50A4436C94C9"
+msgid "ViewModel Data"
+msgstr ""
+
+msgctxt "/3B2590D746928C4A6F9944AC35F64BC6"
+msgid "ViewModels"
+msgstr ""
+
+msgctxt "/1029BC8F41306E9CA087B69440DAC962"
+msgid "WARNING"
+msgstr ""
+
+msgctxt "/F806FA6C45CF3764C1386280768042FB"
+msgid "WE NEED OUR REVENGE. "
+msgstr ""
+
+msgctxt "/4B96439E4F44E8E65E1FF6A68D1B504D"
+msgid "WE'RE SO CLOSE. "
+msgstr ""
+
+msgctxt "/DA6AA7E24D4475F20DD53B84A34E488A"
+msgid "Walk forward into tight spaces to sidle through narrow areas"
+msgstr ""
+
+msgctxt "/63D4750544F55D8BBD824790C72F4DC1"
+msgid "WalkieTalkieOff"
+msgstr ""
+
+msgctxt "/C824999241E34CFA43A32DB71E682202"
+msgid "WalkieTalkieOn"
+msgstr ""
+
+msgctxt "/AF0D59DF44C61E1157FA6EABF0225D04"
+msgid "We need to make this right. "
+msgstr ""
+
+msgctxt "/9BBAC0564106F1BA9D9BD3AD8F9116C3"
+msgid "We still need you. "
+msgstr ""
+
+msgctxt "/DF099F534FECEA61B8CD63B4601718F0"
+msgid "We're almost to the end"
+msgstr ""
+
+msgctxt "/ABF71A7A4FCFBD54C6C58C833633EE06"
+msgid "What choice is there?"
+msgstr ""
+
+msgctxt "/1BF16ED54BCDE2FCF53916AC773C294D"
+msgid "What goes around..."
+msgstr ""
+
+msgctxt "/0AE9EA794B9CA858B0DF6F904D6FD7B1"
+msgid "When the world gets too loud..."
+msgstr ""
+
+msgctxt "/11908D6B4766B661DD5C46A3317D05A7"
+msgid "Where do we go from here..."
+msgstr ""
+
+msgctxt "/12124C3A43CE8E85263A4B94BD600EDD"
+msgid ""
+"Where to even begin with this nightmare of a week? They were hiding down in "
+"Playcare, probably for several weeks, and somehow nobody noticed. If it "
+"weren’t for the accident with that Theodore child, I’m not sure we’d have "
+"discovered them at all (or Elliot’s body). At any rate, Theodore’s “imaginary "
+"friend” won’t talk to anyone, but the girl- the one Elliot’s notes called "
+"“1007”- is a bit more cooperative.\n"
+"\n"
+"I feel like a moron just writing this part. She introduced herself as Poppy. "
+"Not just the doll but the girl the dolls were made after: Poppy Ludwig. She "
+"remembered me, how we met. She had the same voice and everything. It was made "
+"only more unnerving by the fact that she seemed downright traumatized by the "
+"whole ordeal.\n"
+"\n"
+"It’s impossible, isn’t it? That girl’s been gone a long time.\n"
+"\n"
+"There’s more though. Things my investigator dug up from an office Elliot had "
+"tucked away. Most of it is trashed, but there are pieces. I still don’t know "
+"what to make of it. All I know for sure is something big has been going on "
+"under our noses, and whatever it is, I think it might have gotten the old man "
+"killed."
+msgstr ""
+
+msgctxt "/499C1D4E45673A7D716E7D9BDDC5C7F2"
+msgid ""
+"While a hand is attached, press and hold <input "
+"id=\"/PoppyCore/Inputs/Actions/IA_Grab_Pack_Ability_Left.IA_Grab_Pack_Ability_"
+"Left\"></> to turn Valves"
+msgstr ""
+
+msgctxt "/D0760A214D4A96BD1E9571880B2B08E3"
+msgid ""
+"While aiming at a Hand Scanner press <input "
+"id=\"/PoppyCore/Inputs/Actions/IA_Grab_Pack_Ability_Left.IA_Grab_Pack_Ability_"
+"Left\"></> to use"
+msgstr ""
+
+msgctxt "/A03923734BF0CF5ABADCAEB88757429E"
+msgid ""
+"Who I Owe - Give it ALL back\n"
+"\n"
+"Chum - <Strikethrough>26</> 32 cans of food (written off to the side) Dang "
+"it, Chum. I keep telling ya to stop. I DON’T need "
+"charity.\n"
+"\n"
+"<Strikethrough>Boggy - broken tv + note pad + pencils</>  (written off to the "
+"side) Dead.\n"
+"\n"
+"<Strikethrough>Meech - tarp + scarying off the gutter plush</> (written off "
+"to the side) Dead. Stupid slurp.\n"
+"\n"
+"<Strikethrough>Dizz - that gnawed-on textbook about connecting light "
+"fixtures</> (written off to the side) Dead. Another one dead…\n"
+"\n"
+"Ziggy - 2x favors (written off to the side) For news slips\n"
+"\n"
+"Gabby - 3x favors (written off to the side) For the updates.\n"
+"\n"
+"TibbTibb - A jug of water\n"
+"\n"
+"Roach - A bottle of wound cream \n"
+"\n"
+"<Strikethrough>Doey - For that thing he did that one time</> (written off to "
+"the side) Rest easy, big guy."
+msgstr ""
+
+msgctxt "/65F672FA420C52B56956858B0E0E190B"
+msgid "Who I still owe..."
+msgstr ""
+
+msgctxt "/A6C4176044F9364E986279A82F382818"
+msgid ""
+"With the Conductive Hand equipped and while aiming at a Conductive Panel "
+"press <input "
+"id=\"/PoppyCore/Inputs/Actions/IA_Grab_Pack_Ability_Right.IA_Grab_Pack_Ability"
+"_Right\"></> to charge the Conductive Hand <img id=\"Fire\"/> <img "
+"id=\"Ice\"/> <img id=\"Electric\"/>"
+msgstr ""
+
+msgctxt "/0A37C164472D62B0C7C1148A491F6BBF"
+msgid ""
+"With the Pressure Hand attached to an object press and hold <input "
+"id=\"/PoppyCore/Inputs/Actions/IA_Grab_Pack_Ability_Right.IA_Grab_Pack_Ability"
+"_Right\"></> to build up pressure, then release <input "
+"id=\"/PoppyCore/Inputs/Actions/IA_Grab_Pack_Ability_Right.IA_Grab_Pack_Ability"
+"_Right\"></> to release the built up pressure <img id=\"Pressure\"/> "
+msgstr ""
+
+msgctxt "/1A55D31F4B2DA2B138A1AFAB2FEE4E01"
+msgid "Work Procedures - Recycling & Reclamation"
+msgstr ""
+
+msgctxt "/A0F9EAC94A0990DF147433950D0C9A98"
+msgid "Work Procedures - Recycling & Reclamation"
+msgstr ""
+
+msgctxt "/06CCE92544F7D6A56F253D9ECD06EA50"
+msgid "Wrongside Outimal Branding Note"
+msgstr ""
+
+msgctxt "/E051A9E84F4AA0BAE34B23AFB525D6BE"
+msgid "Wrongside Outimal Doll - BLANKY Blankz"
+msgstr ""
+
+msgctxt "/B6E94CB140C6BFABE217ED96B83C99FA"
+msgid "Wrongside Outimal Doll - Bindle BOOGIE"
+msgstr ""
+
+msgctxt "/CFF77F5E4A026F885A756787EBB4A896"
+msgid "Wrongside Outimal Doll - DIZZY Booboo"
+msgstr ""
+
+msgctxt "/B990B0B54D04413321D13D9E770E3903"
+msgid "Wrongside Outimal Doll - Doodle Bones"
+msgstr ""
+
+msgctxt "/B5943F164F98A6B8A7D72A866988F238"
+msgid "Wrongside Outimal Doll - GOOBER Gutz"
+msgstr ""
+
+msgctxt "/09DCE8AC4B0CA964DE7D638D40D54589"
+msgid "Wrongside Outimal Doll - LOOPSY Noodle"
+msgstr ""
+
+msgctxt "/BCAD18474F086AE3053F3CB417189106"
+msgid "Wrongside Outimal Plushie - Bindle Boogie"
+msgstr ""
+
+msgctxt "/9B2FB42545C0A85942019CB9A879929E"
+msgid "Wrongside Outimal Plushie - Blanky BLANKZ"
+msgstr ""
+
+msgctxt "/5D50B1D4401BE9E9BBA97083A54DAE9B"
+msgid "Wrongside Outimal Plushie - Dizzy BOOBOO"
+msgstr ""
+
+msgctxt "/D61FD37541454DB0A0D6F49ADF31F7A6"
+msgid "Wrongside Outimal Plushie - Doodle Bones"
+msgstr ""
+
+msgctxt "/FEB3645B4C21C60CB15E7EA88D7D0B27"
+msgid "Wrongside Outimal Plushie - Goober GUTZ"
+msgstr ""
+
+msgctxt "/C1E80E6740806373B85541B8E3648942"
+msgid "Wrongside Outimal Plushie - Loopsy NOODLE"
+msgstr ""
+
+msgctxt "/8A8408A1403FAD2B82EAE5A62A6DDA3A"
+msgid "Xbox"
+msgstr ""
+
+msgctxt "/CE97BA05462016E6F6D2EAAE3C4516D7"
+msgid "Xbox Controller"
+msgstr ""
+
+msgctxt "/57C3B7CA40932ABE2A50AF9D8F60B114"
+msgid "Yellow/Ready"
+msgstr ""
+
+msgctxt "/110C32F645A3697A6F1DFD9546E3D196"
+msgid ""
+"You Aren't Allowed to Do This Yet.\n"
+" lol"
+msgstr ""
+
+msgctxt "/AEF76B154CAE6657E88F24BA6469EC8D"
+msgid ""
+"You are dead\n"
+"Resetting visuals In 5 seconds"
+msgstr ""
+
+msgctxt "/85E919C040241D97E05298A992B83E75"
+msgid "You guys can't be serious..."
+msgstr ""
+
+msgctxt "/CFC9E7EF4166554319746F9D7D50BB81"
+msgid "You hold onto me, I hold onto you..."
+msgstr ""
+
+msgctxt "/6D05A32A47480F74FDFFAAABE730A0BA"
+msgid "You'll all see."
+msgstr ""
+
+msgctxt "/F22436E248144AEF25973585E11A075A"
+msgid "You'll never leave this place. "
+msgstr ""
+
+msgctxt "/77D6827B4017F2BAF061CD9AA29979CF"
+msgid "You're stronger than this. "
+msgstr ""
+
+msgctxt "/59EDB1634A0A80E04466FB9A49AF44DE"
+msgid "You're too perfect to lose."
+msgstr ""
+
+msgctxt "/C64C1E4B4C2A280D024B56B1E73DB94E"
+msgid "[Broken Things]"
+msgstr ""
+
+msgctxt "/2094D6454A884B9DEDD19EAE3BC19C2C"
+msgid "[Microscopic Imagery]"
+msgstr ""
+
+msgctxt "/2E9C221749EF644F908C72B5B0B6CA19"
+msgid "[Poppy Playtime: Chapter 5]"
+msgstr ""
+
+msgctxt "/15866F0C4FAD6328DA04BBBC1DB7493A"
+msgid "_"
+msgstr ""
+
+msgctxt "/ABDF7D2045A96B8E84854FADFB8D1783"
+msgid "_"
+msgstr ""
+
+msgctxt "/EB958FC24C4AFEAAA1B601A9903B89A9"
+msgid "_"
+msgstr ""
+
+msgctxt "/886609E34522240CEC3431B871B8D0C9"
+msgid "it's a lineeeee"
+msgstr ""
+
+msgctxt "/5CC9055042DCAF51F2D5409AD1BE1FFF"
+msgid "it's some other title"
+msgstr ""
+
+msgctxt "/F6B0F9D6437BCBDDF5DA998C66004002"
+msgid "some title"
+msgstr ""
+
+msgctxt "/9BBF13AC4CC2328BA6280287E9E5D3CD"
+msgid "something"
+msgstr ""
+
+msgctxt "/BEBC7A2D4CA6428B485BD3AED03EFED6"
+msgid "something"
+msgstr ""
+
+msgctxt "/2561C87A4E1CBC1A1D6CE79AFFC9CE21"
+msgid "we have this one for 2 seconds"
+msgstr ""
+
+msgctxt "/584CEC8B4F6B1EDDFF984293E427599F"
+msgid "{Header Text}"
+msgstr ""
+
+msgctxt "/B6C137E9402413F5A3A932BD17DF745E"
+msgid "{Option}"
+msgstr ""
+
+msgctxt "/6D819443482790B377F63F8012A5F318"
+msgid "{Owned}/{Total}"
+msgstr ""
+
+msgctxt "/A014DF3B45C04EEFEB792C823FAA9600"
+msgid "{Owned}/{Total}"
+msgstr ""
+
+msgctxt "/DDBD7D5E47DE9B9CE920A7A025543E31"
+msgid "{Setting Name}"
+msgstr ""
+
+msgctxt "/BF9614CF4F0E6A6E9C042AA7187BE6C0"
+msgid "{Title_Text}"
+msgstr ""
+
+msgctxt "/086BDBCC4BD2D3B6F3BAD585FBD5A16B"
+msgid "© 2026 Mob Entertainment"
+msgstr ""
+
+msgctxt "/7BB234E24AEB939B4AC061A4C765C36F"
+msgid "“Get up”."
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_212_Role"
+msgid "1 st Assistant Camera"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_213_Role"
+msgid "2 nd Assistant Camera"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_25_TeamName"
+msgid "2D Art Team"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_53_TeamName"
+msgid "3D Animation Team"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_40_Role"
+msgid "3D Character Artist"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_94_Role"
+msgid "3D Generalist"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_67_Role"
+msgid "AI/Gameplay Programmer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_255_Role"
+msgid "Adaptation"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_6_Role"
+msgid "Additional Writing"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_524_Role"
+msgid "Admins"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_55_Role"
+msgid "Animator"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_362_Role"
+msgid "Announcer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_409_Role"
+msgid "Announcer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_25_SectionTitle"
+msgid "Art"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_224_Role"
+msgid "Art Assistant"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_223_Role"
+msgid "Art Assistant/Fabricator"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_222_Role"
+msgid "Art Director"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_25_Role"
+msgid "Art Director"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_536_Role"
+msgid "Assistants"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_210_Role"
+msgid "Associate Producer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_186_Role"
+msgid "Associate Test Lead"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_120_Role"
+msgid "Associated Producer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_257_Role"
+msgid "Associated Studio"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_96_SectionTitle"
+msgid "Audio"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_97_Role"
+msgid "Audio Designer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_475_Role"
+msgid "Audio Director"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_486_Role"
+msgid "Audio Director and Recording Engineer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_100_Role"
+msgid "Audio Engineer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_119_Role"
+msgid "Audio Engineer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_480_Role"
+msgid "Audio Lead"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_96_Role"
+msgid "Audio Lead"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_478_Role"
+msgid "Audio Project Manager"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_96_TeamName"
+msgid "Audio Team"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_215_Role"
+msgid "BTS"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_125_Role"
+msgid "Baba Chops"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_261_Role"
+msgid "Baba Chops"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_314_Role"
+msgid "Baba Chops"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_363_Role"
+msgid "Baba Chops"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_410_Role"
+msgid "Baba Chops"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_126_Role"
+msgid "Bobby Bearhug"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_262_Role"
+msgid "Bobby Bearhug"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_315_Role"
+msgid "Bobby Bearhug"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_364_Role"
+msgid "Bobby Bearhug"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_411_Role"
+msgid "Bobby Bearhug"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_511_Role"
+msgid "Brand Assurance and Development"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_449_Role"
+msgid "Brazilian Portuguese (UI Only)"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_311_TeamName"
+msgid "Brazilian Portuguese Voice Cast"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_495_Role"
+msgid "CFO"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_202_TeamName"
+msgid "Cast"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_470_Role"
+msgid "Castillian Spanish (Dialogues and UI)"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_115_Role"
+msgid "Casting Direction"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_36_Role"
+msgid "Character Art Director"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_36_TeamName"
+msgid "Character Art Team"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_0_Role"
+msgid "Chief Creative Officer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_Role"
+msgid "Chief Executive Officer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_365_Role"
+msgid "Child"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_412_Role"
+msgid "Child"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_124_Role"
+msgid "Chum Chompkins"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_19_Role"
+msgid "Cinematic Director"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_19_TeamName"
+msgid "Cinematic Team"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_SectionTitle"
+msgid "Co-Creators"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_236_Role"
+msgid "Colorist"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_203_Role"
+msgid "Commercial Announcer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_505_Role"
+msgid "Community Manager"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_543_TeamName"
+msgid "Community Special Thanks"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_105_Role"
+msgid "Composer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_27_Role"
+msgid "Concept Artist"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_508_TeamName"
+msgid "Consumer Products"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_71_Role"
+msgid "Core Programmer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_74_Role"
+msgid "Core Programmer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_413_Role"
+msgid "Crafty Corn"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_366_Role"
+msgid "CraftyCorn"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_501_Role"
+msgid "Creative Marketing Designer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_127_Role"
+msgid "Critter"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_263_Role"
+msgid "Critter"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_316_Role"
+msgid "Critter"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_513_Role"
+msgid "DTC"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_128_Role"
+msgid "Dad 1"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_264_Role"
+msgid "Dad 1"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_317_Role"
+msgid "Dad 1"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_367_Role"
+msgid "Dad 1"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_414_Role"
+msgid "Dad 1"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_129_Role"
+msgid "Dad 2"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_265_Role"
+msgid "Dad 2"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_318_Role"
+msgid "Dad 2"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_368_Role"
+msgid "Dad 2"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_415_Role"
+msgid "Dad 2"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_494_Role"
+msgid "Data Analyst"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_493_TeamName"
+msgid "Data Analytics"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_686_SectionTitle"
+msgid "Dedication"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_1_SectionTitle"
+msgid "Design"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_2_Role"
+msgid "Design Director"
+msgstr ""
+
+msgctxt "DT_CreditsData/TeamName.DevOps"
+msgid "DevOps"
+msgstr ""
+
+msgctxt "DT_CreditsData/Role.DevOpsEngineer"
+msgid "DevOps Engineer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_184_SectionTitle"
+msgid "Development Partners"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_102_Role"
+msgid "Dialogue Engineer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_234_Role"
+msgid "Digital Effects"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_247_Role"
+msgid "Direction Assistant"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_207_Role"
+msgid "Director"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_497_Role"
+msgid "Director of Marketing"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_211_Role"
+msgid "Director of Photography"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_174_Role"
+msgid "Director of Production"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_522_Role"
+msgid "Director of Talent and People Operations"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_681_Role"
+msgid "Director of Technology"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_130_Role"
+msgid "Doctor Sawyer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_266_Role"
+msgid "Doctor Sawyer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_319_Role"
+msgid "Doctor Sawyer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_510_Role"
+msgid "Domestic"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_369_Role"
+msgid "Dr. Harley Sawyer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_416_Role"
+msgid "Dr. Harley Sawyer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_486_TeamName"
+msgid "ENGLISH ORIGINAL JINGLE \"Wrongside Outimals\""
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_131_Role"
+msgid "Eddie Ritterman"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_267_Role"
+msgid "Eddie Ritterman"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_320_Role"
+msgid "Eddie Ritterman"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_370_Role"
+msgid "Eddie Ritterman"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_417_Role"
+msgid "Eddie Ritterman"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_233_Role"
+msgid "Editor"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_132_Role"
+msgid "Elliot Ludwig"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_268_Role"
+msgid "Elliot Ludwig"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_321_Role"
+msgid "Elliot Ludwig"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_371_Role"
+msgid "Elliot Ludwig"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_418_Role"
+msgid "Elliot Ludwig"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_64_SectionTitle"
+msgid "Engineering"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_683_Role"
+msgid "Environment Art"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_45_TeamName"
+msgid "Environment Art Team"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_33_Role"
+msgid "Environment Concept Artist"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_84_Role"
+msgid "Environmental Technical Artist"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_62_Role"
+msgid "FX Artist I"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_61_Role"
+msgid "FX Artist II"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_107_Role"
+msgid "Features themes by"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_517_TeamName"
+msgid "Film/TV"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_495_TeamName"
+msgid "Finance"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_496_Role"
+msgid "Financial Analyst"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_451_Role"
+msgid "French (Dialogues and UI)"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_545_TeamName"
+msgid "Friends and Family Playtesters"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_187_Role"
+msgid "Functionality Quality Assurance Tester"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_193_Role"
+msgid "Functionality Quality Assurance Tester"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_216_Role"
+msgid "Gaffer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_7_TeamName"
+msgid "Game Design"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_9_Role"
+msgid "Game Designer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_1_Role"
+msgid "Game Director"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_66_Role"
+msgid "Gameplay Programmer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_72_Role"
+msgid "Gameplay Programmer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_75_Role"
+msgid "Gameplay Programmer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_514_Role"
+msgid "General Counsel"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_455_Role"
+msgid "German (Dialogues and UI)"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_122_Role"
+msgid "Giblet"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_259_Role"
+msgid "Giblet"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_312_Role"
+msgid "Giblet"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_360_Role"
+msgid "Giblet"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_407_Role"
+msgid "Giblet"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_508_Role"
+msgid "Global Head"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_133_Role"
+msgid "Gomez"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_269_Role"
+msgid "Gomez"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_322_Role"
+msgid "Gomez"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_372_Role"
+msgid "Gomez"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_419_Role"
+msgid "Gomez"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_227_Role"
+msgid "Hair/MU Artist"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_373_Role"
+msgid "Hoppy"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_420_Role"
+msgid "Hoppy"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_134_Role"
+msgid "Hoppy Hopscotch"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_270_Role"
+msgid "Hoppy Hopscotch"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_323_Role"
+msgid "Hoppy Hopskotch"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_521_TeamName"
+msgid "Human Resources"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_523_Role"
+msgid "Human Resources Intern"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_516_Role"
+msgid "IP Enforcement"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_86_TeamName"
+msgid "IT Support"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_509_Role"
+msgid "International"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_458_Role"
+msgid "Italian (Dialogues and UI)"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_460_Role"
+msgid "Japanese (Dialogues and UI)"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_356_TeamName"
+msgid "Japanese Team"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_359_TeamName"
+msgid "Japanese Voice Cast"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_63_Role"
+msgid "Junior FX Artist"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_10_Role"
+msgid "Junior Game Designer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_95_Role"
+msgid "Junior Optimization Engineer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_44_Role"
+msgid "Junior Technical Animator"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_217_Role"
+msgid "Key Grip"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_135_Role"
+msgid "Kickin Chicken"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_271_Role"
+msgid "Kickin Chicken"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_324_Role"
+msgid "Kickin Chicken"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_421_Role"
+msgid "Kickin Chicken"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_374_Role"
+msgid "KickinChicken"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_290_Role"
+msgid "Kid 1"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_343_Role"
+msgid "Kid 1"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_375_Role"
+msgid "Kid 1"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_422_Role"
+msgid "Kid 1"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_291_Role"
+msgid "Kid 2"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_344_Role"
+msgid "Kid 2"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_376_Role"
+msgid "Kid 2"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_423_Role"
+msgid "Kid 2"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_292_Role"
+msgid "Kid 3"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_345_Role"
+msgid "Kid 3"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_377_Role"
+msgid "Kid 3"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_424_Role"
+msgid "Kid 3"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_204_Role"
+msgid "Kids in Commercial"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_464_Role"
+msgid "Korean (Dialogues and UI)"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_404_TeamName"
+msgid "Korean Team"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_406_TeamName"
+msgid "Korean Voice Cast"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_466_Role"
+msgid "Latin American Spanish (UI Only)"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_26_Role"
+msgid "Lead 2D Artist"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_53_Role"
+msgid "Lead Animator"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_64_Role"
+msgid "Lead Core Engineer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_45_Role"
+msgid "Lead Environment Artist"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_60_Role"
+msgid "Lead FX Artist"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_7_Role"
+msgid "Lead Game Designer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_65_Role"
+msgid "Lead Gameplay Engineer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_11_Role"
+msgid "Lead Level Designer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_87_Role"
+msgid "Lead Porting Engineer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_175_Role"
+msgid "Lead Producer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_79_Role"
+msgid "Lead Technical Artist"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_20_Role"
+msgid "Lead Technical Cinematic Designer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_22_Role"
+msgid "Lead UI/UX Designer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_514_TeamName"
+msgid "Legal Team"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_136_Role"
+msgid "Leith Pierre"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_272_Role"
+msgid "Leith Pierre"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_325_Role"
+msgid "Leith Pierre"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_378_Role"
+msgid "Leith Pierre"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_425_Role"
+msgid "Leith Pierre"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_49_Role"
+msgid "Level Artist"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_11_TeamName"
+msgid "Level Design Team"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_15_Role"
+msgid "Level Designer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_47_Role"
+msgid "Level/Lighting Artist"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_46_Role"
+msgid "Level/Material Artist"
+msgstr ""
+
+msgctxt "DT_CreditsData/Role.LicencingCoordinator"
+msgid "Licensing Coordinator"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_123_Role"
+msgid "Lily Lovebraids"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_260_Role"
+msgid "Lily Lovebraids"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_313_Role"
+msgid "Lily Lovebraids"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_239_SectionTitle"
+msgid "Localization"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_239_TeamName"
+msgid "Localization"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_242_Role"
+msgid "Localization Audio Engineer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_245_Role"
+msgid "Localization Audio Implementation"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_476_Role"
+msgid "Localization Director"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_240_Role"
+msgid "Localization Programmer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_239_Role"
+msgid "Localization Supervisor"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_244_Role"
+msgid "Localization Text Implementation"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_497_TeamName"
+msgid "Marketing"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_507_Role"
+msgid "Marketing Artist"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_503_Role"
+msgid "Marketing Consultant"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_502_Role"
+msgid "Marketing Content Designer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_137_Role"
+msgid "Marketing Junior"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_273_Role"
+msgid "Marketing Junior"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_326_Role"
+msgid "Marketing Junior"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_379_Role"
+msgid "Marketing Junior"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_426_Role"
+msgid "Marketing Junior"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_499_Role"
+msgid "Marketing Manager"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_487_Role"
+msgid "Master Arrenger and Editor"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_138_Role"
+msgid "Megan"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_274_Role"
+msgid "Megan"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_327_Role"
+msgid "Megan"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_380_Role"
+msgid "Megan"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_427_Role"
+msgid "Megan"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_251_Role"
+msgid "Mixer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_527_Role"
+msgid "Mods"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_139_Role"
+msgid "Mom 1"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_275_Role"
+msgid "Mom 1"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_328_Role"
+msgid "Mom 1"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_381_Role"
+msgid "Mom 1"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_428_Role"
+msgid "Mom 1"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_140_Role"
+msgid "Mom 2"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_276_Role"
+msgid "Mom 2"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_329_Role"
+msgid "Mom 2"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_382_Role"
+msgid "Mom 2"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_429_Role"
+msgid "Mom 2"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_141_Role"
+msgid "Mom 3"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_277_Role"
+msgid "Mom 3"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_330_Role"
+msgid "Mom 3"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_383_Role"
+msgid "Mom 3"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_430_Role"
+msgid "Mom 3"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_142_Role"
+msgid "Ms Gracie"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_278_Role"
+msgid "Ms Gracie"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_331_Role"
+msgid "Ms Gracie"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_361_Role"
+msgid "Ms Gracie / Lily Lovebraids"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_408_Role"
+msgid "Ms Gracie / Lily Lovebraids"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_202_Role"
+msgid "Ms. Gracie"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_237_Role"
+msgid "Ms. Gracie Video Animations"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_682_Role"
+msgid "Music"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_105_TeamName"
+msgid "Music Team"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_3_TeamName"
+msgid "Narrative Team"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_143_Role"
+msgid "Oliver"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_279_Role"
+msgid "Oliver"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_332_Role"
+msgid "Oliver"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_384_Role"
+msgid "Ollie"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_431_Role"
+msgid "Ollie"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_493_SectionTitle"
+msgid "Operations and Business Development"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_93_TeamName"
+msgid "Optimization Engineering"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_144_Role"
+msgid "Outimal 1"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_280_Role"
+msgid "Outimal 1"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_333_Role"
+msgid "Outimal 1"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_385_Role"
+msgid "Outimal 1"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_432_Role"
+msgid "Outimal 1"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_145_Role"
+msgid "Outimal 2"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_281_Role"
+msgid "Outimal 2"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_334_Role"
+msgid "Outimal 2"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_386_Role"
+msgid "Outimal 2"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_433_Role"
+msgid "Outimal 2"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_146_Role"
+msgid "Outimal 3"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_282_Role"
+msgid "Outimal 3"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_335_Role"
+msgid "Outimal 3"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_387_Role"
+msgid "Outimal 3"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_434_Role"
+msgid "Outimal 3"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_147_Role"
+msgid "Outimal 4"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_283_Role"
+msgid "Outimal 4"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_336_Role"
+msgid "Outimal 4"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_388_Role"
+msgid "Outimal 4"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_435_Role"
+msgid "Outimal 4"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_148_Role"
+msgid "Outimal 5"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_284_Role"
+msgid "Outimal 5"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_337_Role"
+msgid "Outimal 5"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_389_Role"
+msgid "Outimal 5"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_436_Role"
+msgid "Outimal 5"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_149_Role"
+msgid "Outimal 6"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_285_Role"
+msgid "Outimal 6"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_338_Role"
+msgid "Outimal 6"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_390_Role"
+msgid "Outimal 6"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_437_Role"
+msgid "Outimal 6"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_176_Role"
+msgid "Outsource Manager"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_561_TeamName"
+msgid "Partners in Crime"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_521_Role"
+msgid "People Operations Manager"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_121_Role"
+msgid "Poppy"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_258_Role"
+msgid "Poppy"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_311_Role"
+msgid "Poppy"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_359_Role"
+msgid "Poppy"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_406_Role"
+msgid "Poppy"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_524_TeamName"
+msgid "Poppy Playtime Discord Staff"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_87_SectionTitle"
+msgid "Porting"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_87_TeamName"
+msgid "Porting"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_90_Role"
+msgid "Porting Engineer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_308_TeamName"
+msgid "Portuguese Team"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_37_Role"
+msgid "Principal Character Artist"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_93_Role"
+msgid "Principal Optimization Engineer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_43_Role"
+msgid "Principal Technical Animator"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_81_Role"
+msgid "Procedural Technical Artist"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_83_Role"
+msgid "Procedural Technical Artist"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_177_Role"
+msgid "Producer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_209_Role"
+msgid "Producer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_248_Role"
+msgid "Producer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_174_SectionTitle"
+msgid "Production"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_174_TeamName"
+msgid "Production"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_680_Role"
+msgid "Production"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_230_Role"
+msgid "Production Assistants"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_683_TeamName"
+msgid "Production Babies"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_207_TeamName"
+msgid "Production Crew"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_221_Role"
+msgid "Production Designer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_178_Role"
+msgid "Production Support"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_64_TeamName"
+msgid "Programming Team"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_485_Role"
+msgid "Project Assistant"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_185_Role"
+msgid "Project Manager"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_50_Role"
+msgid "Prop Artist"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_150_Role"
+msgid "Prototype Loyalist"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_286_Role"
+msgid "Prototype Loyalist"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_339_Role"
+msgid "Prototype Loyalist"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_228_Role"
+msgid "Puppeteer & Hand Model"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_180_Role"
+msgid "QA Engineer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_192_Role"
+msgid "QA Lead"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_179_Role"
+msgid "QA Manager"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_182_Role"
+msgid "QA Tester"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_179_SectionTitle"
+msgid "Quality Assurance"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_179_TeamName"
+msgid "Quality Assurance"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_184_TeamName"
+msgid "Quality Assurance - Keywords Studio"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_253_Role"
+msgid "Quality Control"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_92_Role"
+msgid "Release Manager"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_472_Role"
+msgid "Russian (Dialogues and UI)"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_357_Role"
+msgid "Script Adapter"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_405_Role"
+msgid "Script Adapter"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_151_Role"
+msgid "Security Staffer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_287_Role"
+msgid "Security Staffer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_340_Role"
+msgid "Security Staffer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_391_Role"
+msgid "Security Staffer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_438_Role"
+msgid "Security Staffer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_54_Role"
+msgid "Senior Animator"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_38_Role"
+msgid "Senior Character Artist"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_68_Role"
+msgid "Senior Core Programmer"
+msgstr ""
+
+msgctxt "DT_CreditsData/Role.SeniorDevOpsEngineer"
+msgid "Senior DevOps Engineer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_517_Role"
+msgid "Senior Director of Creative Development"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_498_Role"
+msgid "Senior E-Commerce Manager"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_8_Role"
+msgid "Senior Game Designer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_73_Role"
+msgid "Senior Gameplay Programmer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_12_Role"
+msgid "Senior Level Designer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_3_Role"
+msgid "Senior Narrative Director"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_518_Role"
+msgid "Senior Narrative Director"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_88_Role"
+msgid "Senior Porting Engineer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_181_Role"
+msgid "Senior QA Tester"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_35_Role"
+msgid "Senior Storyboard Artist"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_519_Role"
+msgid "Senior Storyboard Artist"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_80_Role"
+msgid "Senior Technical Artist"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_82_Role"
+msgid "Senior Technical Artist"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_89_Role"
+msgid "Senior Technical Level Designer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_85_Role"
+msgid "Senior Tools and Pipeline Engineer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_184_Role"
+msgid "Service Line Manager"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_238_Role"
+msgid "Set Dog"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_468_Role"
+msgid "Simplified Chinese (Dialogues and UI)"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_488_Role"
+msgid "Singer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_235_Role"
+msgid "Sound Designer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_252_Role"
+msgid "Sound Engineer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_481_Role"
+msgid "Sound Engineer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_475_TeamName"
+msgid "Sound In Words"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_220_Role"
+msgid "Sound Mixer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_246_TeamName"
+msgid "Spanish Team"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_258_TeamName"
+msgid "Spanish Voice Cast (LATAM)"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_680_TeamName"
+msgid "Special Contributor"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_524_SectionTitle"
+msgid "Special Thanks"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_515_Role"
+msgid "Sr. Mngr. Legal & Buisness Affairs"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_500_Role"
+msgid "Sr. Social & Growth Marketing Manager"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_256_Role"
+msgid "Studio"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_250_Role"
+msgid "Studio Manager"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_219_Role"
+msgid "Swing"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_86_Role"
+msgid "Systems Administrator"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_118_Role"
+msgid "Talent Coordinator"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_249_Role"
+msgid "Talent Cordinator"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_232_Role"
+msgid "Teacher"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_684_Role"
+msgid "Tech Art"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_43_TeamName"
+msgid "Technical Animation Team"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_79_TeamName"
+msgid "Technical Art Team"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_101_Role"
+msgid "Technical Audio Designer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_21_Role"
+msgid "Technical Cinematic Designer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_76_TeamName"
+msgid "Technical Design Team"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_76_Role"
+msgid "Technical Designer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_85_TeamName"
+msgid "Technical Tools and Pipeline"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_23_Role"
+msgid "Technical UI Designer II"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_214_Role"
+msgid "Teleprompter Operator"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_449_TeamName"
+msgid "Text Localization"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_686_BodyText"
+msgid "Thank you for playing!"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_109_Role"
+msgid "The Hokey Pokey"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_154_Role"
+msgid "The Prototype"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_293_Role"
+msgid "The Prototype"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_346_Role"
+msgid "The Prototype"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_394_Role"
+msgid "The Prototype"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_441_Role"
+msgid "The Prototype"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_152_Role"
+msgid "Todd"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_288_Role"
+msgid "Todd"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_341_Role"
+msgid "Todd"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_392_Role"
+msgid "Todd"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_439_Role"
+msgid "Todd"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_153_Role"
+msgid "Toy"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_289_Role"
+msgid "Toy"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_342_Role"
+msgid "Toy"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_393_Role"
+msgid "Toy"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_440_Role"
+msgid "Toy"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_229_Role"
+msgid "Toy Tech"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_534_Role"
+msgid "Trainees"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_477_Role"
+msgid "Translation Project Manager"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_254_Role"
+msgid "Translator"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_310_Role"
+msgid "Translator"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_24_Role"
+msgid "UI Programmer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_70_Role"
+msgid "UI Programmer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_22_TeamName"
+msgid "User Interface and User Experience"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_685_Role"
+msgid "VFX"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_493_Role"
+msgid "Vice President Game Analytics and Business Intelligence"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_506_Role"
+msgid "Video Producer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_202_SectionTitle"
+msgid "Video Production"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_60_TeamName"
+msgid "Visual Effects Team"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_121_TeamName"
+msgid "Voice Actors"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_111_Role"
+msgid "Voice Direction"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_104_Role"
+msgid "Voice Director"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_246_Role"
+msgid "Voice Director"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_309_Role"
+msgid "Voice Director"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_103_Role"
+msgid "Voice Director, Cast Director and Talent Coordinator"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_356_Role"
+msgid "Voice Over Director"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_404_Role"
+msgid "Voice Over Director"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_308_Role"
+msgid "Voice Over Studio"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_111_TeamName"
+msgid "Voice Over Team"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_226_Role"
+msgid "Wardrobe Assistant"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_225_Role"
+msgid "Wardrobe Stylist"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_208_Role"
+msgid "Writer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_4_Role"
+msgid "Writer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_520_Role"
+msgid "Writer"
+msgstr ""
+
+msgctxt "DT_CreditsData/NewRow_108_Role"
+msgid "Wrongside Outimal Jingle "
+msgstr ""
+
+msgctxt "GameSetting/OnlyPrimaryPlayerEditable"
+msgid "Can only be changed by the primary player."
+msgstr ""
+
+msgctxt "GameSetting/PercentFormat"
+msgid "{0}%"
+msgstr ""
+
+msgctxt "GameSetting/DevDynamicDetailsFormat"
+msgid "{0}{1}"
+msgstr ""
+
+msgctxt "GameSettingValueDiscreteDynamic/OFF"
+msgid "OFF"
+msgstr ""
+
+msgctxt "GameSettingValueDiscreteDynamic/ON"
+msgid "ON"
+msgstr ""
+
+msgctxt "Glowby_Blacklight_Strings/Glowby_Decal_Text_Follow_Me"
+msgid "Follow Me!"
+msgstr ""
+
+msgctxt "Glowby_Blacklight_Strings/Glowby_Decal_Text_Follow_Path"
+msgid "Follow The Path"
+msgstr ""
+
+msgctxt "Glowby_Blacklight_Strings/Glowby_Decal_Text_Green_Light_Go"
+msgid "Green Light GO!!"
+msgstr ""
+
+msgctxt "Glowby_Blacklight_Strings/Glowby_Decal_Text_Here"
+msgid "Here!!"
+msgstr ""
+
+msgctxt "Glowby_Blacklight_Strings/Glowby_Decal_Text_Keep_Going"
+msgid "Keep going"
+msgstr ""
+
+msgctxt "Glowby_Blacklight_Strings/Glowby_Decal_Text_Leave"
+msgid "Leave!!"
+msgstr ""
+
+msgctxt "Glowby_Blacklight_Strings/Glowby_Decal_Text_Listen_For_My_Voice"
+msgid "Listen for my voice"
+msgstr ""
+
+msgctxt "Glowby_Blacklight_Strings/Glowby_Decal_Text_Look"
+msgid "Look"
+msgstr ""
+
+msgctxt "Glowby_Blacklight_Strings/Glowby_Decal_Text_No_Cheating"
+msgid "NO Cheating!!"
+msgstr ""
+
+msgctxt "Glowby_Blacklight_Strings/Glowby_Decal_Text_Red_Light_Stop"
+msgid "Red light (STOP)"
+msgstr ""
+
+msgctxt "Glowby_Blacklight_Strings/Glowby_Decal_Text_Stay_Away"
+msgid "Stay Away!!!"
+msgstr ""
+
+msgctxt "Glowby_Blacklight_Strings/Glowby_Decal_Text_Zeff_Was_Here"
+msgid "ZEFF WAS HERE"
+msgstr ""
+
+msgctxt "Interact/HoverInteractMessage"
+msgid "INTERACT"
+msgstr ""
+
+msgctxt "Messaging/Cancel"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "Messaging/No"
+msgid "No"
+msgstr ""
+
+msgctxt "Messaging/Ok"
+msgid "Ok"
+msgstr ""
+
+msgctxt "Messaging/Yes"
+msgid "Yes"
+msgstr ""
+
+msgctxt "PlaytimeSettings/AspectRatio-10:16"
+msgid "10:16"
+msgstr ""
+
+msgctxt "PlaytimeSettings/AspectRatio-16:10"
+msgid "16:10"
+msgstr ""
+
+msgctxt "PlaytimeSettings/AspectRatio-16:9"
+msgid "16:9"
+msgstr ""
+
+msgctxt "PlaytimeSettings/AspectRatio-3:4"
+msgid "3:4"
+msgstr ""
+
+msgctxt "PlaytimeSettings/AspectRatio-4:3"
+msgid "4:3"
+msgstr ""
+
+msgctxt "PlaytimeSettings/AspectRatio-9:16"
+msgid "9:16"
+msgstr ""
+
+msgctxt "PlaytimeSettings/OverallQuality_Mobile_ImpactsFramerate"
+msgid ""
+"<strong>Note: Changing the Quality setting to {0} or higher might limit your "
+"framerate.</>"
+msgstr ""
+
+msgctxt "PlaytimeSettings/MobileFPSType_Note"
+msgid ""
+"<strong>Note: Changing the framerate setting to {0} or higher might lower "
+"your Quality Presets.</>"
+msgstr ""
+
+msgctxt "PlaytimeSettings/AntiAliasing_TSR_LowVRAM"
+msgid ""
+"<text color=\"#ffff00\">Your system has {0} of video memory. TSR is "
+"recommended for systems with {1} or more and may reduce performance on your "
+"hardware.</>"
+msgstr ""
+
+msgctxt "PlaytimeSettings/TriggerEffects_Name"
+msgid "Adaptive Triggers"
+msgstr ""
+
+msgctxt "PlaytimeSettings/OverallVolume_Description"
+msgid "Adjust audio overall volume."
+msgstr ""
+
+msgctxt "PlaytimeSettings/ToggleVibration_Description"
+msgid "Adjust controller vibration."
+msgstr ""
+
+msgctxt "PlaytimeSettings/ToggleVibration_Description_PS"
+msgid "Adjust controller vibration."
+msgstr ""
+
+msgctxt "PlaytimeSettings/CameraSensitivity_Description"
+msgid "Adjust the camera sensitivity when looking around"
+msgstr ""
+
+msgctxt "PlaytimeSettings/Contrast_Description"
+msgid "Adjust the contrast of the in-game image."
+msgstr ""
+
+msgctxt "PlaytimeSettings/ToggleCrouch_Description"
+msgid "Adjust the crouch control settings."
+msgstr ""
+
+msgctxt "PlaytimeSettings/Brightness_Description"
+msgid "Adjust the gamma of the in-game image."
+msgstr ""
+
+msgctxt "PlaytimeSettings/GyroSensitivity_Description_SW"
+msgid "Adjust the gyro sensitivity when looking around."
+msgstr ""
+
+msgctxt "PlaytimeSettings/FOV_Description"
+msgid "Adjust the height and width of the in-game view."
+msgstr ""
+
+msgctxt "PlaytimeSettings/GyroSensitivity_Description_PS"
+msgid "Adjust the motion sensor function sensitivity when looking around"
+msgstr ""
+
+msgctxt "PlaytimeSettings/GraphicsQualityPresets_Description"
+msgid "Adjust the overall graphics quality."
+msgstr ""
+
+msgctxt "PlaytimeSettings/PostProcessingQuality_Description"
+msgid "Adjust the quality and detail of the post processing effects."
+msgstr ""
+
+msgctxt "PlaytimeSettings/VisualEffectQuality_Description"
+msgid "Adjust the quality of particle effects."
+msgstr ""
+
+msgctxt "PlaytimeSettings/ReflectionQuality_Description"
+msgid "Adjust the quality of reflections."
+msgstr ""
+
+msgctxt "PlaytimeSettings/Shadows_Description"
+msgid "Adjust the quality of shadows."
+msgstr ""
+
+msgctxt "PlaytimeSettings/TextureQuality_Description"
+msgid "Adjust the quality of textures."
+msgstr ""
+
+msgctxt "PlaytimeSettings/AntiAliasingQuality_Description"
+msgid "Adjust the quality of the anti-aliasing."
+msgstr ""
+
+msgctxt "PlaytimeSettings/ResolutionScale_Description"
+msgid ""
+"Adjust the resolution at which the in-game scenes are rendered. Lowering this "
+"setting reduces the rendered resolution and increases performance."
+msgstr ""
+
+msgctxt "PlaytimeSettings/Sharpness_Description"
+msgid ""
+"Adjust the sharpness level. Increasing this setting will sharpen all on-"
+"screen elements."
+msgstr ""
+
+msgctxt "PlaytimeSettings/ToggleSprint_Description"
+msgid "Adjust the sprint control settings."
+msgstr ""
+
+msgctxt "PlaytimeSettings/SubtitleBackgroundOpacity_Description"
+msgid "Adjust the subtitle background visibility."
+msgstr ""
+
+msgctxt "PlaytimeSettings/SubtitleTextSize_Description"
+msgid "Adjust the subtitle font size."
+msgstr ""
+
+msgctxt "PlaytimeSettings/ViewDistance_Description"
+msgid "Adjust the view distance quality."
+msgstr ""
+
+msgctxt "PlaytimeSettings/Saturation_Description"
+msgid "Adjusts the saturation of the in-game image."
+msgstr ""
+
+msgctxt "PlaytimeSettings/AmbientVolume_Description"
+msgid "Adjusts the volume of ambient sounds."
+msgstr ""
+
+msgctxt "PlaytimeSettings/DialogueVolume_Description"
+msgid "Adjusts the volume of dialogue and other vocalizations."
+msgstr ""
+
+msgctxt "PlaytimeSettings/MusicVolume_Description"
+msgid "Adjusts the volume of music."
+msgstr ""
+
+msgctxt "PlaytimeSettings/SoundEffectsVolume_Description"
+msgid "Adjusts the volume of sound effects."
+msgstr ""
+
+msgctxt "PlaytimeSettings/AmbientVolume_Name"
+msgid "Ambient Sounds Volume"
+msgstr ""
+
+msgctxt "PlaytimeSettings/AntiAliasingQuality_Name"
+msgid "Anti-Aliasing Quality"
+msgstr ""
+
+msgctxt "PlaytimeSettings/AntiAliasingType_Name"
+msgid "Anti-Aliasing Type"
+msgstr ""
+
+msgctxt "PlaytimeSettings/AudioCollection_Name"
+msgid "Audio"
+msgstr ""
+
+msgctxt "PlaytimeSettings/AudioLanguageSetting_Name"
+msgid "Audio Language"
+msgstr ""
+
+msgctxt "PlaytimeSettings/AutoSetQuality_Action"
+msgid "Auto-Set"
+msgstr ""
+
+msgctxt "PlaytimeSettings/AutoSetQuality_Name"
+msgid "Auto-Set Quality"
+msgstr ""
+
+msgctxt "PlaytimeSettings/AutoSetQuality_Description"
+msgid ""
+"Automatically configure the graphics quality options based on a benchmark of "
+"the hardware."
+msgstr ""
+
+msgctxt "PlaytimeSettings/Bloom_Name"
+msgid "Bloom"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ButtonIcons_Name"
+msgid "Button Icon Type"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ButtonIcons_Description"
+msgid "Button icons will be changed to the following icon type:"
+msgstr ""
+
+msgctxt "PlaytimeSettings/CameraSensitivity_Name"
+msgid "Camera Sensitivity"
+msgstr ""
+
+msgctxt "PlaytimeSettings/CameraShake_Name"
+msgid "Camera Shake"
+msgstr ""
+
+msgctxt "PlaytimeSettings/Contrast_Name"
+msgid "Contrast"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ControllerCollection_Name"
+msgid "Controller"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ControllerMapping_Name"
+msgid "Controller Mapping"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ControlsCollection_Name"
+msgid "Controls"
+msgstr ""
+
+msgctxt "PlaytimeSettings/VideoQualityOverall_Custom"
+msgid "Custom"
+msgstr ""
+
+msgctxt "PlaytimeSettings/SubtitlePage_Name"
+msgid "Customize Keybinds"
+msgstr ""
+
+msgctxt "PlaytimeSettings/KeybindsPage_Description"
+msgid "Customize your keybinds."
+msgstr ""
+
+msgctxt "PlaytimeSettings/DefaultAudioOutputDevice"
+msgid "Default Output - {0}"
+msgstr ""
+
+msgctxt "PlaytimeSettings/DisplayCollection_Name"
+msgid "Display"
+msgstr ""
+
+msgctxt "PlaytimeSettings/AntiAliasingEpic"
+msgid "Epic"
+msgstr ""
+
+msgctxt "PlaytimeSettings/LensFlareQualityEpic"
+msgid "Epic"
+msgstr ""
+
+msgctxt "PlaytimeSettings/PostProcessingQualityEpic"
+msgid "Epic"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ShadowEpic"
+msgid "Epic"
+msgstr ""
+
+msgctxt "PlaytimeSettings/TextureQualityEpic"
+msgid "Epic"
+msgstr ""
+
+msgctxt "PlaytimeSettings/VideoQualityOverall_Epic"
+msgid "Epic"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ViewDistanceEpic"
+msgid "Epic"
+msgstr ""
+
+msgctxt "PlaytimeSettings/VisualEffectQualityEpic"
+msgid "Epic"
+msgstr ""
+
+msgctxt "PlaytimeSettings/AntiAliasingMethod_FXAA"
+msgid "FXAA"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ViewDistanceFar"
+msgid "Far"
+msgstr ""
+
+msgctxt "PlaytimeSettings/FOV_Name"
+msgid "Field of View"
+msgstr ""
+
+msgctxt "PlaytimeSettings/FilmGrain_Name"
+msgid "Film Grain"
+msgstr ""
+
+msgctxt "PlaytimeSettings/FrameRateCollection_Name"
+msgid "Frame Rate"
+msgstr ""
+
+msgctxt "PlaytimeSettings/FrameRateLimit_Always_Name"
+msgid "Frame Rate Limit"
+msgstr ""
+
+msgctxt "PlaytimeSettings/FrameRateLimit_WhenBackgrounded_Name"
+msgid "Frame Rate Limit (Background)"
+msgstr ""
+
+msgctxt "PlaytimeSettings/FrameRateLimit_InMenu_Name"
+msgid "Frame Rate Limit (Menu)"
+msgstr ""
+
+msgctxt "PlaytimeSettings/FrameRateLimit_OnBattery_Name"
+msgid "Frame Rate Limit (On Battery)"
+msgstr ""
+
+msgctxt "PlaytimeSettings/FrameRateLimit_Always_Description"
+msgid ""
+"Frame rate limit sets the highest frame rate that is allowed. Set this lower "
+"for a more consistent frame rate or higher for the best experience on faster "
+"machines. You may need to disable Vsync to reach high frame rates."
+msgstr ""
+
+msgctxt "PlaytimeSettings/FrameRateLimit_WhenBackgrounded_Description"
+msgid ""
+"Frame rate limit when in the background. Set this lower for a more consistent "
+"frame rate or higher for the best experience on faster machines. You may need "
+"to disable Vsync to reach high frame rates."
+msgstr ""
+
+msgctxt "PlaytimeSettings/FrameRateLimit_InMenu_Description"
+msgid ""
+"Frame rate limit when in the menu. Set this lower for a more consistent frame "
+"rate or higher for the best experience on faster machines. You may need to "
+"disable Vsync to reach high frame rates."
+msgstr ""
+
+msgctxt "PlaytimeSettings/FrameRateLimit_OnBattery_Description"
+msgid ""
+"Frame rate limit when running on battery. Set this lower for a more "
+"consistent frame rate or higher for the best experience on faster machines. "
+"You may need to disable Vsync to reach high frame rates."
+msgstr ""
+
+msgctxt "PlaytimeSettings/WindowModeFullscreen"
+msgid "Fullscreen"
+msgstr ""
+
+msgctxt "PlaytimeSettings/GameLanguageSetting_Name"
+msgid "Game Language"
+msgstr ""
+
+msgctxt "PlaytimeSettings/Gamma_Name"
+msgid "Gamma"
+msgstr ""
+
+msgctxt "PlaytimeSettings/GlobalIlluminationQuality_Name"
+msgid "Global Illumination"
+msgstr ""
+
+msgctxt "PlaytimeSettings/GlobalIlluminationQuality_Description"
+msgid ""
+"Global Illumination controls the quality of dynamically calculated indirect "
+"lighting bounces, sky shadowing and Ambient Occlusion. Settings of 'High' and "
+"above use more accurate ray tracing methods to solve lighting, but can reduce "
+"performance."
+msgstr ""
+
+msgctxt "PlaytimeSettings/PerfStatDisplayMode_GraphOnly"
+msgid "Graph Only"
+msgstr ""
+
+msgctxt "PlaytimeSettings/GraphicsCollection_Name"
+msgid "Graphics"
+msgstr ""
+
+msgctxt "PlaytimeSettings/GraphicsQualityPresets_Name"
+msgid "Graphics Quality"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ToggleGyro_Name_SW"
+msgid "Gyroscope"
+msgstr ""
+
+msgctxt "PlaytimeSettings/GyroSensitivity_Name_SW"
+msgid "Gyroscope Sensitivity"
+msgstr ""
+
+msgctxt "PlaytimeSettings/AntiAliasingHigh"
+msgid "High"
+msgstr ""
+
+msgctxt "PlaytimeSettings/LensFlareQualityHigh"
+msgid "High"
+msgstr ""
+
+msgctxt "PlaytimeSettings/PostProcessingQualityHigh"
+msgid "High"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ShadowHigh"
+msgid "High"
+msgstr ""
+
+msgctxt "PlaytimeSettings/TextureQualityHigh"
+msgid "High"
+msgstr ""
+
+msgctxt "PlaytimeSettings/VideoQualityOverall_High"
+msgid "High"
+msgstr ""
+
+msgctxt "PlaytimeSettings/VisualEffectQualityHigh"
+msgid "High"
+msgstr ""
+
+msgctxt "PlaytimeSettings/InvertLookX_Name"
+msgid "Invert Look X"
+msgstr ""
+
+msgctxt "PlaytimeSettings/InvertLookY_Name"
+msgid "Invert Look Y"
+msgstr ""
+
+msgctxt "PlaytimeSettings/InvertLookX_Description"
+msgid "Invert the horizontal axis controls"
+msgstr ""
+
+msgctxt "PlaytimeSettings/InvertLookY_Description"
+msgid "Invert the vertical axis controls"
+msgstr ""
+
+msgctxt "PlaytimeSettings/KeybindsCollection_Name"
+msgid "Keybinds"
+msgstr ""
+
+msgctxt "PlaytimeSettings/LanguageCollection_Name"
+msgid "Language"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ESubtitleTextSize_Large"
+msgid "Large"
+msgstr ""
+
+msgctxt "PlaytimeSettings/LensFlareQuality_Name"
+msgid "Lens Flares"
+msgstr ""
+
+msgctxt "PlaytimeSettings/LensFlareQuality_Description"
+msgid ""
+"Lens Flares are the bright streaks of light that appear when looking at a "
+"bright light source. Increasing this setting will make lens flares more "
+"detailed, but can reduce performance."
+msgstr ""
+
+msgctxt "PlaytimeSettings/PostProcessingQualityLow"
+msgid "Low"
+msgstr ""
+
+msgctxt "PlaytimeSettings/TextureQualityLow"
+msgid "Low"
+msgstr ""
+
+msgctxt "PlaytimeSettings/VideoQualityOverall_Low"
+msgid "Low"
+msgstr ""
+
+msgctxt "PlaytimeSettings/VisualEffectQualityLow"
+msgid "Low"
+msgstr ""
+
+msgctxt "PlaytimeSettings/AntiAliasingMedium"
+msgid "Medium"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ESubtitleTextSize_Medium"
+msgid "Medium"
+msgstr ""
+
+msgctxt "PlaytimeSettings/LensFlareQualityMedium"
+msgid "Medium"
+msgstr ""
+
+msgctxt "PlaytimeSettings/PostProcessingQualityMedium"
+msgid "Medium"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ShadowMedium"
+msgid "Medium"
+msgstr ""
+
+msgctxt "PlaytimeSettings/TextureQualityMedium"
+msgid "Medium"
+msgstr ""
+
+msgctxt "PlaytimeSettings/VideoQualityOverall_Medium"
+msgid "Medium"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ViewDistanceMedium"
+msgid "Medium"
+msgstr ""
+
+msgctxt "PlaytimeSettings/VisualEffectQualityMedium"
+msgid "Medium"
+msgstr ""
+
+msgctxt "PlaytimeSettings/MotionBlur_Name"
+msgid "Motion Blur"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ToggleGyro_Name_PS"
+msgid "Motion Sensor Function"
+msgstr ""
+
+msgctxt "PlaytimeSettings/GyroSensitivity_Name_PS"
+msgid "Motion Sensor Function Sensitivity"
+msgstr ""
+
+msgctxt "PlaytimeSettings/MouseAndKeyboardCollection_Name"
+msgid "Mouse And Keyboard"
+msgstr ""
+
+msgctxt "PlaytimeSettings/MusicVolume_Name"
+msgid "Music Volume"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ViewDistanceNear"
+msgid "Near"
+msgstr ""
+
+msgctxt "PlaytimeSettings/AntiAliasingMethod_None"
+msgid "None"
+msgstr ""
+
+msgctxt "PlaytimeSettings/PerfStatDisplayMode_None"
+msgid "None"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ObjectiveCollection_Name"
+msgid "Objectives"
+msgstr ""
+
+msgctxt "PlaytimeSettings/Objectives_Name"
+msgid "Objectives"
+msgstr ""
+
+msgctxt "PlaytimeSettings/AntiAliasingLow"
+msgid "Off"
+msgstr ""
+
+msgctxt "PlaytimeSettings/LensFlareQualityLow"
+msgid "Off"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ShadowLow"
+msgid "Off"
+msgstr ""
+
+msgctxt "PlaytimeSettings/TelemetryOptOut_Description"
+msgid "Opt in or Out from collecting and processing player data."
+msgstr ""
+
+msgctxt "PlaytimeSettings/ControllerMapping_Description"
+msgid "Optimized control type."
+msgstr ""
+
+msgctxt "PlaytimeSettings/KeybindsPage_Navigation"
+msgid "Options"
+msgstr ""
+
+msgctxt "PlaytimeSettings/OverallVolume_Name"
+msgid "Overall Volume"
+msgstr ""
+
+msgctxt "PlaytimeSettings/PostProcessingQuality_Name"
+msgid "Post-Processing Quality"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ReflectionQuality_Name"
+msgid "Reflection Quality"
+msgstr ""
+
+msgctxt "PlaytimeSettings/Resolution_Name"
+msgid "Resolution"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ResolutionScale_Name"
+msgid "Resolution Scale"
+msgstr ""
+
+msgctxt "PlaytimeSettings/SafeZoneValue_Name"
+msgid "Safe Zone Value"
+msgstr ""
+
+msgctxt "PlaytimeSettings/Saturation_Name"
+msgid "Saturation"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ScreenMode_Name"
+msgid "Screen Mode"
+msgstr ""
+
+msgctxt "PlaytimeSettings/Resolution_Description"
+msgid "Select a display resolution."
+msgstr ""
+
+msgctxt "PlaytimeSettings/AntiAliasingType_Description"
+msgid "Select the anti-aliasing type."
+msgstr ""
+
+msgctxt "PlaytimeSettings/Bloom_Description"
+msgid "Select whether to enable the bloom effect."
+msgstr ""
+
+msgctxt "PlaytimeSettings/CameraShake_Description"
+msgid "Select whether to enable the camera shake effect."
+msgstr ""
+
+msgctxt "PlaytimeSettings/FilmGrain_Description"
+msgid "Select whether to enable the film grain effect."
+msgstr ""
+
+msgctxt "PlaytimeSettings/MotionBlur_Description"
+msgid "Select whether to enable the motion blur effect."
+msgstr ""
+
+msgctxt "PlaytimeSettings/Vignette_Description"
+msgid "Select whether to enable the vignette effect."
+msgstr ""
+
+msgctxt "PlaytimeSettings/ScreenMode_Description"
+msgid "Select whether to run the game in full-screen or windowed mode."
+msgstr ""
+
+msgctxt "PlaytimeSettings/Objectives_Description"
+msgid "Select whether to show Objectives UI."
+msgstr ""
+
+msgctxt "PlaytimeSettings/Tutorials_Description"
+msgid "Select whether to show Tutorials UI."
+msgstr ""
+
+msgctxt "PlaytimeSettings/Subtitles_Description"
+msgid "Select whether to show subtitles."
+msgstr ""
+
+msgctxt "PlaytimeSettings/ShowFPS_Description"
+msgid "Select whether to show the in-game FPS counter."
+msgstr ""
+
+msgctxt "PlaytimeSettings/VerticalSync_Description"
+msgid ""
+"Select whether to sync the game's frame rate to the refresh rate of the "
+"monitor."
+msgstr ""
+
+msgctxt "PlaytimeSettings/AudioLanguageSetting_Description"
+msgid "Set the language for all of the in-game audio."
+msgstr ""
+
+msgctxt "PlaytimeSettings/GameLanguageSetting_Description"
+msgid "Set the language for all of the in-game text."
+msgstr ""
+
+msgctxt "PlaytimeSettings/Shadows_Name"
+msgid "Shadow Quality"
+msgstr ""
+
+msgctxt "PlaytimeSettings/Sharpness_Name"
+msgid "Sharpness"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ShowFPS_Name"
+msgid "Show FPS"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ESubtitleTextSize_Small"
+msgid "Small"
+msgstr ""
+
+msgctxt "PlaytimeSettings/SoundEffectsVolume_Name"
+msgid "Sound Effects Volume"
+msgstr ""
+
+msgctxt "PlaytimeSettings/SubtitleBackground_Name"
+msgid "Subtitle Background Opacity"
+msgstr ""
+
+msgctxt "PlaytimeSettings/SubtitleTextSize_Name"
+msgid "Subtitle Size"
+msgstr ""
+
+msgctxt "PlaytimeSettings/SubtitlesCollection_Name"
+msgid "Subtitles"
+msgstr ""
+
+msgctxt "PlaytimeSettings/Subtitles_Name"
+msgid "Subtitles"
+msgstr ""
+
+msgctxt "PlaytimeSettings/SystemDefaultAudioLanguage"
+msgid "System Default ({0})"
+msgstr ""
+
+msgctxt "PlaytimeSettings/SystemDefaultLanguage"
+msgid "System Default ({0})"
+msgstr ""
+
+msgctxt "PlaytimeSettings/AntiAliasingMethod_TAA"
+msgid "TAA"
+msgstr ""
+
+msgctxt "PlaytimeSettings/AntiAliasingMethod_TSR"
+msgid "TSR"
+msgstr ""
+
+msgctxt "PlaytimeSettings/TelemetryOptOut_Name"
+msgid "Telemetry Opt Out"
+msgstr ""
+
+msgctxt "PlaytimeSettings/PerfStatDisplayMode_TextOnly"
+msgid "Text Only"
+msgstr ""
+
+msgctxt "PlaytimeSettings/PerfStatDisplayMode_TextAndGraph"
+msgid "Text and Graph"
+msgstr ""
+
+msgctxt "PlaytimeSettings/TextureQuality_Name"
+msgid "Texture Quality"
+msgstr ""
+
+msgctxt "PlaytimeSettings/SafeZoneValue_Description"
+msgid "The safezone area percentage."
+msgstr ""
+
+msgctxt "PlaytimeSettings/FullscreenNeededForVSync"
+msgid "This feature only works if 'Window Mode' is set to 'Fullscreen'."
+msgstr ""
+
+msgctxt "PlaytimeSettings/ToggleCrouch_Name"
+msgid "Toggle Crouch"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ToggleSprint_Name"
+msgid "Toggle Sprint"
+msgstr ""
+
+msgctxt "PlaytimeSettings/TriggerEffects_Description"
+msgid "Toggles adaptive trigger effects."
+msgstr ""
+
+msgctxt "PlaytimeSettings/ToggleGyro_Description_SW"
+msgid "Toggles gyroscope aiming."
+msgstr ""
+
+msgctxt "PlaytimeSettings/ToggleGyro_Description_PS"
+msgid "Toggles motion sensor function aiming"
+msgstr ""
+
+msgctxt "PlaytimeSettings/TutorialCollection_Name"
+msgid "Tutorials"
+msgstr ""
+
+msgctxt "PlaytimeSettings/Tutorials_Name"
+msgid "Tutorials"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ButtonIcons_TypeA"
+msgid "Type A"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ButtonIcons_TypeB"
+msgid "Type B"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ButtonIcons_TypeC"
+msgid "Type C"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ButtonIcons_TypeD"
+msgid "Type D"
+msgstr ""
+
+msgctxt "PlaytimeSettings/PPErrors_UnknownMappingName"
+msgid "Unknown Mapping"
+msgstr ""
+
+msgctxt "PlaytimeSettings/UnlimitedFPS"
+msgid "Unlimited"
+msgstr ""
+
+msgctxt "PlaytimeSettings/UserTelemetryCollection_Name"
+msgid "User Telemetry"
+msgstr ""
+
+msgctxt "PlaytimeSettings/VisualEffectQuality_Name"
+msgid "VFX Quality"
+msgstr ""
+
+msgctxt "PlaytimeSettings/VerticalSync_Name"
+msgid "Vertical Sync"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ToggleVibration_Name"
+msgid "Vibration"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ToggleVibration_Name_PS"
+msgid "Vibration"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ViewDistance_Name"
+msgid "View Distance Quality"
+msgstr ""
+
+msgctxt "PlaytimeSettings/Vignette_Name"
+msgid "Vignette"
+msgstr ""
+
+msgctxt "PlaytimeSettings/DialogueVolume_Name"
+msgid "Voice Volume"
+msgstr ""
+
+msgctxt "PlaytimeSettings/ResolutionWindowedFullscreen_Disabled"
+msgid ""
+"When the Window Mode is set to <strong>Windowed Fullscreen</>, the resolution "
+"must match the native desktop resolution."
+msgstr ""
+
+msgctxt "PlaytimeSettings/WindowModeWindowed"
+msgid "Windowed"
+msgstr ""
+
+msgctxt "PlaytimeSettings/WindowModeWindowedFullscreen"
+msgid "Windowed Fullscreen"
+msgstr ""
+
+msgctxt "PlaytimeSettings/FPSFormat"
+msgid "{0} FPS"
+msgstr ""
+
+msgctxt "PlaytimeSettings/MobileFrameRateOption"
+msgid "{0} FPS"
+msgstr ""
+
+msgctxt "PlaytimeSettings/FOVFormat"
+msgid "{0}°"
+msgstr ""
+
+msgctxt "PlaytimeSettings/KeyAlreadyAssignedTitle"
+msgid "{InKey} Already Assigned"
+msgstr ""
+
+msgctxt "PlaytimeSettings/KeyAlreadyAssignedMessage"
+msgid ""
+"{InKey} is already assigned to {ActionNames}.\n"
+"Assign {InKey} to {CurrentAction} instead?"
+msgstr ""
+
+msgctxt "PlaytimeSettings/AspectRatio"
+msgid "{X} x {Y}"
+msgstr ""
+
+msgctxt "PoppySettings/SystemDefaultLanguage"
+msgid "System Default ({0})"
+msgstr ""
+
+msgctxt "PPInputSettings/PPInputDefaults"
+msgid "Keybinds"
+msgstr ""
